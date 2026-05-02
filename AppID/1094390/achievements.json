@@ -1,0 +1,96 @@
+{
+  "ARMOR_CATCHER": {
+    "earned": true,
+    "earned_time": 1745510927
+  },
+  "BREW_ALL_SPELLS": {
+    "earned": true,
+    "earned_time": 1745497970
+  },
+  "BREW_HALF_SPELLS": {
+    "earned": true,
+    "earned_time": 1745497042
+  },
+  "COMPLETE_RUINS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CROSSBOW_GAME_NO_MISS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEAT_FORTRESS_ENEMIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DRINK_ALL_POTIONS": {
+    "earned": true,
+    "earned_time": 1745509035
+  },
+  "ELECTRIFIED_SKULLY": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 0
+  },
+  "FIND_FIVE_WHISPERING_ARTIFACTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIND_TEN_WHISPERING_ARTIFACTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_10_FORTRESS_LEVELS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_25_FORTRESS_LEVELS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_ALL_FORTRESS_LEVELS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_SCAVENGER_HUNT": {
+    "earned": true,
+    "earned_time": 1745511106
+  },
+  "FRUIT_CANNON_NO_MISS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TELEPORT_ELEVATED": {
+    "earned": true,
+    "earned_time": 1745498094
+  },
+  "TELEPORT_HALLWAY": {
+    "earned": true,
+    "earned_time": 1745498187
+  },
+  "TELEPORT_SECRET": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TELEPORT_TRIAL": {
+    "earned": true,
+    "earned_time": 1745498423
+  },
+  "THROW_SKULLY_OUT_WINDOW": {
+    "earned": true,
+    "earned_time": 1745496325
+  },
+  "USE_ALL_NM_POWERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "USE_ALL_VOICE_COMMANDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "USE_CO_OP_MODE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
