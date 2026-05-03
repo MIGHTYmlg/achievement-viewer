@@ -8,7 +8,6 @@ from bs4 import BeautifulSoup
 import subprocess
 import re
 import asyncio
-import configparser
 from playwright.async_api import async_playwright
 import hashlib
 
@@ -31,6 +30,7 @@ print(f"Using fallback icon URL: {FALLBACK_ICON_URL}")
 appid_dir = Path("AppID")
 game_data_path = Path("game-data.json")
 top_owners_file = Path("top_owners.json")
+TOP_OWNER_LIMIT = 250
 
 DEFAULT_OWNERS = [
     76561198028121353,
@@ -83,15 +83,10 @@ async def fetch_steamhunters_achievements(appid):
         )
         page = await context.new_page()
         try:
-            await page.goto(url, timeout=30000)
-            try:
-                await page.wait_for_function(
-                    """() => Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh'));""",
-                    timeout=20000
-                )
-            except Exception:
-                print(f"    ✗ SteamHunters blocked or timed out for {appid}, skipping")
-                return []
+            await page.goto(url, timeout=15000)
+            await page.wait_for_function(
+                """() => Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh'));"""
+            )
             await page.evaluate(
                 """() => { const scripts = Array.from(document.querySelectorAll('script')); const target = scripts.find(s => s.textContent.includes('var sh')); eval(target.textContent); }"""
             )
@@ -268,65 +263,11 @@ def get_text(elem):
     return elem.text if elem is not None and elem.text else ""
 
 
-def parse_achievements_ini_lowercase(file_path):
-    """
-    Parse lowercase achievements.ini (GoldBerg / CreamAPI style).
-    Each section is an achievement API name with Achieved/CurProgress/MaxProgress/UnlockTime keys.
-    Ignores the [SteamAchievements] index section.
-
-    Example:
-        [BossDefeated_Nephro]
-        Achieved=1
-        UnlockTime=1772575924
-    """
-    parser = configparser.RawConfigParser()
-    parser.optionxform = str  # preserve original casing of keys
-    parser.read(file_path, encoding="utf-8")
-    result = {}
-    for section in parser.sections():
-        if section.lower() == "steamachievements":
-            continue
-        achieved_val = parser.get(section, "Achieved", fallback="0")
-        unlock_time  = parser.getint(section, "UnlockTime", fallback=0)
-        result[section] = {
-            "earned": achieved_val.strip() in ("1", "true", "True"),
-            "earned_time": unlock_time,
-        }
-    return result
-
-
-def parse_achievements_ini_uppercase(file_path):
-    """
-    Parse uppercase Achievements.ini (CODEX / ALI213 style).
-    Each section is an achievement API name with achieved/timestamp keys.
-
-    Example:
-        [Defeat_Mantis]
-        achieved=true
-        timestamp=1773228654
-    """
-    parser = configparser.RawConfigParser()
-    parser.optionxform = str
-    parser.read(file_path, encoding="utf-8")
-    result = {}
-    for section in parser.sections():
-        achieved_val = parser.get(section, "achieved", fallback="false")
-        timestamp    = parser.getint(section, "timestamp", fallback=0)
-        result[section] = {
-            "earned": achieved_val.strip().lower() in ("1", "true"),
-            "earned_time": timestamp,
-        }
-    return result
-
-
 def load_achievements_file(folder):
     appid = folder.name
-    json_file        = folder / "achievements.json"
-    db_file          = folder / f"{appid}.db"
-    ini_lower_file   = folder / "achievements.ini"    # GoldBerg/CreamAPI
-    ini_upper_file   = folder / "Achievements.ini"    # CODEX/ALI213
+    json_file = folder / "achievements.json"
+    db_file = folder / f"{appid}.db"
 
-    # --- JSON / DB (existing behaviour) ---
     for file_path in [json_file, db_file]:
         if file_path.exists():
             try:
@@ -345,27 +286,6 @@ def load_achievements_file(folder):
                     return converted, file_path.name
             except Exception as e:
                 print(f"Error processing {file_path}: {e}")
-
-    # --- achievements.ini (GoldBerg / CreamAPI, lowercase filename) ---
-    if ini_lower_file.exists():
-        try:
-            data = parse_achievements_ini_lowercase(ini_lower_file)
-            if data:
-                print(f"  ✓ Loaded {len(data)} achievements from achievements.ini (GoldBerg/CreamAPI)")
-                return data, ini_lower_file.name
-        except Exception as e:
-            print(f"Error processing {ini_lower_file}: {e}")
-
-    # --- Achievements.ini (CODEX / ALI213, uppercase filename) ---
-    if ini_upper_file.exists():
-        try:
-            data = parse_achievements_ini_uppercase(ini_upper_file)
-            if data:
-                print(f"  ✓ Loaded {len(data)} achievements from Achievements.ini (CODEX/ALI213)")
-                return data, ini_upper_file.name
-        except Exception as e:
-            print(f"Error processing {ini_upper_file}: {e}")
-
     return None, None
 
 
@@ -454,6 +374,7 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
     # ALWAYS fetch from SteamHunters to get Group Data (if possible)
     # Even if we have an API key, the API key doesn't give us Groups/DLCs
+    sh_data = []
     steamhunters_data = {}
     try:
         print("  → Fetching extra data (groups) from SteamHunters...")
@@ -464,11 +385,41 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
         print(f"  ⚠ Could not fetch SteamHunters data: {e}")
 
     try:
-        # Primary source: SteamHunters (no API key required)
-        # Steam API key support removed — SteamHunters provides names, icons, and group data
-        achievements = sh_data if sh_data else []
+        # 1. Prefer Steam API if Key exists
+        if STEAM_API_KEY:
+            response = requests.get(
+                f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
+                timeout=10,
+            )
+            if response.ok:
+                achievements = (
+                    response.json()
+                    .get("game", {})
+                    .get("availableGameStats", {})
+                    .get("achievements", [])
+                )
+            else:
+                # Fallback to SH data if API fails
+                achievements = sh_data
+        else:
+            # No API Key -> Use SteamHunters data
+            achievements = sh_data
+
+        if not achievements and achievements_from_xml:
+            print("  → Falling back to community XML achievements")
+            achievements = [
+                {
+                    "name": api_name,
+                    "displayName": xml_achievement["name"],
+                    "description": xml_achievement.get("description", ""),
+                    "icon": xml_achievement.get("icon", ""),
+                    "icongray": xml_achievement.get("icongray", ""),
+                    "hidden": 0,
+                }
+                for api_name, xml_achievement in achievements_from_xml.items()
+            ]
         
-        # Fix icons for ALL achievements
+        # Fix icons for ALL achievements (both from API and SteamHunters)
         try:
             for ach in achievements:
                 # Safely handle icon
@@ -614,8 +565,7 @@ for appid in appids:
         "achievements": {},
         "platform": current_platform,
         "blacklist": current_blacklist,
-        "uses_db": (base_path / f"{appid}.db").exists(),
-        "uses_ini": (base_path / "achievements.ini").exists() or (base_path / "Achievements.ini").exists(),
+        "uses_db": (base_path / f"{appid}.db").exists()
     }
 
     # --- Fetch data --- #
@@ -660,7 +610,7 @@ for appid in appids:
             f"  → Found {len(hidden_achievements)} hidden achievements without descriptions"
         )
         descriptions_found = 0
-        for steam_id in TOP_OWNER_IDS[:32]:
+        for steam_id in TOP_OWNER_IDS[:TOP_OWNER_LIMIT]:
             scraped = scrape_hidden_achievements(appid, steam_id, achievement_names_map)
             for api_name, data in scraped.items():
                 if (
