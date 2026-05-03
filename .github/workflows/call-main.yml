@@ -8,8 +8,6 @@ on:
       - 'AppID/**/achievements.json'
       - 'AppID/**/*.db'
       - 'AppID/**/*.platform'
-      - 'AppID/**/achievements.ini'
-      - 'AppID/**/Achievements.ini'
 
 permissions:
   contents: write
