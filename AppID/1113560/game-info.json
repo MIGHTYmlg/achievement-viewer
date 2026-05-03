@@ -1,0 +1,433 @@
+{
+  "appid": "1113560",
+  "name": "NieR Replicant™ ver.1.22474487139...",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113560/header.jpg?t=1773365156",
+  "achievements": {
+    "ACHIEVEMENT_0000": {
+      "name": "The Final Verse",
+      "description": "Congratulations! Thank you for playing!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/a9369e5eddeb1486ffd849aa3820607353ddbc23.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACHIEVEMENT_0010": {
+      "name": "The Book of Legend",
+      "description": "Grimoire Weiss joined your party.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/6d11bfa34275061352048988a9202c3194259851.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "80.3"
+    },
+    "ACHIEVEMENT_0020": {
+      "name": "The Wild Companion",
+      "description": "Kainé joined your party.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/8ac7d0d717ccda449162f94f81054073e9679fc5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.4"
+    },
+    "ACHIEVEMENT_0030": {
+      "name": "The Mellow Companion",
+      "description": "Emil joined your party.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/1981aa8fe7fb43d11720331503fa3c9028f0e18a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.4"
+    },
+    "ACHIEVEMENT_0040": {
+      "name": "Release",
+      "description": "You freed Kainé from her petrification.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/88d76547290c9c200536cbb1a48d255303010a5b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.9"
+    },
+    "ACHIEVEMENT_0050": {
+      "name": "Gratitude",
+      "description": "You gave Louise's letter to the postman.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/d9b8fd4cc2e4fc270edf18b177729b07e8a32cc9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "ACHIEVEMENT_0060": {
+      "name": "Key Collector",
+      "description": "You completed the key to the Shadowlord's castle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/6629579d96114c2a268898911634495f8235ce08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "ACHIEVEMENT_0070": {
+      "name": "A World in Flux",
+      "description": "You defeated the Shadowlord.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/4b3b4bcf8267f93bb73600cc688323c2c910e0b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "ACHIEVEMENT_0080": {
+      "name": "Combo Fanatic",
+      "description": "You pulled off a 50-hit combo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/d19d83d2254a60554435a1e1d99896e96bdf64d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.8"
+    },
+    "ACHIEVEMENT_0090": {
+      "name": "Combo Master",
+      "description": "You pulled off a 100-hit combo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/d62e08ce00fd14c0fb72acebdfb09c838803a102.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "ACHIEVEMENT_0100": {
+      "name": "The Magic Man",
+      "description": "You learned every type of magic.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/2d7124c94623283b25cd1889cc6599d23b8cab5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.4"
+    },
+    "ACHIEVEMENT_0110": {
+      "name": "Wordsmith",
+      "description": "You collected 50 percent of all words.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/8a8b550048c266f8132d1d6c36967f2dee42a0ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "ACHIEVEMENT_0120": {
+      "name": "Weapons Collector",
+      "description": "You found every weapon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/36b528043b6af91f11116aeed684d950722f1d60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.7"
+    },
+    "ACHIEVEMENT_0130": {
+      "name": "Village Handyman",
+      "description": "You completed 10 quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/93856660d44eccb4edc0ebbb9d63a5445e688528.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "ACHIEVEMENT_0140": {
+      "name": "Jack of All Trades",
+      "description": "You completed 20 quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/ca294c1039d08d7c72682ca2a8dd88bca4a48cf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "ACHIEVEMENT_0150": {
+      "name": "Go-To Guy",
+      "description": "You completed 30 quests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/ca294c1039d08d7c72682ca2a8dd88bca4a48cf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.2"
+    },
+    "ACHIEVEMENT_0160": {
+      "name": "Dear Diary",
+      "description": "You completed the \"Recycled World\" quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/676d5f5e2cd45a24738dc6078031f14d56ed923e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "ACHIEVEMENT_0170": {
+      "name": "Man of Means",
+      "description": "You accumulated 1,000,000 pieces of gold.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/d7fb76788b77cd73639cefd292567e596ecc912a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "ACHIEVEMENT_0180": {
+      "name": "Educated Warrior",
+      "description": "You read all novel segments about your friends' pasts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/d59ca2f03b4015bc9b6134d921262f8768f843f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "ACHIEVEMENT_0190": {
+      "name": "Call Her Back",
+      "description": "You viewed the first ending (Ending A).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/cfbbf964649924e25af995c47f9207e6bdb0e82a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.7"
+    },
+    "ACHIEVEMENT_0200": {
+      "name": "Lingering Memories",
+      "description": "You viewed the second ending (Ending B).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/7f65bb588647210451d003101fb6ce7ca335fb92.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "ACHIEVEMENT_0210": {
+      "name": "Thank You",
+      "description": "You viewed the third ending (Ending C).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/acd8fa3e92c01655b9dfeb91ea13b7c997df3825.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "ACHIEVEMENT_0220": {
+      "name": "Something Very Special",
+      "description": "You viewed the fourth ending (Ending D).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/5bc97058ccbe271edd966ca6ee9d0f4aefc0307b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "ACHIEVEMENT_0230": {
+      "name": "e8 a8 98 e6 86 b6 e3 82 b5 e3 83 bc e3 83 90 e3 83 bc",
+      "description": "e3 83 92 e3 82 ab e3 83 aa e3 82 ac e3 83 9f e3 82 a8 e3 83 ab",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/d556f212037cb9645aa17c87c1a01a34ccacfaa5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "ACHIEVEMENT_0240": {
+      "name": "Legendary Gardener",
+      "description": "You successfully cultivated the legendary flower.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/636ac036eb45750ac6d125ea8d6936ed1130266d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ACHIEVEMENT_0250": {
+      "name": "Fish of Legend",
+      "description": "You caught a rhizodont.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/b5e054f5234a31c7bbc3b458c0f3ae5289069b81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACHIEVEMENT_0260": {
+      "name": "A Round by the Pond",
+      "description": "You caught one of every type of fish.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/c67e64eb2e069c0b115a5feea3cb02451df4f11a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ACHIEVEMENT_0270": {
+      "name": "Material Hunter",
+      "description": "You collected 50 types of raw materials.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/c0d448fc0d573abb796053bf7f2b12eb0b6f4c32.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "ACHIEVEMENT_0280": {
+      "name": "Upgrade Apprentice",
+      "description": "You upgraded 5 weapons to their maximum level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/369a20404467230c20b158f7a3dd77699be9effd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "ACHIEVEMENT_0290": {
+      "name": "Reform Specialist",
+      "description": "You upgraded 15 weapons to their maximum level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/3abb815e20d23a97e80b2a10742cc3afd38e53cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACHIEVEMENT_0300": {
+      "name": "Forging Master",
+      "description": "You upgraded 33 weapons to their maximum level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/ef2b7d68560bcfb3d32347e8884a0b736be4750b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACHIEVEMENT_0310": {
+      "name": "All Aboared!",
+      "description": "You rode a boar for at least five minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/669fb049d3b0d0ac200125736144e4e274c7620e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACHIEVEMENT_0320": {
+      "name": "The Sheep Whisperer",
+      "description": "You killed 100 sheep.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/3c40216c95eb8d9acdb90435760c921dc6bd3954.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACHIEVEMENT_0330": {
+      "name": "Lightspeed Fighter",
+      "description": "You completed the game within fifteen hours.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/f61dd8bd207e6a897ca5fa0297dbfbab0ff51103.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACHIEVEMENT_0340": {
+      "name": "King of the Lost Shrine",
+      "description": "You defeated Gretel within three minutes and twenty seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/70883d0681b1993aa430bbcd8f9d4241f637b3ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "ACHIEVEMENT_0350": {
+      "name": "A True Friend",
+      "description": "You stopped the berserk Kainé within one minute.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/0b7d266b6959f86fa40ce0108cda8d7c7df207f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "ACHIEVEMENT_0360": {
+      "name": "Boss of the Junk Heap",
+      "description": "You defeated P-33 within four and a half minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/602644eaf05ce46aa16b2d58299210d68e114d92.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ACHIEVEMENT_0370": {
+      "name": "Scourge of The Aerie",
+      "description": "You defeated Wendy within eight and a half minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/0ef270a84980596473ae130aee58f8275ee15ef2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ACHIEVEMENT_0380": {
+      "name": "Protector of Facade",
+      "description": "You defeated Roc within three and a half minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/d9e9a588af83858f08ad062bba1d2148e23fdcde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.2"
+    },
+    "ACHIEVEMENT_0390": {
+      "name": "The Little Mermaid",
+      "description": "You defeated Louise within five minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/0c6faf92c5cdfb91223238bfd12a0829bd8b13a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "ACHIEVEMENT_0400": {
+      "name": "Permission Granted",
+      "description": "You drove off Devola and Popola within three minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/52b749ff62320430f2440c7dff89898e9fae3473.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "ACHIEVEMENT_0410": {
+      "name": "A Dirge for the Hero",
+      "description": "You defeated Goose within two minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/c33b07dfe29428d7caab6a1f7c6a13c49e539ceb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACHIEVEMENT_0420": {
+      "name": "Soul Crusher",
+      "description": "You defeated Devola and Popola within three and a half minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/f80e7782c38c6657bb6a39f9c8904219e1cb3d1a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "ACHIEVEMENT_0430": {
+      "name": "Book Burner",
+      "description": "You defeated Grimoire Noir within one and a half minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/f0c1804eee52d941045b24beb6353967ad522eb7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "ACHIEVEMENT_0440": {
+      "name": "The Once and Final King",
+      "description": "You defeated the Shadowlord within four minutes and twenty seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/9395b1e23f8ffecde59ac3d84d4c17844d9c13e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "ACHIEVEMENT_0450": {
+      "name": "The Strongest Bond",
+      "description": "You defeated the berserk Kainé within three and a half minutes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/66a42f466f875af265a505380e0c9754c8d2c550.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "ACHIEVEMENT_0460": {
+      "name": "Daredevil",
+      "description": "You risked life and limb 10 times to discover someone's secret.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/9c70d4e9d69a09bcda912fa4323bded42b9d183a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

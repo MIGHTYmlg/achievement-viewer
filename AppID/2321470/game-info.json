@@ -1,0 +1,2710 @@
+{
+  "appid": "2321470",
+  "name": "Deep Rock Galactic: Survivor",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1777569366",
+  "achievements": {
+    "ach-unlock-scout": {
+      "name": "Run for the hills",
+      "description": "Unlock the Scout",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8bda068c08f4581879ae87ef0786ef08c15694d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.1"
+    },
+    "ach-unlock-driller": {
+      "name": "Dig down deep",
+      "description": "Unlock the Driller",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e7726c6747c90f07c1d6c70e7696f637eb2b190d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.6"
+    },
+    "ach-unlock-engineer": {
+      "name": "Enjoy a relaxing stroll",
+      "description": "Unlock the Engineer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/cc343e2061fc5f6521103a832f88ff7a5ca19ffb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.7"
+    },
+    "ach-unlock-gunner": {
+      "name": "Lock and load",
+      "description": "Unlock the Gunner",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/03f1f2935a1b87c12b2c909cb50e1c24441a492e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.8"
+    },
+    "ach-lots-of-big-numbers": {
+      "name": "Squint and squeeze the trigger",
+      "description": "Reach 75% crit chance",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/08068658a1d7da222d8a855728155f47364becfa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.9"
+    },
+    "ach-red-sugar-diet": {
+      "name": "Delicious BLT",
+      "description": "Reach 300 Max HP",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d518925ed203a95950d86fa26bc05d42ec2664a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.9"
+    },
+    "ach-movespeed-50": {
+      "name": "It's got electrolytes",
+      "description": "Reach 50% move speed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/ae56cc7312fd3d98a2551ee51457c0cf777ce6c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/eed5d01673d7b311015dcec52454efc4eca5155f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "ach-spray-n-pray": {
+      "name": "Swift guns for swift hands",
+      "description": "Reach 75% reload speed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c37247d4d032de594dd776ca972092550ae3c65a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.3"
+    },
+    "ach-Gold is Au-some": {
+      "name": "Get that Midas touch",
+      "description": "Collect 250 Gold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/06b5a3fa185459cb2c9481127921775b755e0af4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.3"
+    },
+    "ach-The-Nitra-is-Right": {
+      "name": "Sprinkle of Nitra",
+      "description": "Collect 2,000 Nitra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9fa5d79d45250d079c6a80a0e369a2e667361888.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.4"
+    },
+    "ach-icy-does-it": {
+      "name": "A freeze is coming",
+      "description": "Deal 250,000 Cryo damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/23e7a88c9d16447e07e6455e60382950ffdcfcc5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.3"
+    },
+    "ach-getting-warm": {
+      "name": "Hot, hot, hot!",
+      "description": "Deal 250,000 Fire damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/30d84c4a066cd26b13c4fa400758a2b27ecc8e81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.1"
+    },
+    "ach-dodger": {
+      "name": "Slick, like butter",
+      "description": "Dodge 100 times during a run",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1c9b40f5346e785bd31b88237e2494f3bdb2de44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ach-dont-move-15k-kills": {
+      "name": "Pillar of Society",
+      "description": "Kill 15,000 enemies while standing still",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/19881da33675b6708b22552a311e5a483a7917a8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.1"
+    },
+    "ach-spend-gold-25k": {
+      "name": "Big spender",
+      "description": "Spend 20,000 Gold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/dcf2153807a35697a3db14a78bcf0d2eaab798f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "ach-take-2k-dmg": {
+      "name": "No pain, no gain",
+      "description": "Take 2000 damage during a dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/bd067a142873298846464a930e065b85a11290dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.4"
+    },
+    "ach-Nicetra": {
+      "name": "Gotta stay Nitrated",
+      "description": "Collect 250 Nitra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/bd6f84d8fda7b167161cd42743df0d858ac6109b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.7"
+    },
+    "ach-Pickled-Nitra": {
+      "name": "Relish the pain",
+      "description": "Deal over 1337 damage in one attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/501c15df0a9d90849219b4ba914b74c424906925.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.5"
+    },
+    "ach-Gold-Tipped-Bullets": {
+      "name": "Au-fully rich",
+      "description": "Collect 2,000 Gold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7309f054119e417d2a350145e28ebcbb44c2c25d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.2"
+    },
+    "ach-MSDataKillDreadHpReq": {
+      "name": "Close call",
+      "description": "Kill the dreadnaught while you have less than 30 HP",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/78c7214a1049d1fd21b99dce2019dc613c80d773.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/27dc49b92324229fe12da120adf7aa23e22765bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "ach-MSDataDie": {
+      "name": "Hoxxes Manual",
+      "description": "Die 3 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3e480293215fb6c54c1fa0e55b31bf6dac2983c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/27dc49b92324229fe12da120adf7aa23e22765bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.0"
+    },
+    "ach-MSDataAccrueStatType_Armor": {
+      "name": "Why so Salty?",
+      "description": "Reach 50 armor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9855f6a04211a10950d8651a33067db415fbe56e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/27dc49b92324229fe12da120adf7aa23e22765bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "ach-MSDataCoreLevel_Lvl50": {
+      "name": "Book of Experience",
+      "description": "Reach level 50 during a dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0369ab32305403c89605b4f23ab74ce6ba20c68f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.3"
+    },
+    "ach-MSDataSpendCurrency_ShopDiscount": {
+      "name": "Corporate Discount",
+      "description": "Spend 2,500 Gold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3e91e381dd1b235eabe9e7eb94a4f45fd0abe546.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.3"
+    },
+    "ach-MSDataOCCount": {
+      "name": "Pro side wobble compensator",
+      "description": "Equip 10 Overclocks in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e04a2317b836fe81a5420758dda3b5874a34fbeb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ach-MSDataGainTotalLevels": {
+      "name": "Hangry?",
+      "description": "Gain 1,000 level ups",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f93916bc52f59c2ff84fb2b7175827564d8accf8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.8"
+    },
+    "ach-MSDataFireProjectiles": {
+      "name": "Count em!",
+      "description": "Fire 150,000 projectiles in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/2fbcd65324ed5cb5d1093ccd4975577516bd4477.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ach-MSDataDamageFromMultipleTypes": {
+      "name": "Multitool",
+      "description": "Do damage with 5 types in one dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/cc6c8d7c6d60481bb1d3452384d7a404744dd677.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "ach-MSDataAquireMasteryPoints_WeaponBox": {
+      "name": "What's in the box!?",
+      "description": "Gain 10 mastery levels",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4f537ea8dcc8fdbb3e3b3a70a51c6fecf8405ae5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "ach-MSDataAccrueMagnets": {
+      "name": "Works 100% of the time",
+      "description": "Collect 25 magnets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/14415a8adcda6fcbe58e1469c52c58c730fea7e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.5"
+    },
+    "ach-MSDataAccrueDamageFromSource": {
+      "name": "Freezing hot acid",
+      "description": "Deal 2,500,000 Status Effect Damage in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/10a53fa1ef8987d7a3a2b9132f63dea9b7a163d4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.5"
+    },
+    "ach-CC_4_MSDataWinRun": {
+      "name": "Crystalline Caverns",
+      "description": "Win a Crystalline Caverns Hazard 5 dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/bf5e916428febb376f43e28de77fa9f6f51da3a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ach-HB_4_MSDataWinRun": {
+      "name": "Hollow Bough",
+      "description": "Win a Hollow Bough Hazard 5 dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e9fa7e2f2eba9a1ce7e06712c0e0d088bdf3f7ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ach-MC_4_MSDataWinRun": {
+      "name": "Magma Core",
+      "description": "Win a Magma Core Hazard 5 dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0967f5d61b97768f16a94b943c2c040096c2d204.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ach-SP_4_MSDataWinRun": {
+      "name": "Salt Pits",
+      "description": "Win a Salt Pits Hazard 5 dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/be917730ea46c4f84f1c84a8935b144f3648e0b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ach-AW_4_MSDataWinRun": {
+      "name": "Azure Weald",
+      "description": "Win a Azure Weald Hazard 5 dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/2a9ce702cf923bc4cf9d36caac48551f996993ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ach-MSDataKillSpecific_Huuli": {
+      "name": "Got bait?",
+      "description": "Kill 3 Huuli Hoarders in one dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/37c3bb49148dad1ec6939a8135c05a91230f27e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "ach-MSDataSelectUpgrade_LUCK": {
+      "name": "Feeling lucky punk?",
+      "description": "Get 5 luck upgrades in one dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7a2363877fa3cdf8245aa992cd765d6a38161e5d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "ach-MSDataJumpOnRock": {
+      "name": "Jetty boots",
+      "description": "Land on 200 blocks in one dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/ab974b8f3babb50c5e560e4d8fca2a9bd0d38ca9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "ach-MSDataHealDuringStage": {
+      "name": "That's how the cookie crumbles",
+      "description": "Heal 500 HP during one dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7fcfa9e7b28c00f33bd50679f448092a463943bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "arh-MSDataDestroyAllRock": {
+      "name": "Axe in face!",
+      "description": "Destroy all rocks in one main mission stage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/48e901cdd06da775ec84152f290a568938d45b86.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ach-wep18-deepcoregk2": {
+      "name": "Overclock: DeepCore GK2",
+      "description": "Reach level 18 with the DeepCore GK2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8faf01a938a873219c57a4140c7a5f6f3a0a9b0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ach-wep18-zhukovnuk17": {
+      "name": "Overclock: Zhukov NUK17",
+      "description": "Reach level 18 with the Zhukov NUK17",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3195d9574b5459d7044a7a652682925cc2ae9955.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "ach-wep18-cryogrenade": {
+      "name": "Overclock: Cryo Grenade",
+      "description": "Reach level 18 with the Cryo Grenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8bbb581ebcbccf7657d1f9c7b942efc584173aa4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "ach-wep18-juryriggedboomstick": {
+      "name": "Overclock: Jury-Rigged Boomstick",
+      "description": "Reach level 18 with the Jury-Rigged Boomstick",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b5973c4a86f86be8b254de27f19a0f744f39cc34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "ach-wep18-m1000": {
+      "name": "Overclock: M1000",
+      "description": "Reach level 18 with the M1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c20f54c6be2c09da4b08f744d4b4cffed1f63498.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "ach-wep18-voltaicstunsweeper": {
+      "name": "Overclock: Stun Sweeper",
+      "description": "Reach level 18 with the Voltaic Stun Sweeper",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e1b0dabb284439fe4bc1e7be6fb4f23d8d673c14.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ach-wep18-th0rbugtaser": {
+      "name": "Overclock: TH-0R Bug Taser",
+      "description": "Reach level 18 with the TH-0R Bug Taser",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/76d3614fed69aadffa05371edb1c494bced1ce2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "ach-wep18-arctekcryoguard": {
+      "name": "Overclock: Cryo Guard",
+      "description": "Reach level 18 with the Arc-Tek Cryo Guard",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/581af1f4095f55c7fd10abaa3d0ca41f9f491f0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "ach-wep18-drak25plasmacarbine": {
+      "name": "Overclock: Plasma Carbine",
+      "description": "Reach level 18 with the DRAK-25 Plasma Carbine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/efe06455af723336cf1854d5f5c7fd8436468dcb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "ach-wep18-nishankaboltshark": {
+      "name": "Overclock: Nishanka Boltshark",
+      "description": "Reach level 18 with the Nishanka Boltshark",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1e044bce976aaf0195077e18e17991edcf008932.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ach-wep18-bulldogheavyrevolver": {
+      "name": "Overclock: Heavy Revolver",
+      "description": "Reach level 18 with the 'Bulldog' Heavy Revolver",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6613e1f6c52b690a2633715e15e887e4849ffa58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ach-wep18-incendiarygrenade": {
+      "name": "Overclock: Incendiary Grenade",
+      "description": "Reach level 18 with the Incendiary Grenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4a08cfe667b9dcd228d820b8f7ff64fee4f539af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "ach-wep18-leadstormpoweredminigun": {
+      "name": "Overclock: Powered Minigun",
+      "description": "Reach level 18 with the 'Lead Storm' Powered Minigun",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5a71c4d309c5e5198bf79122e9ba0109e0d4c5c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "ach-wep18-brt7burstfiregun": {
+      "name": "Overclock: Burst Fire Gun",
+      "description": "Reach level 18 with the BRT7 Burst Fire Gun",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/83727cf58a6b540b5c33d630471abe92bc9385a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "ach-wep18-tacticalleadburster": {
+      "name": "Overclock: Tactical Leadburster",
+      "description": "Reach level 18 with the Tactical Leadburster",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b6b858333a08430314b76bb3673ee1b11d1fc09d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ach-wep18-thunderheadheavyautocannon": {
+      "name": "Overclock: Heavy Autocannon",
+      "description": "Reach level 18 with the 'Thunderhead' Heavy Autocannon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/da9aa610bef64d5165b4b8e020b5f26a754618b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "ach-wep18-fireflyhunterdrone": {
+      "name": "Overclock: Firefly Hunter Drone",
+      "description": "Reach level 18 with the Firefly Hunter Drone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8263d74b450176be5229ebc9e04bf67c3919a255.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ach-wep18-hurricanguidedrocketsystem": {
+      "name": "Overclock: Hurricane",
+      "description": "Reach level 18 with the 'Hurricane' Guided Rocket System",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/93139f1ba76515a0172cfc4936c700947fab1862.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ach-wep18-seismicrepulsor": {
+      "name": "Overclock: Seismic Repulsor",
+      "description": "Reach level 18 with the Seismic Repulsor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5098388e5173098a5006e13fd2917ed14a5f86a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ach-wep18-armskorecoilgun": {
+      "name": "Overclock: Coil Gun",
+      "description": "Reach level 18 with the ArmsKore Coil Gun",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/514ff107ecef6d0bc01ea09d9f2c2841cd6b310d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ach-wep18-warthogauto210": {
+      "name": "Overclock: Warthog Auto",
+      "description": "Reach level 18 with the 'Warthog' Auto 210",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8f5642afb7ba2044159d27fc91b1db47d2eabd05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "ach-wep18-stubbyvoltaicsmg": {
+      "name": "Overclock: Voltaic SMG",
+      "description": "Reach level 18 with the 'Stubby' Voltaic SMG",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/bd48a1124e3941aaa604e04811b0cdee3c1950f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "ach-wep18-hivoltthunderbird": {
+      "name": "Overclock: Hi-Volt Thunderbird",
+      "description": "Reach level 18 with the Hi-Volt Thunderbird",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f4b869d6be4db0377b3af2a494c43ee909f9ef38.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ach-wep18-lmggunplatform": {
+      "name": "Overclock: LMG Gun Platform",
+      "description": "Reach level 18 with the LMG Gun Platform",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1abd58204f832d24abed10abd8f17ffd044d827f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "ach-wep18-voltaicshockfence": {
+      "name": "Overclock: Voltaic Shock Fence",
+      "description": "Reach level 18 with the Voltaic Shock Fence",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a87e008c189e4a8a34ea96d5632c1a5e8e221e81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "ach-wep18-lok1smartrifle": {
+      "name": "Overclock: LOK-1 Smart Rifle",
+      "description": "Reach level 18 with the LOK-1 Smart Rifle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/081879960114a4a9f0f86b6d20106828dc5b891a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "ach-wep18-deepcorepgl": {
+      "name": "Overclock: DeepCore PGL",
+      "description": "Reach level 18 with the DeepCore PGL",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1fee871dbbcc180539659fb57fb18443a55a6469.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ach-wep18-breachcutter": {
+      "name": "Overclock: Breach Cutter",
+      "description": "Reach level 18 with the Breach Cutter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/197e291f76f762bdefb4651459380442dc93c2b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ach-wep18-sharddiffractor": {
+      "name": "Overclock: Shard Diffractor",
+      "description": "Reach level 18 with the Shard Diffractor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/668f234fd0b7871068340f359dd136c3b8c46eac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ach-wep18-plasmaburster": {
+      "name": "Overclock: Plasma Burster",
+      "description": "Reach level 18 with the Plasma Burster",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/88b9e9a30288bcbb3de6aca94ae6f9cb749f44e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ach-wep18-shredderswarmgrenade": {
+      "name": "Overclock: Swarm Grenade",
+      "description": "Reach level 18 with the Shredder Swarm Grenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a873515fbf1aa28da8a39905ccd8aff56e4e8bce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ach-wep18-subata120": {
+      "name": "Overclock: Subata 120",
+      "description": "Reach level 18 with the Subata 120",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f62fb599f99505ec3ecffb775e5a43c9c33c942a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "ach-wep18-krakatoasentinel": {
+      "name": "Overclock: Krakatoa Sentinel",
+      "description": "Reach level 18 with the Krakatoa Sentinel",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/75d90ff18024efbaacbbf99c244d01bec34c015d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "ach-wep18-highexplosivegrenade": {
+      "name": "Overclock: HE Grenade",
+      "description": "Reach level 18 with the High Explosive Grenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e43c9591837968827fc545b3c27f82d7d55b27f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ach-wep18-crsprflamethrower": {
+      "name": "Overclock: CRSPR Flamethrower",
+      "description": "Reach level 18 with the CRSPR Flamethrower",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/21c4ab46827da3d35485f908ecaa25e14aee49ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "ach-wep18-corrosivesludgepump": {
+      "name": "Overclock: Sludge Pump",
+      "description": "Reach level 18 with the Corrosive Sludge Pump",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c660e6434f7c48f9e85592fbe68f36a9af755c0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ach-wep18-colettewavecooker": {
+      "name": "Overclock: Wave Cooker",
+      "description": "Reach level 18 with the Colette Wave Cooker ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3a3846b7cc2d94a58d388379d6cc60086966895e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ach-wep18-impactaxe": {
+      "name": "Overclock: Impact Axe",
+      "description": "Reach level 18 with the Impact Axe ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/becb094f4b4a5354f72905c08a2812bca878252d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "ach-wep18-neurotoxingrenade": {
+      "name": "Overclock: Neurotoxin Grenade",
+      "description": "Reach level 18 with the Neurotoxin Grenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/fd91f2cd810a3563bf6d810bc0753ced040948fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ach-wep18-cryocannon": {
+      "name": "Overclock: Cryo Cannon",
+      "description": "Reach level 18 with the Cryo Cannon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c24ddee24f96e498ea2d5e092fa6a5445029ee7e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ach-wep18-k1pviperdrone": {
+      "name": "Overclock: K1-P Viper Drone",
+      "description": "Reach level 18 with the K1-P Viper Drone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a96def8c2c1114691168490667ef181c8e2c3fc6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ach-wep18-experimentalplasmacharger": {
+      "name": "Overclock: Plasma Charger",
+      "description": "Reach level 18 with the Experimental Plasma Charger",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/458ab6f0c0cfdec9df7ecd61b754a11f66e777dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ach-wepmaster-deepcoregk2": {
+      "name": "Mastery: DeepCore GK2",
+      "description": "Complete a DeepCore GK2 weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/94e10568b0eb6707dfbaf78559ed4068443555bf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "ach-wepmaster-zhukovnuk17": {
+      "name": "Mastery: Zhukov NUK17",
+      "description": "Complete a Zhukov NUK17 weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a7256f9dc70e532be494ae998dc22ef21df705c5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ach-wepmaster-cryogrenade": {
+      "name": "Mastery: Cryo Grenade",
+      "description": "Complete a Cryo Grenade weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/378cab8ba5161964ac6a4f80c13750ebeb66493d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ach-wepmaster-juryriggedboomstick": {
+      "name": "Mastery: Jury-Rigged Boomstick",
+      "description": "Complete a Jury-Rigged Boomstick weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/ca68fcfcac2323e960cdd86b25421966e5b3410e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ach-wepmaster-m1000": {
+      "name": "Mastery: M1000",
+      "description": "Complete a M1000 weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/82e2d92006eec676449ad07bddcf6eb961dd0f37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ach-wepmaster-voltaicstunsweeper": {
+      "name": "Mastery: Stun Sweeper",
+      "description": "Complete a Voltaic Stun Sweeper weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/88bb59f245be0a9bb84a0a3fd23a0d34e67128f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ach-wepmaster-th0rbugtaser": {
+      "name": "Mastery: TH-0R Bug Taser",
+      "description": "Complete a TH-0R Bug Taser weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/2e7516124923c8bfc5a4aadc11359341fc02af6e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ach-wepmaster-arctekcryoguard": {
+      "name": "Mastery: Cryo Guard",
+      "description": "Complete an Arc-Tek Cryo Guard weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4b99b6614caeba31f37c95647b4a10e2584d48f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ach-wepmaster-drak25plasmacarbine": {
+      "name": "Mastery: Plasma Carbine",
+      "description": "Complete a DRAK-25 Plasma Carbine weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/22170214ac786efdbe20bb0d25279c790c73b062.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ach-wepmaster-nishankaboltshark": {
+      "name": "Mastery: Nishanka Boltshark",
+      "description": "Complete a Nishanka Boltshark weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b500f88f12c29ddfeb95e00445f5f1050ed8a5f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ach-wepmaster-bulldogheavyrevolver": {
+      "name": "Mastery: Heavy Revolver",
+      "description": "Complete a 'Bulldog' Heavy Revolver weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/33ade724fb11971ae48cf1e4f26e871f2ff0a142.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ach-wepmaster-incendiarygrenade": {
+      "name": "Mastery: Incendiary Grenade",
+      "description": "Complete an Incendiary Grenade weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/717834cc28ff1092967f795b5c7e1a5f7faea8a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ach-wepmaster-leadstormpoweredminigun": {
+      "name": "Mastery: Powered Minigun",
+      "description": "Complete a 'Lead Storm' Powered Minigun weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0360820f28153ceeae725da0b6e79476819f6477.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "ach-wepmaster-brt7burstfiregun": {
+      "name": "Mastery: Burst Fire Gun",
+      "description": "Complete a BRT7 Burst Fire Gun weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e880a700f983b5297edfd2131d8efba6d8864e58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ach-wepmaster-tacticalleadburster": {
+      "name": "Mastery: Tactical Leadburster",
+      "description": "Complete a Tactical Leadburster weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/bbe08151ac0dc0a6e9168b94d26b6b900f13d0ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ach-wepmaster-thunderheadheavyautocannon": {
+      "name": "Mastery: Heavy Autocannon",
+      "description": "Complete a 'Thunderhead' Heavy Autocannon weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/064457586ab48f2afa9dbeee60c710fb6e60b65b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ach-wepmaster-fireflyhunterdrone": {
+      "name": "Mastery: Firefly Hunter Drone",
+      "description": "Complete a Firefly Hunter Drone weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/dc69531968a38fcfe80003e45936219401c70413.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ach-wepmaster-hurricanguidedrocketsystem": {
+      "name": "Mastery: Hurricane",
+      "description": "Complete a 'Hurricane' Guided Rocket System weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/dc4287f623911565633aae1552cede7c48deb130.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ach-wepmaster-seismicrepulsor": {
+      "name": "Mastery: Seismic Repulsor",
+      "description": "Complete a Seismic Repulsor weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a312f1c5877ef3ae3804b90c66f8536b7cc2f8c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ach-wepmaster-armskorecoilgun": {
+      "name": "Mastery: Coil Gun",
+      "description": "Complete an ArmsKore Coil Gun weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/befcd96010c656250f05b65be35d0afad41866d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ach-wepmaster-warthogauto210": {
+      "name": "Mastery: Warthog Auto",
+      "description": "Complete a 'Warthog' Auto 210 weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e00eb054f329e2ebaa68661b074e45c772d166f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ach-wepmaster-stubbyvoltaicsmg": {
+      "name": "Mastery: Voltaic SMG",
+      "description": "Complete a 'Stubby' Voltaic SMG weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7c023968e28dc5495521eaa30d7af489fad3fc76.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ach-wepmaster-hivoltthunderbird": {
+      "name": "Mastery: Hi-Volt Thunderbird",
+      "description": "Complete a Hi-Volt Thunderbird weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5a9268eddbf339222274f1258fd2bacd384b7be0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ach-wepmaster-lmggunplatform": {
+      "name": "Mastery: LMG Gun Platform",
+      "description": "Complete an LMG Gun Platform weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/de8584d287a60b2f9cd9fa25894a3396f1e9e8d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "ach-wepmaster-voltaicshockfence": {
+      "name": "Mastery: Voltaic Shock Fence",
+      "description": "Complete a Voltaic Shock Fence weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d01b7f537e3d4bbff78a3229bec126611a47cf77.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ach-wepmaster-lok1smartrifle": {
+      "name": "Mastery: LOK-1 Smart Rifle",
+      "description": "Complete a LOK-1 Smart Rifle weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d9fa36b12897d68dbc9c5c18144eafb7b0be7c2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ach-wepmaster-deepcorepgl": {
+      "name": "Mastery: DeepCore PGL",
+      "description": "Complete a DeepCore PGL weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5ed885374464c74918c16709d54e580dc20b7bb1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ach-wepmaster-breachcutter": {
+      "name": "Mastery: Breach Cutter",
+      "description": "Complete a Breach Cutter weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/81573a9adf200fd1a74c54e1889c866b1d03257c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ach-wepmaster-sharddiffractor": {
+      "name": "Mastery: Shard Diffractor",
+      "description": "Complete a Shard Diffractor weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b243d8a75e65f2d46527f5e974b7f9d6494c1db4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ach-wepmaster-plasmaburster": {
+      "name": "Mastery: Plasma Burster",
+      "description": "Complete a Plasma Burster weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e027e0ee5dff2b647d27f70e52365b02b8a0323e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ach-wepmaster-shredderswarmgrenade": {
+      "name": "Mastery: Swarm Grenade",
+      "description": "Complete a Shredder Swarm Grenade weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7628b4bfac0462c600a6103b12d905cbfb041319.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ach-wepmaster-subata120": {
+      "name": "Mastery: Subata 120",
+      "description": "Complete a Subata 120 weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a3272574f52f3e91dd0143ca52a29b5f50d672fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ach-wepmaster-krakatoasentinel": {
+      "name": "Mastery: Krakatoa Sentinel",
+      "description": "Complete a Krakatoa Sentinel weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9a8c9f3026d3ef76209529bf47d7371f4e1c3abf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ach-wepmaster-highexplosivegrenade": {
+      "name": "Mastery: HE Grenade",
+      "description": "Complete a High Explosive Grenade weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/ef8f7c1d13e88d47fb38616a16af60036cabe49a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ach-wepmaster-crsprflamethrower": {
+      "name": "Mastery: CRSPR Flamethrower",
+      "description": "Complete a CRSPR Flamethrower weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f2ad443849fb8fe8ce00b5caff7ee4dfa23afa53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "ach-wepmaster-corrosivesludgepump": {
+      "name": "Mastery: Sludge Pump",
+      "description": "Complete a Corrosive Sludge Pump weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/491badcc2ce0fa24e4dd5283671c708577da01ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ach-wepmaster-colettewavecooker": {
+      "name": "Mastery: Wave Cooker",
+      "description": "Complete a Colette Wave Cooker weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6df5a0e02e925bcfdd70eefc640e4fc4ca4e9311.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ach-wepmaster-impactaxe": {
+      "name": "Mastery: Impact Axe",
+      "description": "Complete a Impact Axe weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/db1293b2694729bd42ac256686cc7bd47453cf87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ach-wepmaster-neurotoxingrenade": {
+      "name": "Mastery: Neurotoxin Grenade",
+      "description": "Complete a Neurotoxin Grenade weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/67e953d46e130950f84b2da6976b34b9154ef181.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ach-wepmaster-cryocannon": {
+      "name": "Mastery: Cryo Cannon",
+      "description": "Complete a Cryo Cannon weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c9cacb9e3266464486c8ec111fa1b51ef753261d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ach-wepmaster-k1pviperdrone": {
+      "name": "Mastery: K1-P Viper Drone",
+      "description": "Complete a K1-P Viper Drone weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/377e8f2b3c575e62d536490f2f536fd7d6838b53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ach-wepmaster-experimentalplasmacharger": {
+      "name": "Mastery: Plasma Charger",
+      "description": "Complete an Experimental Plasma Charger weapon mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/aa6f4bc5ed6bd9be38ff7ade5a1045c472f720f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ach-wepmaster5-deepcoregk2": {
+      "name": "True Mastery: DeepCore GK2",
+      "description": "Complete a DeepCore GK2 weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/71b9b5d488fb6eb195c7e334bf685b308f7e3272.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ach-wepmaster5-zhukovnuk17": {
+      "name": "True Mastery: Zhukov NUK17",
+      "description": "Complete a Zhukov NUK17 weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3ef84291b5d8a1103b954da817706543ac37e4a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-cryogrenade": {
+      "name": "True Mastery: Cryo Grenade",
+      "description": "Complete a Cryo Grenade weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1537cc2ea3fc19a5a7bf74cdffe1db4c4d34cf26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach-wepmaster5-juryriggedboomstick": {
+      "name": "True Mastery: Jury-Rigged Boomstick",
+      "description": "Complete a Jury-Rigged Boomstick weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/96dada0dba4bfe5142696fa90804a047653af829.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ach-wepmaster5-m1000": {
+      "name": "True Mastery: M1000",
+      "description": "Complete a M1000 weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d8d4ba64f2287be4b01a32439a2b8c5f38698f8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ach-wepmaster5-voltaicstunsweeper": {
+      "name": "True Mastery: Stun Sweeper",
+      "description": "Complete a Voltaic Stun Sweeper weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4077020f6445880a477eab794f2f8fc73157e41b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-th0rbugtaser": {
+      "name": "True Mastery: TH-0R Bug Taser",
+      "description": "Complete a TH-0R Bug Taser weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b4cf4b28932ef7cb50c9d68151a496c8acdb67a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-arctekcryoguard": {
+      "name": "True Mastery: Cryo Guard",
+      "description": "Complete an Arc-Tek Cryo Guard weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3d8f131d4c281bc973321aa5f298ae4e7c40da40.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-drak25plasmacarbine": {
+      "name": "True Mastery: Plasma Carbine",
+      "description": "Complete a DRAK-25 Plasma Carbine weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e7ebc0fc16055fb025be2f4e085202a44c249074.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ach-wepmaster5-nishankaboltshark": {
+      "name": "True Mastery: Nishanka Boltshark",
+      "description": "Complete a Nishanka Boltshark weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/fe7f4d8f5c1c2197b0929f8ae09834cf12e872a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-bulldogheavyrevolver": {
+      "name": "True Mastery: Heavy Revolver",
+      "description": "Complete a 'Bulldog' Heavy Revolver weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c8dcfd03b6130f37174a01d173c4005ef6486b8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ach-wepmaster5-incendiarygrenade": {
+      "name": "True Mastery: Incendiary Grenade",
+      "description": "Complete an Incendiary Grenade weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/590276c338e2e55f9a5d6d486cdba806b21fa1a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach-wepmaster5-leadstormpoweredminigun": {
+      "name": "True Mastery: Powered Minigun",
+      "description": "Complete a 'Lead Storm' Powered Minigun weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/bdea018fbdff1d40df61d1f33afe5fdcc49012c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ach-wepmaster5-brt7burstfiregun": {
+      "name": "True Mastery: Burst Fire Gun",
+      "description": "Complete a BRT7 Burst Fire Gun weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d00b165a9df53f46f9b2114c70041845c1b739e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach-wepmaster5-tacticalleadburster": {
+      "name": "True Mastery: Tactical Leadburster",
+      "description": "Complete a Tactical Leadburster weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/22a885bcf2fca1b1e8cffc29b4a3ca8365c52599.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-thunderheadheavyautocannon": {
+      "name": "True Mastery: Heavy Autocannon",
+      "description": "Complete a 'Thunderhead' Heavy Autocannon weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/79bcae1799554974b7d6df1e8024fa4a3ba7583b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-fireflyhunterdrone": {
+      "name": "True Mastery: Firefly Hunter Drone",
+      "description": "Complete a Firefly Hunter Drone weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/ccf48a31677594bbf799c73f483d73fee4aef823.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach-wepmaster5-hurricanguidedrocketsystem": {
+      "name": "True Mastery: Hurricane",
+      "description": "Complete a 'Hurricane' Guided Rocket System weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/44efb1f8f9e985fae1dc57306e728360fdb5b490.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ach-wepmaster5-seismicrepulsor": {
+      "name": "True Mastery: Seismic Repulsor",
+      "description": "Complete a Seismic Repulsor weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/eb4123004cb0eb824ef7158f3cfa3d8934b0d2a8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach-wepmaster5-armskorecoilgun": {
+      "name": "True Mastery: Coil Gun",
+      "description": "Complete an ArmsKore Coil Gun weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b5f2f7a8cd64afa3b5eea2d844ddd1c1b0fdb180.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach-wepmaster5-warthogauto210": {
+      "name": "True Mastery: Warthog Auto",
+      "description": "Complete a 'Warthog' Auto 210 weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/be47abb08788aac9312b4c28e00daecf2e06107f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ach-wepmaster5-stubbyvoltaicsmg": {
+      "name": "True Mastery: Voltaic SMG",
+      "description": "Complete a 'Stubby' Voltaic SMG weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/760bd7637ad39439a77a5be569c9b2464efefe9f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach-wepmaster5-hivoltthunderbird": {
+      "name": "True Mastery: Hi-Volt Thunderbird",
+      "description": "Complete a Hi-Volt Thunderbird weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d25e296649284cf411acc43025500f5dbe8f9057.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach-wepmaster5-lmggunplatform": {
+      "name": "True Mastery: LMG Gun Platform",
+      "description": "Complete an LMG Gun Platform weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a05ec92fc33cff6fe63a725b56088d34c23a5dac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ach-wepmaster5-voltaicshockfence": {
+      "name": "True Mastery: Voltaic Shock Fence",
+      "description": "Complete a Voltaic Shock Fence weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f87d9f6cf2424945c98bdec34c5171337ee6e9a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-lok1smartrifle": {
+      "name": "True Mastery: LOK-1 Smart Rifle",
+      "description": "Complete a LOK-1 Smart Rifle weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9d3dbda8c16c76e3a85ccfdd76e54503824054a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-deepcorepgl": {
+      "name": "True Mastery: DeepCore PGL",
+      "description": "Complete a DeepCore PGL weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/64d1e09ecc57674d993ea6cc65c0064fc679934d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach-wepmaster5-breachcutter": {
+      "name": "True Mastery: Breach Cutter",
+      "description": "Complete a Breach Cutter weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3d3d24a811ac07b4299e548871ac1c2320aaf9e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-sharddiffractor": {
+      "name": "True Mastery: Shard Diffractor",
+      "description": "Complete a Shard Diffractor weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1b21212d04ff81ab4829985a34b3b4e2f7b1edf2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach-wepmaster5-plasmaburster": {
+      "name": "True Mastery: Plasma Burster",
+      "description": "Complete a Plasma Burster weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c26fb90c6db4cecf5429db0995045d4c81e8e0f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach-wepmaster5-shredderswarmgrenade": {
+      "name": "True Mastery: Swarm Grenade",
+      "description": "Complete a Shredder Swarm Grenade weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/75fd9e6bc3957f4f9e550e190ab7457bc28a5df1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach-wepmaster5-subata120": {
+      "name": "True Mastery: Subata 120",
+      "description": "Complete a Subata 120 weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5a210efc0b2e50a488a81a062b0641284606ebc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach-wepmaster5-krakatoasentinel": {
+      "name": "True Mastery: Krakatoa Sentinel",
+      "description": "Complete a Krakatoa Sentinel weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/44e90f278458e23324732c7d756e3ba5551d9410.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-highexplosivegrenade": {
+      "name": "True Mastery: HE Grenade",
+      "description": "Complete a High Explosive Grenade weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/00eebf45c00edc772814ad498d67c5c08f45716f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-crsprflamethrower": {
+      "name": "True Mastery: CRSPR Flamethrower",
+      "description": "Complete a CRSPR Flamethrower weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/bda73964b1807ea66aefd301a5335356e3ab6cda.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach-wepmaster5-corrosivesludgepump": {
+      "name": "True Mastery: Sludge Pump",
+      "description": "Complete a Corrosive Sludge Pump weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3f117ffbc911326f0ac927950c3bf0fb3c727bcd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-colettewavecooker": {
+      "name": "True Mastery: Wave Cooker",
+      "description": "Complete a Colette Wave Cooker weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a2b30920f541e80dff5ec00ae4a077324604efba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach-wepmaster5-impactaxe": {
+      "name": "True Mastery: Impact Axe",
+      "description": "Complete a Impact Axe weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/fb2fe41055e510e4e75aaa55c367cc6f58153bc2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-neurotoxingrenade": {
+      "name": "True Mastery: Neurotoxin Grenade",
+      "description": "Complete a Neurotoxin Grenade weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6666036781cce50f9c6b22ce2a3c2bb0011f7efc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach-wepmaster5-cryocannon": {
+      "name": "True Mastery: Cryo Cannon",
+      "description": "Complete a Cryo Cannon weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/82825ccc1f3f3f6bd06ea2fe6b0babb20e31e7f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach-wepmaster5-k1pviperdrone": {
+      "name": "True Mastery: K1-P Viper Drone",
+      "description": "Complete a K1-P Viper Drone weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c092a33d4d64cc83ca97bcc891df65d757aba4e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-wepmaster5-experimentalplasmacharger": {
+      "name": "True Mastery: Plasma Charger",
+      "description": "Complete an Experimental Plasma Charger weapon mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d6d570f4d5c2d98c8a5b068a03371bd535f3be7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach-biomemaster-crystallinecaverns": {
+      "name": "Mastery: Crystalline Caverns",
+      "description": "Complete a Crystalline Caverns mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/ae2b1c3438c9984e776675e3e6faeec83b379833.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ach-biomemaster-magmacore": {
+      "name": "Mastery: Magma Core",
+      "description": "Complete a Magma Core mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a8ece874999f652c202a21f0bb7e2537f586e78e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ach-biomemaster-hollowbough": {
+      "name": "Mastery: Hollow Bough",
+      "description": "Complete a Hollow Bough mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3ad6ab534fbe296628a57f3f1805da71dfe66ccc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ach-biomemaster-saltpits": {
+      "name": "Mastery: Salt Pits",
+      "description": "Complete a Salt Pits mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4a14f6f158c3ec8d406e6d28bb5a7529b690ee37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ach-biomemaster-azureweald": {
+      "name": "Mastery: Azure Weald",
+      "description": "Complete an Azure Weald mastery dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1139e2435bad495faceff2640bd119a4daf30115.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "ach-biomemaster5-crystallinecaverns": {
+      "name": "True Mastery: Crystalline Caverns",
+      "description": "Complete a Crystalline Caverns mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3edcc9708e20d0351d66520e17485e71008f5bae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ach-biomemaster5-magmacore": {
+      "name": "True Mastery: Magma Core",
+      "description": "Complete a Magma Core mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d78771cfc18e67eb62f75ee4025bde25e2ef776a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ach-biomemaster5-hollowbough": {
+      "name": "True Mastery: Hollow Bough",
+      "description": "Complete a Hollow Bough mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/297cea967d0d52737fe5caa119c7204a91d8aaf5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ach-biomemaster5-saltpits": {
+      "name": "True Mastery: Salt Pits",
+      "description": "Complete a Salt Pits mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e038295dc3911b8795b5cdfb4e438dd0dcb45048.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ach-biomemaster5-azureweald": {
+      "name": "True Mastery: Azure Weald",
+      "description": "Complete an Azure Weald mastery dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f60fa88b20fa0f85ed02d2517adaefa8e8db5eb9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ach-tagcollect-acid": {
+      "name": "Feeling a bit sour",
+      "description": "Complete a dive with 3 [ACID] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f8b4bb7243f25d214acf6272fd16d7bbe13e566c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ach-tagcollect-area": {
+      "name": "Zone of control",
+      "description": "Complete a dive with 3 [AREA] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/aa073ea78aa2386cf70189f3c442a2c280f0862b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ach-tagcollect-beam": {
+      "name": "Cross the beams",
+      "description": "Complete a dive with 4 [BEAM] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4e132cef0c13402feb277c0e8ec9370c2c80abdc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ach-tagcollect-construct": {
+      "name": "Dwarven architecture",
+      "description": "Complete a dive with 4 [CONSTRUCT] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0e32c20cec29ec1809e2b0fbc481daae95cc41b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ach-tagcollect-cold": {
+      "name": "Deep freeze",
+      "description": "Complete a dive with 4 [COLD] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d218566de3ba570a02de4e5f469ce5c12bb02a76.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach-tagcollect-drone": {
+      "name": "Modern warfare",
+      "description": "Complete a dive with 3 [DRONE] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5d7c2deeb40320c7d4238bf6ef6e4ad4274e43f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ach-tagcollect-electrical": {
+      "name": "Stormbringer",
+      "description": "Complete a dive with 4 [ELECTRICAL] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/cb47ddc8d1ac8f594d0f9fe257dac8d3095955c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ach-tagcollect-explosive": {
+      "name": "Bomberman",
+      "description": "Complete a dive with 4 [EXPLOSIVE] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/66c67f1940df3259d87f2ca2a2e8ab5789583d0c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ach-tagcollect-fire": {
+      "name": "Keeper of the flame",
+      "description": "Complete a dive with 4 [FIRE] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/fc12ea6afc22bc54d505ca50dfd0c1195ad864c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ach-tagcollect-heavy": {
+      "name": "Who touched my gun!?",
+      "description": "Complete a dive with 4 [HEAVY] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/157ce6ca8855e19ddd5e623c6e01e3142660ff27.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ach-tagcollect-kinetic": {
+      "name": "Blunt force trauma",
+      "description": "Complete a dive with 4 [KINETIC] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c9eac8838b7408171245d6a7c1750d44945a92d4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ach-tagcollect-lasting": {
+      "name": "Delayed gratification",
+      "description": "Complete a dive with 4 [LASTING] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6b02d08072ad8fdcc06c2400a29d112d38e53569.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ach-tagcollect-light": {
+      "name": "Fleet of foot",
+      "description": "Complete a dive with 4 [LIGHT] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b4976be2d98e65140739cc4cd422fc46ac8d5742.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ach-tagcollect-medium": {
+      "name": "Tried and tested",
+      "description": "Complete a dive with 4 [MEDIUM] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8f0efccceb39637dbdb097f343f680b512d3890d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ach-tagcollect-plasma": {
+      "name": "Light show",
+      "description": "Complete a dive with 4 [PLASMA] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7b424714246bacf0cacd8b9c25cf3f788f0e36ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ach-tagcollect-precise": {
+      "name": "Professionals have standards",
+      "description": "Complete a dive with 4 [PRECISE] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/67eeced6ae9bfbda7f062ec8af6e7b0de916fbd8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ach-tagcollect-projectile": {
+      "name": "Weight of fire",
+      "description": "Complete a dive with 4 [PROJECTILE] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0332659f16feeb4f23d7e3c7181d6e66f8b2e9d3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "ach-tagcollect-spray": {
+      "name": "Spray 'n pray",
+      "description": "Complete a dive with 4 [SPRAY] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/29e454d1783c3d0dc3f6352d8da8036a1159a7dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "ach-tagcollect-throwable": {
+      "name": "It's all in the wrist",
+      "description": "Complete a dive with 4 [THROWABLE] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9fc95153474f142571f40744c5e33b90723676c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ach-tagcollect-turret": {
+      "name": "Sentry goin' up",
+      "description": "Complete a dive with 4 [TURRET] weapons equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c1a6ffa06942741c3cd2ffb646122326aaa6a866.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach-subclasswin-classic": {
+      "name": "The journey begins",
+      "description": "Complete a dive with the Classic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/80a5be65c1e37dba01ee319fcca9a604a9327974.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ach-subclasswin-sharpshooter": {
+      "name": "Measure twice, shoot once",
+      "description": "Complete a dive with the Sharpshooter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9cb21ebe3c4a8e21d214693b01c501ec146cd029.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ach-subclasswin-recon": {
+      "name": "Adventure awaits",
+      "description": "Complete a dive with the Recon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3395cec6f5127c9e515572c020e87c89b12f0a17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "ach-subclasswin-weaponsspecialist": {
+      "name": "10,000 rounds per minute",
+      "description": "Complete a dive with the Weapons Specialist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9209fa3bd4548a56e5b2449af4e62209040c85e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "ach-subclasswin-juggernaut": {
+      "name": "Tough as nails",
+      "description": "Complete a dive with the Juggernaut",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7a8a5f3184a5d8ad3fb5fc4397696b522cd06f90.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "ach-subclasswin-heavygunner": {
+      "name": "Ka-boom!",
+      "description": "Complete a dive with the Heavy Gunner",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/15cc7d3a309eb9628cd372896e24c7e7f9cb919f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "ach-subclasswin-maintenanceworker": {
+      "name": "I solve problems",
+      "description": "Complete a dive with the Maintenance Worker",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1c10f4c50f01db22faf9e308aac089ce04a8f6e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "ach-subclasswin-tinkerer": {
+      "name": "Brainstorming",
+      "description": "Complete a dive with the Tinkerer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f01d311450a008b722052e9ddc577551bba42a74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "ach-subclasswin-demolitionist": {
+      "name": "A whiff of brimstone",
+      "description": "Complete a dive with the Demolitionist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/39d117cf4df2a3744fd7692f8f310fca38e8dfc7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ach-subclasswin-foreman": {
+      "name": "Diggy diggy hole",
+      "description": "Complete a dive with the Foreman",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b7e7a5ea90d8a4892f27d92877d54fa7750f9a79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "ach-subclasswin-interrogator": {
+      "name": "Chemical burns",
+      "description": "Complete a dive with the Interrogator",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8bc4c650eafc45ab7a6106de51ad9fbc9efcff83.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "ach-subclasswin-strongarmed": {
+      "name": "And my axe",
+      "description": "Complete a dive with the Strong Armed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e607da18d88068a282d0128abb8e81749289ded7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ach-subclasswinspecial-classic": {
+      "name": "Grow fat from strength",
+      "description": "Have 1000 max HP as the Classic Scout",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/737030d91adc90989232a42b9437c4212698e76e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ach-subclasswinspecial-sharpshooter": {
+      "name": "BOOM! Headshot",
+      "description": "Have +250% Crit Chance with the Sharpshooter in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f70ee64a4ea0af9aaa33525b85cfa17976bf3440.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ach-subclasswinspecial-recon": {
+      "name": "You're locked in here with me",
+      "description": "Survive in 1 stage for 10 minutes as the Recon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1898e258171cf58e6988515daf11a46d0a95db5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ach-subclasswinspecial-weaponsspecialist": {
+      "name": "Lord of war",
+      "description": "Fire 250,000 bullets as the Weapons Specialist in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/455f9552806330f84d92c73684b42716f9e64ff6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ach-subclasswinspecial-juggernaut": {
+      "name": "Know no fear",
+      "description": "Have 300 armor as the Juggernaut",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/40adfba56912f6c3956c29c04081fb06c87c9c22.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ach-subclasswinspecial-heavygunner": {
+      "name": "Walk without rhythm",
+      "description": "Deploy 30 seismic repulsor turrets at the same time with the Heavy Gunner",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e33cfa08704621ba8c1aa9beae0ea984bf35d482.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ach-subclasswinspecial-maintenanceworker": {
+      "name": "Unreasonable uptime",
+      "description": "Have a 30 second lifetime on one weapon with the Maintenance Worker",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f137205fe1ba82ced21cb1ecb68d8f014e62047b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ach-subclasswinspecial-tinkerer": {
+      "name": "Fully overclocked",
+      "description": "Get 4 weapons to level 21 as the Tinkerer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/df90edc4ad01caa6aba5ca42df1b396869feaff6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ach-subclasswinspecial-demolitionist": {
+      "name": "Going nuclear",
+      "description": "Have +250% explosion radius as the Demolitionist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/432652d3353665722ee2e33109585dbfe4b6fc54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ach-subclasswinspecial-foreman": {
+      "name": "With fire and blood",
+      "description": "Deal 10,000,000 fire damage as the Foreman in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0a019a794c50d8bf48415fa490aa9f770860017e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ach-subclasswinspecial-interrogator": {
+      "name": "Elemental avatar",
+      "description": "Apply 5,000,000 status effect stacks as the Interrogator in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/99ba086986baa6929e1ac53de1b8cf27e3aaf127.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ach-subclasswinspecial-strongarmed": {
+      "name": "Fastest hands on the rig",
+      "description": "Have +500% reload speed as the Strong Armed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/75f00bb5eb81618f5990c1d64bf62a395419ddf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ach-endurance-dives-1": {
+      "name": "Endurance: Dives I",
+      "description": "Complete 5 dives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/dc6c67042b703f14ae352f0ccd62e055a47ba805.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ach-endurance-dives-2": {
+      "name": "Endurance: Dives II",
+      "description": "Complete 25 dives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/2d81fe888bb7e06b2a4d46730c01fd2e6380505b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ach-endurance-dives-3": {
+      "name": "Endurance: Dives III",
+      "description": "Complete 50 dives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0a645b416ecc9b87aa80fd37799627bf6130b65a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ach-endurance-dives-4": {
+      "name": "Endurance: Dives IV",
+      "description": "Complete 75 dives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8c6b13df3f453056bde5cd37f685eec2350cd6a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ach-endurance-dives-5": {
+      "name": "Endurance: Dives V",
+      "description": "Complete 100 dives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/11453ca87dc0b378c2470b637df6e3c677664021.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach-endurance-kills-1": {
+      "name": "Endurance: Kills I",
+      "description": "Kill 50,000 enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/02a29c9405dd4dfe6907ce429086e03b66ddc2b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "ach-endurance-kills-2": {
+      "name": "Endurance: Kills II",
+      "description": "Kill 100,000 enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/45cd6ffd50d49abbc06f93f37234864295f6123e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "ach-endurance-kills-3": {
+      "name": "Endurance: Kills III",
+      "description": "Kill 250,000 enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/91d899e3bbe9d05a4dd7ef553da06278afa8912f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ach-endurance-kills-4": {
+      "name": "Endurance: Kills IV",
+      "description": "Kill 500,000 enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/40828e205e206f101d36e7c40918a121e4784925.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ach-endurance-kills-5": {
+      "name": "Endurance: Kills V",
+      "description": "Kill 1,000,000 enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3e0ad5a37e061afeaf9078378d6c2aeeadec3838.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach-endurance-damage-1": {
+      "name": "Endurance: Damage I",
+      "description": "Deal 100,000,000 damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/cf0f27da4fadb266854f4c23930ed43a08dac172.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ach-endurance-damage-2": {
+      "name": "Endurance: Damage II",
+      "description": "Deal 250,000,000 damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b456c73cf0a51999f6565168c64e38e2dafae22d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "ach-endurance-damage-3": {
+      "name": "Endurance: Damage III",
+      "description": "Deal 500,000,000 damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3c6e7bcf68bec09264f449462fe5a743f116f880.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ach-endurance-damage-4": {
+      "name": "Endurance: Damage IV",
+      "description": "Deal 1,000,000,000 damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d9ac441149018b56f86cfb7969150aa1a030fa9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ach-endurance-damage-5": {
+      "name": "Endurance: Damage V",
+      "description": "Deal 2,000,000,000 damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a4e09cec99b37617aa569aed0d0fb7ec234d26a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ach-endurance-mine-1": {
+      "name": "Endurance: Mine I",
+      "description": "Mine 15,000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/303a2be3806c9c7e0d163ea336b512a23ec56d3b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "ach-endurance-mine-2": {
+      "name": "Endurance: Mine II",
+      "description": "Mine 50,000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b3f5819974192862fdbfe244ebb1c24a55e06314.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ach-endurance-mine-3": {
+      "name": "Endurance: Mine III",
+      "description": "Mine 100,000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6595c66809c52a0e674d56ca06ea72e3a61dc3f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ach-endurance-mine-4": {
+      "name": "Endurance: Mine IV",
+      "description": "Mine 150,000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9e0d8dd6f40d3b3973c6b52d520658d1600ee985.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ach-endurance-mine-5": {
+      "name": "Endurance: Mine V",
+      "description": "Mine 250,000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4933c13370c89ea3cfc8a53e6c51e0f70dee2953.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ach-endurance-walk-1": {
+      "name": "Endurance: Run I",
+      "description": "Run 10,000 steps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d3573d354b647cba499500ab6658f63682734c1d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "ach-endurance-walk-2": {
+      "name": "Endurance: Run II",
+      "description": "Run 50,000 steps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/da6d15c130abd23e8f144206ed7e1c38fbc8e17c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "ach-endurance-walk-3": {
+      "name": "Endurance: Run III",
+      "description": "Run 100,000 steps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/74ab3800aa16b2d418a6caa0540cd4b820e9f919.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "ach-endurance-walk-4": {
+      "name": "Endurance: Run IV",
+      "description": "Run 250,000 steps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/047825907baa59d59eb1eaf524f98ef7fffa5d8e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ach-endurance-walk-5": {
+      "name": "Endurance: Run V",
+      "description": "Run 500,000 steps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/73fe6b10639f5baab53fc54e0506a7c22426d152.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ach-gear-haz5none": {
+      "name": "Just like the old days",
+      "description": "Complete a Hazard 5 dive without any gear equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f9f67647937d2d1ab6ecf74621edb1daf3424d37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ach-gear-haz4none": {
+      "name": "Mind over matter",
+      "description": "Complete a Hazard 4 dive without any gear equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6c5ed70232da7711e619814c71c2e2a6a5b29c16.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ach-gear-equiplegendary": {
+      "name": "Legendary!",
+      "description": "Equip a legendary item",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/23561e52d7c2aa274368467916c4628eb2c6ef96.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "ach-gear-equipepic": {
+      "name": "Truly epic",
+      "description": "Equip an epic item",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4f4c1b76214b32e4e7be3aaa2a7e6567fb4ea0ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "ach-gear-6legendary": {
+      "name": "Fabled fittings",
+      "description": "Have 6 legendary items equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/9583f56378b151fb834d577a18c4e2646723e1d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ach-gear-6epic": {
+      "name": "Expertly tuned",
+      "description": "Have 6 epic items equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7c68c00dcc5bd73790448e990f3f8aeff8a7dc6b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ach-gear-6rare": {
+      "name": "Professional setup",
+      "description": "Have 6 rare items equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f9ef6819dbee5b7e190294562e9ebef5e7df725c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ach-gear-6uncommon": {
+      "name": "Custom rig",
+      "description": "Have 6 uncommon items equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f6c96299ef61c0b824962ece1853da5efadd08fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ach-gear-fullupgrade": {
+      "name": "We're keeping this one",
+      "description": "Fully upgrade a piece of gear",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/3e349e9b5e22474a1d711033ac6bce7d27a482c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ach-gear-fullupgradelegendary": {
+      "name": "Master artificer",
+      "description": "Fully upgrade a legendary piece of gear",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7ef1667ea1475cdb00a383acd578511784590678.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ach-gear-fullupgradelegendary6": {
+      "name": "Karl, is that you?",
+      "description": "Have 6 fully upgraded legendary pieces of gear equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7f7c7d7afd7e69b6ae16566daf09aa7fd67c9c7b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-anom-winhaz1": {
+      "name": "Anomaly: Hazard 1",
+      "description": "Complete an anomaly dive at Hazard 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6ebb117b61b5825411f096eb2a3a6dac62c09e5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ach-anom-winhaz2": {
+      "name": "Anomaly: Hazard 2",
+      "description": "Complete an anomaly dive at Hazard 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/76273d5e3299edf8b1e2e1b3b2375f98a3f05d9e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ach-anom-winhaz3": {
+      "name": "Anomaly: Hazard 3",
+      "description": "Complete an anomaly dive at Hazard 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7201ca775b6f6376a2bd7ae90d4ece43bd6c9112.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ach-anom-winhaz4": {
+      "name": "Anomaly: Hazard 4",
+      "description": "Complete an anomaly dive at Hazard 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/35c8125cc6396c9d0243e92ddb88da9c504c3838.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ach-anom-winhaz5": {
+      "name": "Anomaly: Hazard 5",
+      "description": "Complete an anomaly dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/589c2276f84e0fa913028d660cc10b7e654f10a8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ach-vang-winhaz3": {
+      "name": "Vanguard: Hazard 3",
+      "description": "Complete a vanguard contract dive at Hazard 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1337d492d136ee485cd0018256eb7b522bb9c3f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ach-vang-winhaz4": {
+      "name": "Vanguard: Hazard 4",
+      "description": "Complete a vanguard contract dive at Hazard 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/fcb0f8efd3a60949596ae961810ab691a94dc87c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ach-vang-winhaz5": {
+      "name": "Vanguard: Hazard 5",
+      "description": "Complete a vanguard contract dive at Hazard 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5d2351dcfb48d15672c6d71fe21a94e25df8e2bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach-lethal-win1": {
+      "name": "Employee of the Week",
+      "description": "Complete a lethal operation dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6a91da89b79a8e59b5e0ec3cca806fd8c55a2218.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ach-lethal-win5": {
+      "name": "Employee of the Month",
+      "description": "Complete 5 lethal operation dives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/57a843774f2ca2ba96517c49394f3107a40941cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ach-lethal-win10": {
+      "name": "Employee of the Year",
+      "description": "Complete 10 lethal operation dives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/190d9a09bee16093b5189c11e8c0774ce5fd8ef8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "ach-funky-noartifacts": {
+      "name": "They belong in a museum",
+      "description": "Complete a dive without any artifacts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/31b8197475f6942055b2afd6b048d88fc52527a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ach-funky-nobuys": {
+      "name": "I ain't buying it",
+      "description": "Complete a dive without buying anything in the shop at Hazard 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/95f46fcff8bbd9ba397da1018e1d499f931ab28f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ach-funky-50rerolls": {
+      "name": "Extreme indecision",
+      "description": "Perform 50 rerolls during a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/7e5e0b7690d2d7600eb825097e3a3c7b4087e697.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach-funky-nooverclocks": {
+      "name": "Underclocked",
+      "description": "Complete a dive without any overclocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/436aa705f06972c7bcdee4b1d679b001a6e0a087.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ach-comm-goldenlootbug": {
+      "name": "The dwarf with the golden bug",
+      "description": "Kill a golden lootbug",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/214c9827ca0673e6c3f0ef261b1b03fa3a150e58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "ach-comm-dreadnodamage": {
+      "name": "Still only counts as one!",
+      "description": "Kill the Dreadnought without taking any damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/882ab787f388142fcc30bd5182dde770964c4070.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.6"
+    },
+    "ach-comm-dreadtwinsnoheal": {
+      "name": "Denied",
+      "description": "Kill the Dreadnought Twins before they can heal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/d65f0c9e97c24d04662826a5ec1b107eec7dcce9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ach-comm-shellbacksupplypod": {
+      "name": "Bullseye",
+      "description": "Kill a Q'ronar Shellback with the Supply Pod",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1c4037a101b35c85949021c402a7c54a0f55df2c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ach-comm-killalllootbugs": {
+      "name": "This hurts me more",
+      "description": "Kill all the lootbugs in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e07e5026da78ea16b8e9587b6c93f9fcc2494ab2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ach-comm-perfectrun": {
+      "name": "Perfect run",
+      "description": "Complete a dive without taking any damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/c771cbebbf5ec36d0932da40db16c22210ebe6e5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ach-comm-nospending": {
+      "name": "Cheapskate",
+      "description": "Complete a dive without spending any gold or nitra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/96512efd01c99f2d7b134f56b26ee658f42faf0a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ach-comm-allwepslvl1": {
+      "name": "Underpromise, overdeliver",
+      "description": "Complete a dive with all of your weapons at level 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/b759a46de6fe9551151294e83c74ae6860a98857.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ach-comm-eyeofthestorm": {
+      "name": "Eye of the storm",
+      "description": "Complete a dive with unstable overclocks on both the NUK17 and the BRT7",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/32169f940c74007240e5d4794a3f052b144886ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ach-comm-lootbugroadkill": {
+      "name": "Roadkill",
+      "description": "Drill through a lootbug with B0b-33",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/43383e54ff9322f41ec89d927fe60c9ee39ae8ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "ach-comm-maxmeta": {
+      "name": "Fully armed and operational",
+      "description": "Purchase every single meta upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/1231b897305971678ee3f3e1078f0d3a87584eef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "ach-comm-30secondsleft": {
+      "name": "Early access",
+      "description": "Enter the drop pod with more than 30 seconds remaining",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/313384c97941a5b23e23fd78aa52aba40fdcb955.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ach-comm-salvage10": {
+      "name": "Salvage operation",
+      "description": "Salvage 10 overclocks in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/ee28db05e477e7fbec77221bd74a12182d05cbaa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ach-comm-bounce10": {
+      "name": "They fly now?",
+      "description": "Bounce 100 times in one stage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/74a3de1c5abf3950379b6d4201cae87b1dcb12fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ach-comm-tanktracks": {
+      "name": "They see 'em rollin', they hatin'",
+      "description": "Have 3 'Tank Tracks' overclocks in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/937c18e439deb4c09d9472c63926efb8de7796d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ach-comm-50turrets": {
+      "name": "Tower defense",
+      "description": "Have 50 turrets alive at the same time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a743a06ddf3c58a20b45dd606f5a4f7b9b5eb086.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ach-comm-allwepssamelvl": {
+      "name": "Perfectly balanced",
+      "description": "Complete a dive with 4 (or more) of your weapons at the same level",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/5b663b56da9f0becd08e04b9231ce24dab770697.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ach-comm-5scanners": {
+      "name": "Deep scan",
+      "description": "Have 5 scanner artifacts in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/36514fa0c4bf8fc0991d66ed4c9a1cd13f9731ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach-comm-4sidearms": {
+      "name": "All sides",
+      "description": "Have 3 'Sidearm' overclocks in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/6283d5da7088b7d6cff9c688310d2be2afed35a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ach-comm-fullheal": {
+      "name": "Back from the brink!",
+      "description": "Reach max HP after having dropped below 5 HP",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/065f26e350f7e873d56cc40343b125ae51ea64d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "ach-comm-lvl25classes": {
+      "name": "Survivor squad",
+      "description": "Reach level 30 with all 4 classes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/36ebffa8b0496c98cc4d64bdd1fa38b9687efb1b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ach-comm-2favourites": {
+      "name": "This is brilliant, but I like this",
+      "description": "Have 2 'The Favourite' overlocks in a single dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/f07b03cfd3e19eac4ea457836db5707cd3dfe454.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach-comm-fuelb0b33": {
+      "name": "Fill 'er up",
+      "description": "Fully fuel B0b-33",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/07cce117f22e5e335cef5c079d0d898cd1c4b3b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ach-comm-collectoilshale": {
+      "name": "Drill baby, drill",
+      "description": "Collect all the oil shale on one stage, then complete the dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/8c56d446f77ff2ec9c8ef049f6799921ee000b83.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "ach-comm-escortminestage": {
+      "name": "The only drilldozer here is me",
+      "description": "Mine an entire stage before moving B0b-33, then complete the dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/e8574c5c82b70959fa90628f4fe0f116ef308c1a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ach-comm-droppodjump": {
+      "name": "Mission Possible",
+      "description": "Land on the drop pod ramp 3 times using jet boots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/0ea0b25ec00c511f612cc9fa01eedf7ea09cc362.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ach-comm-level10monsters": {
+      "name": "Now, where did I put my keys?",
+      "description": "Have the alien threat reach level 2 before moving B0b-33, then complete the dive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/219332626a037e932a7e932c0217b624d990da53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ach-bonus-rocknstone": {
+      "name": "Rock and Stone!",
+      "description": "Remember to Rock and Stone!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/72d0bf7c7915717c49da036ef7165571e7bca2cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

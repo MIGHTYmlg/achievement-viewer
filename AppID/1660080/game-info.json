@@ -1,0 +1,181 @@
+{
+  "appid": "1660080",
+  "name": "Aloft",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/header.jpg?t=1776163995",
+  "achievements": {
+    "SKETCH_25_BUILDING_PIECES": {
+      "name": "Should have been an artist",
+      "description": "Sketch 25 different building pieces",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/bb8724ebb7e8bd7c86074a1e0983c651f8455f64.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/bb8724ebb7e8bd7c86074a1e0983c651f8455f64.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "SAIL_500_MILES": {
+      "name": "How about 500 more?",
+      "description": "Sail 500 miles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/b139ae931119490ee487e81fa3d334ea4a25c305.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/b139ae931119490ee487e81fa3d334ea4a25c305.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "GLIDE_1000_METERS": {
+      "name": "Walking is overrated",
+      "description": "Glide for a 1000 meters consecutively",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/85ea5f8eebeb139ec3f3a22b761d63a9669bbaf5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/85ea5f8eebeb139ec3f3a22b761d63a9669bbaf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.5"
+    },
+    "PET_ANIMAL_20_SECONDS": {
+      "name": "Can't get enough of the fluff",
+      "description": "Pet an animal for 20 consecutive seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/f8950252f7836d87e0d751c905eb6f8ce43abe49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/f8950252f7836d87e0d751c905eb6f8ce43abe49.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "LAY_DOWN_5_MINUTES": {
+      "name": "AFKBRB",
+      "description": "Lay down for 5 minutes without interruption",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/cc24e09285c6127d315828331eae5302a408cd2b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/cc24e09285c6127d315828331eae5302a408cd2b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "FIRST_TIME_SAILING": {
+      "name": "The world is your oyster now",
+      "description": "Sail an island for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/08b5d00b69d1d78c119861ded0cb5cefde67cf6b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/08b5d00b69d1d78c119861ded0cb5cefde67cf6b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.6"
+    },
+    "BOOST_CHAIN_5": {
+      "name": "All gas, no brakes",
+      "description": "Perform 5 boosts in a row using the glider",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/5204456a0e6480c8e7409a39971983c3daad01da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/5204456a0e6480c8e7409a39971983c3daad01da.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.5"
+    },
+    "COMBAT_COMBO_3": {
+      "name": "No rest for the wicked",
+      "description": "Chain 3 combat manoeuvres in a row",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/8ec17bccab13d9709799333e1b784e610e767f2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/8ec17bccab13d9709799333e1b784e610e767f2a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "ALL_COMBAT_MANEUVERS_KILL": {
+      "name": "Wanna dance?",
+      "description": "Use every manoeuvre to kill enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/c2699a7119d77fc1c13d50d709d238caf9a2ac9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/c2699a7119d77fc1c13d50d709d238caf9a2ac9b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "SAVE_THE_LEVIATHAN": {
+      "name": "Can we bring it home? Pleeease...",
+      "description": "Save the Leviathan",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/95b048ae84cb08d43059e33fc3a3c08b6ffd8636.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/95b048ae84cb08d43059e33fc3a3c08b6ffd8636.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "EXPLORE_100_SECTORS": {
+      "name": "20,000 leagues way above the sea",
+      "description": "Explore 100 sectors",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/f312ef9befd63b6812f40063328bc7ffdee036a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/f312ef9befd63b6812f40063328bc7ffdee036a5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "CRAFT_4_TRINKETS": {
+      "name": "Liking my shinies",
+      "description": "Craft 4 different trinkets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/534d601b10253031e355014400565c83b9d3d67f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/534d601b10253031e355014400565c83b9d3d67f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "BUILD_15_DIFFERENT_DECORATIONS": {
+      "name": "Ordered one of each",
+      "description": "Build 15 different decoration pieces",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/e4fbd64496842e121c9c5061e61dc2386dad5d47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/e4fbd64496842e121c9c5061e61dc2386dad5d47.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "TWO_DIFFERENT_CLOTHING": {
+      "name": "Trend Setter",
+      "description": "Mix-and-Match 2 different crafted clothing pieces",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/0253051ef2a8b060835142a3cc989c371f119f8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/0253051ef2a8b060835142a3cc989c371f119f8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "KILL_COWARD_COWERING": {
+      "name": "Now, that's just mean...",
+      "description": "Kill a coward while it is cowering",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/3022104efad86a1a84f5ee9715e17e17ae8f6621.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/3022104efad86a1a84f5ee9715e17e17ae8f6621.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "HOME_ISLAND_SPAWNED_MULTIPLAYER": {
+      "name": "Welcome to my crib",
+      "description": "Import your home island into a multiplayer game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/2ee7623e0e39bc354883c698a7c80c6200ce17aa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/2ee7623e0e39bc354883c698a7c80c6200ce17aa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "SET_BED_OTHERS_HOME": {
+      "name": "Don't mind me... I just live here now",
+      "description": "Set your bed on someone else's home island",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/58d96a58b996d806399ba923ff83c04f6e7de36c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/58d96a58b996d806399ba923ff83c04f6e7de36c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "EXPLORE_2_NEW_BIOMES": {
+      "name": "Somewhat of an explorer",
+      "description": "Explore two new biomes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/644ffb08adee275b1d37d902ed7ed0a84cdc9b95.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/644ffb08adee275b1d37d902ed7ed0a84cdc9b95.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "MACHINES_5_EFFICIENCY_300": {
+      "name": "Mad with power",
+      "description": "Have 5 machines working at 300% efficiency on a single network",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/bf634117de38ae8cc0b6478dd127e392ea13589a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1660080/bf634117de38ae8cc0b6478dd127e392ea13589a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

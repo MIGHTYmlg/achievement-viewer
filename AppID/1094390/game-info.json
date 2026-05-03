@@ -1,0 +1,217 @@
+{
+  "appid": "1094390",
+  "name": "Waltz of the Wizard",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1094390/a609a9d0770eaaa29cc007d9863d16e09154de57/header.jpg?t=1777029523",
+  "achievements": {
+    "BREW_HALF_SPELLS": {
+      "name": "Wizard Apprentice",
+      "description": "Brew 6 spells in the cauldron.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/3aace3a847fa479a2d18319031df1c52f643148d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/affc3781482354cb6d0e9555a1eccc35b3a2a0f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.4"
+    },
+    "BREW_ALL_SPELLS": {
+      "name": "Wizard Master",
+      "description": "Brew all 12 spells in the cauldron.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/4e0327f493727a4d5fb16f92c0b1ff083851f8d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/6c3750e0005cf321258d859ef4f8d50acf1291fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.1"
+    },
+    "ARMOR_CATCHER": {
+      "name": "Catch this!",
+      "description": "Play catch with the armor knight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/8d0356f51f9928bd029794586dc7129da22cd2a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/0c820b99eee17c43c4c748125967642336c07c2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "THROW_SKULLY_OUT_WINDOW": {
+      "name": "Aaaaaaahhhh!",
+      "description": "Throw Skully out the window.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/c07b0e522cdfb2d4e1dd5cb5f34bd71b9be4f1e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/15d902f3e1cfe834288c9bcd0b6a0b2d8ed78319.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.6"
+    },
+    "TELEPORT_ELEVATED": {
+      "name": "Afraid of heights",
+      "description": "Visit the canyon bridge.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/371139953200dda7d472853a5fd2fcf9fa9a9a01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/5ff0b9c5d0956c6b3b2d7c4562c71e42905a79cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.8"
+    },
+    "TELEPORT_HALLWAY": {
+      "name": "Aghh, a monster!",
+      "description": "Encounter the hallway monster.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/a5a09c30a39c3dd6038e54f5d9932413f188da68.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/47a0f31c7ba1b6ccf5fca1329afabc282529b5cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.8"
+    },
+    "TELEPORT_TRIAL": {
+      "name": "Judgement",
+      "description": "Put on trial by the interdimensional judges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/4a8741e9f70650683dc129b74d4ca99dac10b01e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/4dbff3fe1f44aedea4dded227d26e334235397e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.9"
+    },
+    "TELEPORT_SECRET": {
+      "name": "Ooh, a secret!",
+      "description": "Play the hidden musical notes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/80c740df9f3fdeeac134fea319e6cd81a3a8500f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/a1245f00b7e6dbd9f7c5f7b10ff47123474f7507.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "COMPLETE_RUINS": {
+      "name": "Master of the Maze",
+      "description": "Complete the maze trial.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/7e80f2e4df08ddc019ce2efa5711d7e1e1258576.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/27063a7963986efd093c421b22448cc86664defb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "DRINK_ALL_POTIONS": {
+      "name": "Why did I drink that?",
+      "description": "Drink the 3 hidden potions.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/43240844f5238b5e78bf9642d4ec2d99b9287581.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/1118650f8143cff013a213b73b1c947ebcbd07a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "FRUIT_CANNON_NO_MISS": {
+      "name": "Sword Master",
+      "description": "Play a flawless gargoyle sword game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/4039908d46a92209ef0b2629b25140c2053f5d84.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/89ceb9756a01b3b7ca9e0e16793fd687daafce7b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "CROSSBOW_GAME_NO_MISS": {
+      "name": "Crossbow Master",
+      "description": "Play a flawless crossbow target game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/952344c42b3c1178bd683320be6409a4467c0edc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/a5634c7fa15e04a30acf96a2655f8cbf2b4060ff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "FINISH_SCAVENGER_HUNT": {
+      "name": "Scavenger Hunter",
+      "description": "Finish the scavenge hunt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/46cfd17fed64dbc605f7ec0f6418eef17e337a61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/83b5dccc50960ded94c5f776ec6c0b36b2ada65e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "FIND_FIVE_WHISPERING_ARTIFACTS": {
+      "name": "Artifact Connoisseur",
+      "description": "Find five whispering artifacts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/c9f7dfcbd8c10c4d6d918b4ee242c3a3d4c458c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/8381b7874b63e2a12f247f58815641a17d6cc4ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "FIND_TEN_WHISPERING_ARTIFACTS": {
+      "name": "Artifact Seeker",
+      "description": "Find ten whispering artifacts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/68b96c9001429862d8a423f2d6001e817dc29e48.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/7b03a1709a22f8b62f798c1746102ddb190f5fbb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "ELECTRIFIED_SKULLY": {
+      "name": "UNLIMITED POWER!",
+      "description": "Electrify Skully 25 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/36bf06d8a2166a616251b107099789ee780528c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/d5c745344dbd097fab80ed502c41c937d55fb837.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "FINISH_10_FORTRESS_LEVELS": {
+      "name": "So much left to know",
+      "description": "Finish the first 10 levels in the Observer Fortress.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/c7286f9737ae55c978818c2fdf981f0043694d1b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/cd8c0837e2b68beff55e8fc51b0c74b66eec9d31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "FINISH_25_FORTRESS_LEVELS": {
+      "name": "The fall explained",
+      "description": "Finish the first 25 levels in the Observer Fortress.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/64332d00c499f317f25df3cd6cbade165e46de56.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/b3372a900016a80a786e26fb33db43d9c2c83af8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "FINISH_ALL_FORTRESS_LEVELS": {
+      "name": "The truth revealed",
+      "description": "Finish all the levels in the Observer Fortress.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/01ceb4c9bb0f806f6b04cc27c0db310979a81ad5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/58c2c49618cf89cd1d90d3de2e019de958275c9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "DEFEAT_FORTRESS_ENEMIES": {
+      "name": "Conqueror of Chaos",
+      "description": "Defeat all the unique Observer Fortress enemies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/6331d1ce709ed9d1485fd214cbcfcdad716a743c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/99417a93526c2e2e166991dfb6e9fe792701aead.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "USE_ALL_NM_POWERS": {
+      "name": "Arcane Artisan",
+      "description": "Use all Natural Magic powers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/5e15c9f00c5264d9eb9adaebb592dc15152a1320.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/7f5cd6b1c4c1de0c4e58de27609394f1f99e02ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "USE_ALL_VOICE_COMMANDS": {
+      "name": "Vocal Virtuoso",
+      "description": "Use all unique voice commands.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/0e5152b7a8b8a98d4bfd9682b8d183164d2b20f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/08af05adfdec8d5bbe7f9db361192a455482f5e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "USE_CO_OP_MODE": {
+      "name": "Coven of Cooperation",
+      "description": "Use the Co-Op mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/52d78192a81055d812aa54d280ff0cbb610a04e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/738f277ce12ebcff7f862ff6d9a47c19c82f7c67.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,406 @@
+{
+  "appid": "2701700",
+  "name": "Maestro",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701700/header.jpg?t=1766137715",
+  "achievements": {
+    "Achievements.General.ConcertScore5": {
+      "name": "Standing Ovation",
+      "description": "Earn a five stars rating in concert mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.0"
+    },
+    "Achievements.FiveStars.Score_HankLevy_Whiplash": {
+      "name": "5-Star Performance: Whiplash",
+      "description": "Achieve a perfect 5-star rating on 'Whiplash'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "Achievements.FiveStars.Score_DukeEllington_Caravan": {
+      "name": "5-Star Performance: Caravan",
+      "description": "Achieve a perfect 5-star rating on 'Caravan'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "Achievements.FiveStars.Score_Moussorgski_NightOnABaldMountain_Part1": {
+      "name": "5-Star Performance: Night on a Bald Mountain",
+      "description": "Achieve a perfect 5-star rating on 'Night on a Bald Mountain'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "Achievements.FiveStars.Score_Beethoven_5thSymph_Part2": {
+      "name": "5-Star Performance: The 5th Symphony (Part 2)",
+      "description": "Achieve a perfect 5-star rating on 'The 5th Symphony (Part 2)'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "Achievements.FiveStars.Score_Beethoven_5thSymph_Part1": {
+      "name": "5-Star Performance: The 5th Symphony (Part 1)",
+      "description": "Achieve a perfect 5-star rating on 'The 5th Symphony (Part 1)'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.2"
+    },
+    "Achievements.FiveStars.Score_Prokofiev_DanceOfTheKnights": {
+      "name": "5-Star Performance: Dance of the Knights",
+      "description": "Achieve a perfect 5-star rating on 'Dance of the Knights'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "Achievements.FiveStars.Score_Mendelssohn_TheHebrides_Part2": {
+      "name": "5-Star Performance: The Hebrides",
+      "description": "Achieve a perfect 5-star rating on 'The Hebrides'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "Achievements.FiveStars.Score_Tchaikovski_SwanLake": {
+      "name": "5-Star Performance: Swan Lake",
+      "description": "Achieve a perfect 5-star rating on 'Swan Lake'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "Achievements.FiveStars.Score_SaintSaens_DanseMacabre": {
+      "name": "5-Star Performance: Danse Macabre",
+      "description": "Achieve a perfect 5-star rating on 'Danse Macabre'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "Achievements.FiveStars.Score_Wagner_RideOfTheValkyries": {
+      "name": "5-Star Performance: Ride of the Valkyries",
+      "description": "Achieve a perfect 5-star rating on 'Ride of the Valkyries'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "Achievements.FiveStars.Score_Prima_SingSingSing": {
+      "name": "5-Star Performance: Sing Sing Sing",
+      "description": "Achieve a perfect 5-star rating on 'Sing Sing Sing'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "Achievements.FiveStars.Score_Verdi_DiesIrae": {
+      "name": "5-Star Performance: Messa Da Requiem",
+      "description": "Achieve a perfect 5-star rating on 'Messa Da Requiem'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "Achievements.FiveStars.Score_Orff_CarminaBurana_PlangoVulnera": {
+      "name": "5-Star Performance: Carmina Burana (Part 2)",
+      "description": "Achieve a perfect 5-star rating on 'Carmina Burana (Part 2)'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.9"
+    },
+    "Achievements.FiveStars.Score_Orff_CarminaBurana_OFortuna": {
+      "name": "5-Star Performance: Carmina Burana (Part 1)",
+      "description": "Achieve a perfect 5-star rating on 'Carmina Burana (Part 1)'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.1"
+    },
+    "Achievements.FiveStars.Score_Mozart_FigaroWedding": {
+      "name": "5-Star Performance: The Marriage of Figaro",
+      "description": "Achieve a perfect 5-star rating on 'The Marriage of Figaro'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "Achievements.FiveStars.Score_Dvorak_FromTheNewWorld": {
+      "name": "5-Star Performance: From the New World",
+      "description": "Achieve a perfect 5-star rating on 'From the New World'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.8"
+    },
+    "Achievements.General.FailedConcert": {
+      "name": "Failed concert",
+      "description": "You have failed a concert.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/326db781340a329982da1cb96d25589c60f22bea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.5"
+    },
+    "Achievements.Masterclass.CompletedMasterclass": {
+      "name": "Tenure",
+      "description": "Complete the Masterclass.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.8"
+    },
+    "Achievements.Masterclass.CompletedConcert": {
+      "name": "Virtuoso",
+      "description": "Beat your stage fright and complete the Concert to unlock this achievement!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.6"
+    },
+    "Achievements.FiveStars.Score_Stravinsky_RiteOfSpring": {
+      "name": "5-Star Performance: The Rite of Spring",
+      "description": "Achieve a perfect 5-star rating on 'The Rite of Spring'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/dffb778e027830c8038148a7b0c28ed2bed0032a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/751da551be19d23579a3d6778c030368ab18de51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "Achievements.FiveStars.Score_Berlioz_SymphonieFantastique": {
+      "name": "5-Star Performance: Symphonie Fantastique",
+      "description": "Achieve a perfect 5-star rating on 'Symphonie Fantastique'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/8f379157dff45da74c478a74a13566f0722c89dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/de43b71dba967133cd90b47782f898a5109d48d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "Achievements.FiveStars.Score_Dukas_TheSorcererAprentice": {
+      "name": "5-Star Performance: The Sorcerer's Apprentice",
+      "description": "Achieve a perfect 5-star rating on 'The Sorcerer's Apprentice'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/8f379157dff45da74c478a74a13566f0722c89dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/de43b71dba967133cd90b47782f898a5109d48d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "Achievements.FiveStars.Score_Falla_ElAmorBrujo": {
+      "name": "5-Star Performance: El amor brujo",
+      "description": "Achieve a perfect 5-star rating on 'El amor brujo'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/8f379157dff45da74c478a74a13566f0722c89dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/de43b71dba967133cd90b47782f898a5109d48d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "Achievements.FiveStars.Score_Grieg_InTheHallOfTheMountainKing": {
+      "name": "5-Star Performance: In the Hall of the Mountain King",
+      "description": "Achieve a perfect 5-star rating on 'In the Hall of the Mountain King'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/8f379157dff45da74c478a74a13566f0722c89dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/de43b71dba967133cd90b47782f898a5109d48d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "Achievements.FiveStars.Score_Williams_HedwigTheme": {
+      "name": "5-Star Performance: Hedwig's Theme",
+      "description": "Achieve a perfect 5-star rating on 'Hedwig's Theme'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/8f379157dff45da74c478a74a13566f0722c89dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/de43b71dba967133cd90b47782f898a5109d48d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "Achievements.FiveStars.Score_Vivaldi_Winter": {
+      "name": "5-Star Performance: Winter",
+      "description": "Achieve a perfect 5-star rating on 'Winter'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/dffb778e027830c8038148a7b0c28ed2bed0032a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/751da551be19d23579a3d6778c030368ab18de51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.3"
+    },
+    "Achievements.FiveStars.Score_Djawadi_GOTMainTitle": {
+      "name": "5-Star Performance: Game of Thrones Theme",
+      "description": "Achieve a perfect 5-star rating on 'Game of Thrones Theme'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.4"
+    },
+    "Achievements.FiveStars.Score_Shore_BridgeKhazadDum": {
+      "name": "5-Star Performance: The Bridge of Khazad-dûm",
+      "description": "Achieve a perfect 5-star rating on 'The Bridge of Khazad-dûm'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "Achievements.FiveStars.Score_Offenbach_OrpheusUnderworld": {
+      "name": "5-Star Performance: Orpheus in the Underworld",
+      "description": "Achieve a perfect 5-star rating on 'Orpheus in the Underworld'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "Achievements.FiveStars.Score_Liszt_Totentanz": {
+      "name": "5-Star Performance: Totentanz",
+      "description": "Achieve a perfect 5-star rating on 'Totentanz'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "Achievements.FiveStars.Score_Shostakovich_10thSymph": {
+      "name": "5-Star Performance: Symphony No. 10",
+      "description": "Achieve a perfect 5-star rating on 'Symphony No. 10'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "Achievements.FiveStars.Score_Williams_DuelFates": {
+      "name": "5-Star Performance: Duel of the Fates",
+      "description": "Achieve a perfect 5-star rating on 'Duel of the Fates'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "Achievements.FiveStars.Score_Prokofiev_BattleIce": {
+      "name": "5-Star Performance: The Battle on the Ice",
+      "description": "Achieve a perfect 5-star rating on 'The Battle on the Ice'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/e36afd30c8038ba6140e96987c477c3f29575c12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "Achievements.FiveStars.Score_Beethoven_OdeToJoy": {
+      "name": "5-Star Performance: Ode to Joy",
+      "description": "Achieve a perfect 5-star rating on 'Ode to Joy'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f73e700e27a48f1a7b53c332cb2a0c4812a4b938.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/c445b1f06f73ac741da2abee79ff42985d42a7d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "Achievements.FiveStars.Score_Bizet_Toreadors": {
+      "name": "5-Star Performance: Toreador Song",
+      "description": "Achieve a perfect 5-star rating on 'Toreador Song'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f73e700e27a48f1a7b53c332cb2a0c4812a4b938.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/c445b1f06f73ac741da2abee79ff42985d42a7d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "Achievements.FiveStars.Score_Brahms_HungarianDance5": {
+      "name": "5-Star Performance: Hungarian Dance No. 5",
+      "description": "Achieve a perfect 5-star rating on 'Hungarian Dance No. 5'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f73e700e27a48f1a7b53c332cb2a0c4812a4b938.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/c445b1f06f73ac741da2abee79ff42985d42a7d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "Achievements.FiveStars.Score_Holst_Mars": {
+      "name": "5-Star Performance: Mars",
+      "description": "Achieve a perfect 5-star rating on 'Mars'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f73e700e27a48f1a7b53c332cb2a0c4812a4b938.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/c445b1f06f73ac741da2abee79ff42985d42a7d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "Achievements.FiveStars.Score_Mozart_Requiem_DiesIrae": {
+      "name": "5-Star Performance: Requiem (Dies Irae)",
+      "description": "Achieve a perfect 5-star rating on 'Requiem (Dies Irae)'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f73e700e27a48f1a7b53c332cb2a0c4812a4b938.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/c445b1f06f73ac741da2abee79ff42985d42a7d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "Achievements.FiveStars.Score_ZimmerBadelt_HesAPirate": {
+      "name": "5-Star Performance: He's a Pirate",
+      "description": "Achieve a perfect 5-star rating on 'He's a Pirate'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/82b7f733cebb2cf34b72389d8e526af8235db1c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/1a2adaef7b7947f8216ebeb201f8c8f288572365.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "Achievements.FiveStars.Score_Zimmer_JackSparrow": {
+      "name": "5-Star Performance: Jack Sparrow",
+      "description": "Achieve a perfect 5-star rating on 'Jack Sparrow'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/82b7f733cebb2cf34b72389d8e526af8235db1c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/1a2adaef7b7947f8216ebeb201f8c8f288572365.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "Achievements.FiveStars.Score_Rimsky_Sheherazade": {
+      "name": "5-Star Performance: Scheherazade IV",
+      "description": "Achieve a perfect 5-star rating on 'Scheherazade IV'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/82b7f733cebb2cf34b72389d8e526af8235db1c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/1a2adaef7b7947f8216ebeb201f8c8f288572365.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "Achievements.FiveStars.Score_Unknown_Wellerman": {
+      "name": "5-Star Performance: Wellerman",
+      "description": "Achieve a perfect 5-star rating on 'Wellerman'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/82b7f733cebb2cf34b72389d8e526af8235db1c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/1a2adaef7b7947f8216ebeb201f8c8f288572365.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "Achievements.FiveStars.Score_WilliamsV_SeaSymphony": {
+      "name": "5-Star Performance: A Sea Symphony",
+      "description": "Achieve a perfect 5-star rating on 'A Sea Symphony'.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/82b7f733cebb2cf34b72389d8e526af8235db1c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/1a2adaef7b7947f8216ebeb201f8c8f288572365.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
