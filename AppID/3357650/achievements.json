@@ -1,7 +1,7 @@
 {
   "1": {
     "earned": true,
-    "earned_time": 1776708557
+    "earned_time": 1777762512
   },
   "10": {
     "earned": false,
@@ -13,11 +13,11 @@
   },
   "12": {
     "earned": true,
-    "earned_time": 1776708878
+    "earned_time": 1777762775
   },
   "13": {
-    "earned": true,
-    "earned_time": 1776803671
+    "earned": false,
+    "earned_time": 0
   },
   "14": {
     "earned": false,
@@ -25,7 +25,7 @@
   },
   "15": {
     "earned": true,
-    "earned_time": 1776802306
+    "earned_time": 1777764358
   },
   "16": {
     "earned": false,
@@ -44,8 +44,8 @@
     "earned_time": 0
   },
   "2": {
-    "earned": true,
-    "earned_time": 1776803123
+    "earned": false,
+    "earned_time": 0
   },
   "20": {
     "earned": false,
@@ -61,7 +61,7 @@
   },
   "23": {
     "earned": true,
-    "earned_time": 1776709900
+    "earned_time": 1777764277
   },
   "24": {
     "earned": false,
