@@ -1,7 +1,7 @@
 {
   "appid": "1094390",
   "name": "Waltz of the Wizard",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1094390/a609a9d0770eaaa29cc007d9863d16e09154de57/header.jpg?t=1777029523",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1094390/a609a9d0770eaaa29cc007d9863d16e09154de57/header.jpg?t=1778103530",
   "achievements": {
     "BREW_HALF_SPELLS": {
       "name": "Wizard Apprentice",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/738f277ce12ebcff7f862ff6d9a47c19c82f7c67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     }
   },
   "platform": null,
