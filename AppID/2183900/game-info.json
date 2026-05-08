@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.3"
     },
     "PVE_TYRANT": {
       "name": "Sic Semper Tyrannis",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d9c32785a96e5df3d4e41f222e6797eb2ed731cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.7"
     },
     "STORY_ORBITAL_DROP": {
       "name": "My Face Is My Shield",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "STORY_FINALE": {
       "name": "I'll Be Watching You",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",

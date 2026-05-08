@@ -1,7 +1,7 @@
 {
   "appid": "355790",
   "name": "Styx: Shards of Darkness",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355790/header.jpg?t=1768301743",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355790/header.jpg?t=1778174587",
   "achievements": {
     "FinishMission0": {
       "name": "Slowly but surely?",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "GetIngredients": {
       "name": "Goblin Farmer",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.5"
     },
     "UnlockUltimateSkill": {
       "name": "Trigonal Elven System",
