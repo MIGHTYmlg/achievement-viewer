@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/51855ae017fdcceb19fc88f757c6b651a9a67d1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "E1_S05_GRAFFITIEXIT": {
       "name": "Mulligan Stew",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/7f0f7893e8c90f3f83ea124f298249e4f4567f20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "E1_S06_GRAFFITISTATUE": {
       "name": "Pioneer Spirit",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/6ecc76e20fe3771f9e7f90cec48522ed90857bab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "E1_S08_SIGNGRAFFITI": {
       "name": "Face Your Anger",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0478d2ff2aa420769e173e815f3ce076646061ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.8"
+      "percent": "63.7"
     },
     "e2_s01D_lightgraffiti": {
       "name": "Stagehandwriting",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0e06ca9afd190b52b4d5cc0196e24e4cc421f34c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "E2_S04A_GRAFFITICONCRETE": {
       "name": "Tread Harshly",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0f57f2f0f2a970ba2f3a798f24d695d1f8c349d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "e2_s04b_eliotgraffiti": {
       "name": "Permanent Record",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/7dafac5bfd6b590de3f65b9ce30bff87aa10a3e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "e2_s07_jamesgraffiti": {
       "name": "Creature Feature",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/f3f00cd92f34c2dd9130d5b4f1c71e780d3815f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "EndOfEpisode2": {
       "name": "O, Wonder!",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0f8dfd2860cf77852a5d5b97a6e4244a7ad8fbe2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "e3_s01_plannergraffiti": {
       "name": "Extra Credits",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/fb6a73b51ed0525d757c5df7920730d9c25c5c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "E3_s05_graffiti": {
       "name": "Drunk Drawer",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/33abb6416dc90195aa7a761da416a896173f682a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "e3_s07_carve": {
       "name": "Messed Up",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/9f4dbe94e10dd423c7c0a4e35119537ba084f459.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "EndOfEpisode3": {
       "name": "All the Devils are Here",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0b5e431053d2ef1e171234756a803d581d827034.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.4"
     }
   },
   "platform": null,
