@@ -1,7 +1,7 @@
 {
   "appid": "570940",
   "name": "DARK SOULS™: REMASTERED",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1764975651",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
   "achievements": {
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_00": {
       "name": "The Dark Soul",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/6a8073f618b86ee004cdbeb7eabdca9f8b3c8b5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_10": {
       "name": "Covenant: Warrior of Sunlight",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/fddcab2eb6a4b1d1454d0fecfcb94a7388fe00d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_20": {
       "name": "Magic Weapon",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/8e668da7ee46372245a48d56e9c2bc08030a4d7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     }
   },
   "platform": null,

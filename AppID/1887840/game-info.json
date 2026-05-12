@@ -1,7 +1,7 @@
 {
   "appid": "1887840",
   "name": "Another Crab's Treasure",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/header.jpg?t=1773857190",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/header.jpg?t=1778548220",
   "achievements": {
     "BossDefeated_Nephro": {
       "name": "Captain of the Guard",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/8175c44c52993fe2d3f9314cb30a8c8a877529c7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "CollectLimit_Shells": {
       "name": "Shell Seeker",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/dfb6396d05c6eac277bdac7f0a50504a5e0e5175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "YOTC_HiddenSnail": {
       "name": "I am Speed",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/280045137061428e80b7c43590ebbcf12cc44c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     }
   },
   "platform": null,

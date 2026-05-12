@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6a5e1545dbb43f58ed160ba66c1a8f571128661e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.4"
     },
     "STORY_RESCUE": {
       "name": "Vital Asset",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.0"
+      "percent": "58.1"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.7"
     },
     "STORY_LAST_STAND": {
       "name": "Into the Abyss",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c67bf0d0474d58c50b6eee5ba686e28315056b22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "DATASLATES": {
       "name": "Data Mining",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c074b26930afcc1403d67b0f091515224ed13ec2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "PVE_MAX_MELEE": {
       "name": "Sharpest Edge",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ced24795f14a16b1e76e9b88b06e844d992d6abf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "TANK_KILLS": {
       "name": "Guardian's Might",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "ATTACK_LICTOR": {
       "name": "One Ugly Xenos",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0d30a4d523ffb8ddacf648dfd6eea0c88e4a03e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "KILLS_BY_TRAPS": {
       "name": "Field of Battle",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/dfd9555220709bb50d88a451d74f1e76c968ba01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "PVE_CHAOS_KILLS": {
       "name": "The Thousand Dead Sons",
