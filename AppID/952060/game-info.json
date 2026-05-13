@@ -1,7 +1,7 @@
 {
   "appid": "952060",
   "name": "Resident Evil 3",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1768956538",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1778616591",
   "achievements": {
     "NEW_ACHIEVEMENT_1_1": {
       "name": "First Escape",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/efbfbf2db2a32bb7c9a78984eeb1388ece22ca82.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.4"
     },
     "NEW_ACHIEVEMENT_1_10": {
       "name": "Nemesis Down?",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/a1492559f78d4318100e3a4a5187ecdcbeba39b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.9"
+      "percent": "70.0"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Jill Valentine",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/81c52c4671b8cbe2fd1c008b79db32e75eb89d90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.2"
     },
     "NEW_ACHIEVEMENT_1_16": {
       "name": "The Pursuer",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/463ddb939ea81d146a62e23281e89495d6a574c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.8"
+      "percent": "67.9"
     },
     "NEW_ACHIEVEMENT_1_17": {
       "name": "Electric Slide",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/57f16eebd6508dac2960c542c2139dec157543de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.7"
     },
     "NEW_ACHIEVEMENT_1_19": {
       "name": "Nemesis Down!!!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/303bb2981a559de630e87c6c2a8f0cf99c7252db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.3"
+      "percent": "66.4"
     },
     "NEW_ACHIEVEMENT_1_20": {
       "name": "Hello, Charlie!",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/23b9bd04ccb19b16d7cc74c4a120313388ad1a0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": "Veteran",
