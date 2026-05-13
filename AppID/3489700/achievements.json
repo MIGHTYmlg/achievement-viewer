@@ -5,63 +5,63 @@
   },
   "02_Activate_FirstCamp": {
     "earned": true,
-    "earned_time": 1750332802
+    "earned_time": 1778594090
   },
   "03_KillCharacter_Opener": {
     "earned": true,
-    "earned_time": 1750335551
+    "earned_time": 1778609317
   },
   "04_KillCharacter_GrubShooter": {
     "earned": true,
-    "earned_time": 1750341148
+    "earned_time": 1778612702
   },
   "05_KillCharacter_Gigas_Kill": {
-    "earned": true,
-    "earned_time": 1750461971
+    "earned": false,
+    "earned_time": 0
   },
   "06_KillCharacter_Brute": {
-    "earned": true,
-    "earned_time": 1750877941
+    "earned": false,
+    "earned_time": 0
   },
   "07_CompleteLevel_AltesLabor": {
-    "earned": true,
-    "earned_time": 1750795135
+    "earned": false,
+    "earned_time": 0
   },
   "08_KillCharacter_Stalker_Kill": {
-    "earned": true,
-    "earned_time": 1750850834
+    "earned": false,
+    "earned_time": 0
   },
   "09_KillCharacter_Juggernaut_Kill": {
-    "earned": true,
-    "earned_time": 1750855128
+    "earned": false,
+    "earned_time": 0
   },
   "10_KillCharacter_Tachy_Kill": {
-    "earned": true,
-    "earned_time": 1750857674
+    "earned": false,
+    "earned_time": 0
   },
   "11_KillCharacter_Behemoth": {
-    "earned": true,
-    "earned_time": 1750865362
+    "earned": false,
+    "earned_time": 0
   },
   "12_CompleteLevel_AbyssLabor": {
-    "earned": true,
-    "earned_time": 1750868591
+    "earned": false,
+    "earned_time": 0
   },
   "13_KillCharacter_Belial_A_Kill": {
-    "earned": true,
-    "earned_time": 1751242693
+    "earned": false,
+    "earned_time": 0
   },
   "14_KillCharacter_Marionette_Kill": {
-    "earned": true,
-    "earned_time": 1751716896
+    "earned": false,
+    "earned_time": 0
   },
   "15_KillCharacter_Gorgon_Kill": {
-    "earned": true,
-    "earned_time": 1751718372
+    "earned": false,
+    "earned_time": 0
   },
   "16_KillCharacter_Raven_Kill": {
-    "earned": true,
-    "earned_time": 1751720657
+    "earned": false,
+    "earned_time": 0
   },
   "17_Ending_Colony": {
     "earned": false,
@@ -72,20 +72,20 @@
     "earned_time": 0
   },
   "19_Ending_NewMemory": {
-    "earned": true,
-    "earned_time": 1751722097
+    "earned": false,
+    "earned_time": 0
   },
   "20_Acquire_AllCan": {
     "earned": false,
     "earned_time": 0
   },
   "21_Acquire_AllNanoSuit": {
-    "earned": true,
-    "earned_time": 1750937526
+    "earned": false,
+    "earned_time": 0
   },
   "22_Acquire_AllRecords": {
-    "earned": true,
-    "earned_time": 1751242307
+    "earned": false,
+    "earned_time": 0
   },
   "23_Album_AllFish": {
     "earned": false,
@@ -108,8 +108,8 @@
     "earned_time": 0
   },
   "28_WeaponMaxUpgrade": {
-    "earned": true,
-    "earned_time": 1751720806
+    "earned": false,
+    "earned_time": 0
   },
   "29_TumblerMaxUpgrade": {
     "earned": false,
@@ -132,8 +132,8 @@
     "earned_time": 0
   },
   "34_CompleteQuest_Kaya": {
-    "earned": true,
-    "earned_time": 1750865552
+    "earned": false,
+    "earned_time": 0
   },
   "35_CompleteQuest_Digger": {
     "earned": false,
@@ -148,12 +148,12 @@
     "earned_time": 0
   },
   "38_CharKill_AssassinationSkills": {
-    "earned": true,
-    "earned_time": 1751112026
+    "earned": false,
+    "earned_time": 0
   },
   "39_CharKill_BetaSkill": {
-    "earned": true,
-    "earned_time": 1750874700
+    "earned": false,
+    "earned_time": 0
   },
   "40_CharKill_BurstSkill": {
     "earned": false,
@@ -164,8 +164,8 @@
     "earned_time": 0
   },
   "42_CharKill_RangeSkill": {
-    "earned": true,
-    "earned_time": 1750939739
+    "earned": false,
+    "earned_time": 0
   },
   "43_KillCharacter": {
     "earned": false,
