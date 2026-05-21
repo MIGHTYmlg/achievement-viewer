@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/46314e26e32c61f3aceb9a939759679c9f8db4c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "94.0"
+      "percent": "93.9"
     },
     "STORY_CANNON": {
       "name": "Unleash the Cannon",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/eecd8bfd24ba4a8feb78c81ecc1b13e8125dd131.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "55.8"
     },
     "STORY_ASSASSINATION": {
       "name": "Chaos All Along",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6a5e1545dbb43f58ed160ba66c1a8f571128661e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.3"
     },
     "STORY_RESCUE": {
       "name": "Vital Asset",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f19b56ce81938db5cbd0113504963060a6b0dbfd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "PVE_ANCIENT_WEAPON": {
       "name": "Resurrection",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "STORY_FINALE": {
       "name": "I'll Be Watching You",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/df3327f0e4ec3436e9b4e8eabdcbff988326c1a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "PVE_RUTHLESS": {
       "name": "Valour Crest",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3c343837985d44b438be4fe58b582769c8bcca93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "SOLDIER_KILLS": {
       "name": "Master of Arsenal",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/971d3000fbcd619edf38e7ffbb48213302fcd050.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "KILL_LESSER_SOURCERER": {
       "name": "An End to Heresy",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7d611b6773380c8bf671bab14fe3b99ad0f1b301.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "PVP_WIN_CLASSES": {
       "name": "Tactical Genius",

@@ -1,7 +1,7 @@
 {
   "appid": "668580",
   "name": "Atomic Heart",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/94ee54a7aae012d50bd39e4e6460fa0b547d491a/header_alt_assets_2.jpg?t=1776355944",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1776355944",
   "achievements": {
     "progress100": {
       "name": "The Motherland Does Not Forget its Heroes",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "killIvy": {
       "name": "Plyusch Rush",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "playthroughLesnaya": {
       "name": "Tickets, Please!",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/d80bfffcd4d44e09d2e3439be92d5c6c83887003.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "craftMaximumStrength": {
       "name": "Maximum Strength",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/0d9f4534517479b9f572df98096e4cc4db6aa0d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "ValidolsTasks": {
       "name": "Validol's Our Bro",
