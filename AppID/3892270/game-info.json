@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "ACH_ENDING_COINFLIP_LOST": {
       "name": "End of the Line",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACH_ENDING_DEBT_PAID": {
       "name": "...And They Lived Happily After",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "ACH_CHA_F1_BIGSPENDER": {
       "name": "Big Spender",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.8"
     },
     "ACH_CHA_F1_CRAPS": {
       "name": "Lucky 7",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "ACH_CHA_F1_HIGHROLLER": {
       "name": "High Roller",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.4"
+      "percent": "74.5"
     },
     "ACH_CHA_F1_LUCKYSTREAK": {
       "name": "Lucky Streak",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "ACH_CHA_F1_DUCKRACE": {
       "name": "YARLL!!!",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "ACH_CHA_F1_WHEELOFFORTUNE": {
       "name": "Spin The Wheel",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.2"
     },
     "ACH_CHA_F2_CRASH": {
       "name": "Greed Test",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "ACH_CHA_F2_CROSSYROAD": {
       "name": "Winner Winner Penguin Dinner",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "ACH_CHA_F2_DICE": {
       "name": "Roll the Odds",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.6"
     },
     "ACH_CHA_F2_KENO": {
       "name": "Spot On",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "26.0"
     },
     "ACH_CHA_F2_MONEYWHEEL": {
       "name": "Spin Streak",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.5"
     },
     "ACH_CHA_F3_CRAPS": {
       "name": "Natural Roller",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACH_CHA_F3_DICE": {
       "name": "No Safe Rolls",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.3"
     },
     "ACH_CHA_F3_LUCKYSTREAK3": {
       "name": "Lucky Streak 3",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACH_CHA_F3_MINESWEEPER": {
       "name": "Perfect Sweep",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACH_CHA_F4_BLACKJACK": {
       "name": "House Breaker",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "ACH_CHA_F4_CROSSYROAD": {
       "name": "No Hesitation",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.7"
     },
     "ACH_CHA_F4_KENO": {
       "name": "Marked to Win",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "7.0"
     },
     "ACH_CHA_F4_MINESWEEPER": {
       "name": "No Detonations",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "ACH_MONEY_10M": {
       "name": "HARDER",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.9"
     },
     "ACH_MONEY_100M": {
       "name": "BETTER",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.6"
     },
     "ACH_MONEY_1B": {
       "name": "FASTER",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.5"
     },
     "ACH_MONEY_10B": {
       "name": "STRONGER",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.3"
     },
     "ACH_MONEY_100B": {
       "name": "WORK IS NEVER OVER!",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ACH_MISC_NOTOGAMBLE": {
       "name": "Not Feeling It",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.5"
     },
     "ACH_MISC_YESTOGAMBLEWIN": {
       "name": "The Gambler's Blessing",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.9"
+      "percent": "84.0"
     },
     "ACH_MISC_YESTOGAMBLELOSE": {
       "name": "Unlucky :(",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.8"
+      "percent": "69.0"
     },
     "ACH_MISC_PEAK": {
       "name": "You reached...PEAK!",
