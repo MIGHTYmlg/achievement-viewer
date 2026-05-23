@@ -1,5 +1,5 @@
 {
-  "last_updated": 1779482673,
+  "last_updated": 1779526886,
   "total_games": 33,
   "games": [
     {
@@ -7,7 +7,7 @@
       "info": {
         "appid": "2605790",
         "name": "Deep Rock Galactic: Rogue Core",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/33b0aef214c4b17af3205e091a569f68d340e914/header.jpg?t=1779302062",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/33b0aef214c4b17af3205e091a569f68d340e914/header.jpg?t=1779480566",
         "achievements": {
           "PCAA_CERTIFIED": {
             "name": "PCAA Certified",
@@ -16,7 +16,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "89.3"
+            "percent": "89.4"
           },
           "ROGUED_OUT": {
             "name": "Rogue'd Out",
@@ -25,7 +25,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "71.8"
+            "percent": "75.3"
           },
           "ABOVE_AND_BEYOND": {
             "name": "Above and Beyond",
@@ -34,7 +34,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.9"
+            "percent": "43.5"
           },
           "PROMOTION_SPOTTED": {
             "name": "Promotion Spotted",
@@ -43,7 +43,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.2"
+            "percent": "3.5"
           },
           "GREAT_IN_EVERY_TIMELINE": {
             "name": "Great in Every Timeline",
@@ -52,7 +52,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.6"
+            "percent": "1.8"
           },
           "GALLANT_GUARDIAN": {
             "name": "Gallant Guardian",
@@ -61,7 +61,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.1"
+            "percent": "3.3"
           },
           "A_SLICE_OF_GREATNESS": {
             "name": "A Slice of Greatness",
@@ -70,7 +70,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.7"
+            "percent": "4.6"
           },
           "DRONE_SCHOOL_STAR": {
             "name": "Drone School Star",
@@ -79,7 +79,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.3"
+            "percent": "3.7"
           },
           "ITS_GOING_DOWN": {
             "name": "It's Going Down",
@@ -88,7 +88,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "89.0"
+            "percent": "90.6"
           },
           "JUNIOR_DETECTIVE": {
             "name": "Junior Detective",
@@ -97,7 +97,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.8"
+            "percent": "56.0"
           },
           "RECLAIMER_IRON": {
             "name": "Reclaimer Iron",
@@ -106,7 +106,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.5"
+            "percent": "72.0"
           },
           "RECLAIMER_BRONZE": {
             "name": "Reclaimer Bronze",
@@ -115,7 +115,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.6"
+            "percent": "30.1"
           },
           "RECLAIMER_SILVER": {
             "name": "Reclaimer Silver",
@@ -124,7 +124,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.1"
+            "percent": "8.7"
           },
           "RECLAIMER_GOLD": {
             "name": "Reclaimer Gold",
@@ -133,7 +133,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.4"
+            "percent": "1.2"
           },
           "GOTOORAK_SLAYER": {
             "name": "Gotoorak Slayer",
@@ -142,7 +142,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "69.2"
+            "percent": "72.8"
           },
           "RAMOK_CONQUEROR": {
             "name": "Ramok Conqueror",
@@ -151,7 +151,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.1"
+            "percent": "20.3"
           },
           "MALAKTULA_VANQUISHER": {
             "name": "Molaktula Vanquisher",
@@ -160,7 +160,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.8"
+            "percent": "5.1"
           },
           "A_DEPLOYMENT_A_DAY": {
             "name": "A Deployment A Day",
@@ -169,7 +169,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.8"
+            "percent": "3.3"
           },
           "DOESNT_AFRAID_OF_ANYTHING": {
             "name": "Doesn't Afraid of Anything",
@@ -178,7 +178,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.0"
+            "percent": "0.2"
           },
           "GAUNTLET_LEGEND": {
             "name": "Gauntlet Legend",
@@ -196,7 +196,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.1"
+            "percent": "0.7"
           },
           "RAM_ROD_REALLY_ROCKS": {
             "name": "Ram Rod Really Rocks",
@@ -205,7 +205,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "1.4"
+            "percent": "2.0"
           },
           "WITNESS_ASCENSION": {
             "name": "Reverence for a Comrade",
@@ -214,7 +214,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.8"
+            "percent": "6.9"
           }
         },
         "platform": null,
@@ -357,7 +357,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/9e31eea27eb655d8a9153b5fd7401b7775f2a108.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "68.4"
+            "percent": "68.5"
           },
           "trophy_004": {
             "name": "\"We'll Show the World the Hope in Your Rain\"",
@@ -393,7 +393,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/8ecb3afbc32c9ce2233f78ad1729ca09818a0008.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.3"
+            "percent": "49.4"
           },
           "trophy_008": {
             "name": "\"His Name is Neil. Neil Vana\"",
@@ -402,7 +402,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0272788e6718bd3942d8421e489b297521493678.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.8"
+            "percent": "42.9"
           },
           "trophy_009": {
             "name": "\"I Don't Break That Easily\"",
@@ -411,7 +411,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/932a67460f0b6c1ab2826ad5cd7fb0224cec12e3.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.8"
+            "percent": "37.9"
           },
           "trophy_010": {
             "name": "\"You Will Never, Ever Be Alone\"",
@@ -420,7 +420,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/eee8d428c7890cdbd47e11e8fd8ef436b685e259.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "36.2"
+            "percent": "36.4"
           },
           "trophy_011": {
             "name": "\"Keep Lou Safe...\"",
@@ -429,7 +429,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/d0a59bd8dc5ccca54f8d1031179f1d45c037b39b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "36.0"
+            "percent": "36.2"
           },
           "trophy_012": {
             "name": "\"To Help You Find the Strength to Carry On\"",
@@ -438,7 +438,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/f5a025cc3e5965be3ac35e7666094caafb0a426c.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.6"
+            "percent": "35.7"
           },
           "trophy_013": {
             "name": "\"To Forsake Our Flesh and Our Freedom\"",
@@ -447,7 +447,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/1d90cf5ff42219c7e380e30a226f9ef606d09adb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.5"
+            "percent": "35.6"
           },
           "trophy_014": {
             "name": "\"We Have to Get Tomorrow Back\"",
@@ -456,7 +456,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/350ca9f1f5de8a56eaa8d4e5ebc238a997ed40ae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "34.3"
+            "percent": "34.4"
           },
           "trophy_015": {
             "name": "\"I'll Always Be With You\"",
@@ -465,7 +465,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/f875dd28c81f454a19f19b2ada92723ca242c4a1.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "34.1"
+            "percent": "34.3"
           },
           "trophy_016": {
             "name": "\"Death Can't Tear Us Apart\"",
@@ -474,7 +474,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/e4362fe51e9a4f5bcf72fd9db2779555c8c50ad6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "33.9"
+            "percent": "34.0"
           },
           "trophy_017": {
             "name": "Standard Porter",
@@ -492,7 +492,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/6c95f6a2ccb8157a232180b05af75033680d3f23.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.7"
+            "percent": "5.8"
           },
           "trophy_019": {
             "name": "Helping People to Connect",
@@ -510,7 +510,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/3c9a008d24bc6423734e0de75172649f6b19aba9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.5"
+            "percent": "49.6"
           },
           "trophy_021": {
             "name": "My First Structure",
@@ -528,7 +528,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/98ae0c811fd3ed8d04e75eb38e261d60b78b0c8c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.8"
+            "percent": "5.9"
           },
           "trophy_023": {
             "name": "Starting Point",
@@ -546,7 +546,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/61bd02d75a7ce454156c589bcd05ee09c4163e73.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.8"
+            "percent": "15.9"
           },
           "trophy_025": {
             "name": "Connecting Hearts and Minds",
@@ -555,7 +555,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/9b7bac53050be3d9cbae624c430378a33c29fbee.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "4.7"
+            "percent": "4.8"
           },
           "trophy_026": {
             "name": "Self-Improvement",
@@ -636,7 +636,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/33d1f7872a9e625e55a379a140f546b989159983.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "17.7"
+            "percent": "17.8"
           },
           "trophy_035": {
             "name": "Road Restorer",
@@ -654,7 +654,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/d2192df04e986d1c49fa0bfd46c27f877b4b2208.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.4"
+            "percent": "41.5"
           },
           "trophy_037": {
             "name": "Rail Restorer",
@@ -663,7 +663,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/424cd3cd7e335b6d888017bdfaffd55edcf1e05d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.2"
+            "percent": "33.3"
           },
           "trophy_038": {
             "name": "Emergency Worker",
@@ -699,7 +699,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/23601f55069321f0d15010e704705f31337c8f2b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.5"
+            "percent": "15.6"
           },
           "trophy_042": {
             "name": "A Private Show!",
@@ -726,7 +726,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/992f9b4bace262abf8fb180153a3edcc7a1b9528.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.4"
+            "percent": "15.5"
           },
           "trophy_045": {
             "name": "The Headless Riders Unmasked",
@@ -753,7 +753,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/58d61e8a053528c1fcb7028e2e3bced1390a15a6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.4"
+            "percent": "15.5"
           },
           "trophy_048": {
             "name": "The Real Story of the Ghost Hunter",
@@ -762,7 +762,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/0c1c60110158c4793924ea1d7543cd1819ac2332.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "12.9"
+            "percent": "13.0"
           },
           "trophy_049": {
             "name": "BT's Best Friend",
@@ -771,7 +771,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/3f50649331824d8f6012e21b23112ac4c0c1886e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.8"
+            "percent": "35.9"
           },
           "trophy_050": {
             "name": "Conqueror of the Golden CC",
@@ -780,7 +780,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/2346b2a7d028d1acfcd4b4246cb2c084ab3eafac.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.8"
+            "percent": "27.9"
           },
           "trophy_051": {
             "name": "A Premier Porter",
@@ -789,7 +789,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/393df3744a5dd9e3b4e49cda1016ddf9974b52e2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "22.4"
+            "percent": "22.5"
           },
           "trophy_052": {
             "name": "Compulsive Cargo Carrier",
@@ -816,7 +816,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3280350/05b8362d28840745353ad3368321a2376cdf209a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "66.5"
+            "percent": "66.6"
           }
         },
         "platform": null,
@@ -1258,7 +1258,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/de43b71dba967133cd90b47782f898a5109d48d0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.7"
+            "percent": "10.6"
           },
           "Achievements.FiveStars.Score_Falla_ElAmorBrujo": {
             "name": "5-Star Performance: El amor brujo",
@@ -1276,7 +1276,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/de43b71dba967133cd90b47782f898a5109d48d0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.3"
+            "percent": "15.2"
           },
           "Achievements.FiveStars.Score_Williams_HedwigTheme": {
             "name": "5-Star Performance: Hedwig's Theme",
@@ -1330,7 +1330,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.6"
+            "percent": "5.7"
           },
           "Achievements.FiveStars.Score_Shostakovich_10thSymph": {
             "name": "5-Star Performance: Symphony No. 10",
@@ -1683,7 +1683,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/7ad02fc2e7d0214bd46ad881a4e6c6c85899a672.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.8"
+            "percent": "39.9"
           },
           "killNatasha": {
             "name": "Show's Over",
@@ -1701,7 +1701,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "30.1"
+            "percent": "30.2"
           },
           "killTwins": {
             "name": "Murderous Beauty",
@@ -1755,7 +1755,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/0cd98726ed64df630e0b60f93fdc590163a86d9a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.4"
+            "percent": "38.5"
           },
           "playthroughTheater": {
             "name": "Curtain",
@@ -1773,7 +1773,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/a7c6440e7c51ae4281677db4414208eda25e18cf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.9"
+            "percent": "30.0"
           },
           "playthroughPavlov": {
             "name": "Freedom Reflex",
@@ -1827,7 +1827,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/f0e73e43e33e2b727bf3d8d70bdca4090b6714ed.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.1"
+            "percent": "9.2"
           },
           "craftAllConsumable": {
             "name": "Chemist",
@@ -1935,7 +1935,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/c18bf20edd105dee909c20a2b4d73d17e1aebf24.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.5"
           },
           "researchAnalyzAllMobs": {
             "name": "Scanner",
@@ -1953,7 +1953,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.2"
+            "percent": "21.3"
           },
           "battleDaredevil": {
             "name": "Hothead",
@@ -1998,7 +1998,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/dbbca6d9a3a42101584184c9ba1fd2580a034b10.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.4"
+            "percent": "8.5"
           },
           "battleTriplePenetration": {
             "name": "Triple Penetration",
@@ -2043,7 +2043,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/f4d08c0540dca0062625991379c4cc9adf7d1b65.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.2"
+            "percent": "8.3"
           },
           "playthroughReturnToUtopia": {
             "name": "Return to Utopia",
@@ -2070,7 +2070,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.4"
+            "percent": "8.5"
           },
           "battleJohnSilversCrew": {
             "name": "John Silver's Crew",
@@ -2079,7 +2079,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.2"
+            "percent": "10.3"
           },
           "battleRedOctober": {
             "name": "Ultimate Storm",
@@ -2214,7 +2214,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/dd5507a4761e5f2c042565d5a26f9418cf054051.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.5"
+            "percent": "7.6"
           },
           "EndOfDLC3": {
             "name": "And now—CHAR-les",
@@ -2223,7 +2223,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.4"
+            "percent": "6.5"
           },
           "WaterSports": {
             "name": "Water Sports",
@@ -2250,7 +2250,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/7781095148a0bfa7b95d03685ffba1b7cc9469a5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.4"
+            "percent": "7.5"
           },
           "Beyond": {
             "name": "Hic Sunt Dracones",
@@ -2268,7 +2268,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/83a242a747c13b430a4c127cc575b67fa8a14f9d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.1"
+            "percent": "2.2"
           },
           "LastJump": {
             "name": "Final Burn-down",
@@ -2304,7 +2304,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/c027d8aefaa246cdfc965dd8c81c3d6c95540298.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.2"
+            "percent": "1.3"
           },
           "RaccoonFigurine": {
             "name": "Better Late Than Never",
@@ -2340,7 +2340,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/f4d289fec1c218f0b62243b750d6895ca4d1a625.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.8"
+            "percent": "2.9"
           },
           "SaveSechinov": {
             "name": "For Chief's a Jolly Good Fellow",
@@ -2349,7 +2349,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/78a3021564f091a1afd4df819296ec4e7b2b2620.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.7"
+            "percent": "2.8"
           },
           "GoodbyeOldFriend": {
             "name": "Farewell, Old Friend",
@@ -2358,7 +2358,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/4221a7fa400a3b769219c96c4e15168ec0c49173.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.7"
+            "percent": "2.8"
           },
           "DLC4End": {
             "name": "This Is the End",
@@ -2367,7 +2367,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/95d561eccef845c7673ab0a649f861835e37a81c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.7"
+            "percent": "2.8"
           },
           "CrystalPlatinum": {
             "name": "Crystal Platinum",
@@ -2376,7 +2376,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/668580/fd59d1e7b4e0f0cdfc7cb534fc1883d4f3e74be2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.3"
+            "percent": "0.4"
           }
         },
         "platform": null,
@@ -3042,7 +3042,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "31.0"
+            "percent": "30.9"
           },
           "Defeat_Corrupted_Ravager": {
             "name": "Chaos",
@@ -3983,7 +3983,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/097e7946db247778282a711f9a57d3425f9c0b7e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "85.3"
+            "percent": "85.4"
           },
           "NEW_ACHIEVEMENT_1_15": {
             "name": "That'll Hold 'Em",
@@ -4181,7 +4181,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/d9c56351538306dc368f9a250fc119f8514aca75.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.5"
+            "percent": "10.6"
           },
           "NEW_ACHIEVEMENT_1_37": {
             "name": "Hardcore College Student",
@@ -4570,7 +4570,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/f02fff2ba5c42f09504ab0050386b657920e1713.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "22.8"
+            "percent": "22.7"
           },
           "BossDefeated_BleachedKing_Real": {
             "name": "Camtscha, Reborn",
@@ -4998,7 +4998,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/ce1b16ebd8d323b36cae719c19178bcc551bb825.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.3"
+            "percent": "62.4"
           },
           "6": {
             "name": "Up Urs!",
@@ -5025,7 +5025,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/034cead1e5c710d54ca9c62d331295e26d0792a8.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.2"
+            "percent": "59.3"
           },
           "9": {
             "name": "The Root of the Matter",
@@ -5268,7 +5268,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/16bd8cd23d6fe38f0cd95875d6ee9ffe69a24d44.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "76.9"
+            "percent": "77.0"
           },
           "36": {
             "name": "Heretic",
@@ -5313,7 +5313,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/e47d25dfb1f0b64a55ce30c3e79f25a841e7ee8b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.8"
+            "percent": "5.9"
           },
           "41": {
             "name": "Bookworm",
@@ -5358,7 +5358,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/138de7bfe1302ef2c7c10468e38cd2444f3becc7.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "3.6"
+            "percent": "3.7"
           },
           "46": {
             "name": "Combo King",
@@ -5795,7 +5795,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0478d2ff2aa420769e173e815f3ce076646061ef.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "63.8"
+            "percent": "63.9"
           },
           "e2_s01D_lightgraffiti": {
             "name": "Stagehandwriting",
@@ -5804,7 +5804,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/d62cd7b7c77372b7ab30e083813587b0e2fd8124.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "26.8"
+            "percent": "26.9"
           },
           "e2_s02_hoodgraffiti": {
             "name": "Radical Piratical",
@@ -5822,7 +5822,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/c6f05cc43fc2d490e8bce3575663c5d95520ac8c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.1"
+            "percent": "54.2"
           },
           "e2_s02_shackgraffito": {
             "name": "Canon Wall",
@@ -5840,7 +5840,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/24cb195d81fcf2b35fbf23e4b84b6803a6eb8914.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.6"
+            "percent": "49.7"
           },
           "E2_S04A_GRAFFITISAMUELDOOR": {
             "name": "Friendly Forest Friends",
@@ -5849,7 +5849,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0e06ca9afd190b52b4d5cc0196e24e4cc421f34c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.2"
+            "percent": "34.3"
           },
           "E2_S04A_GRAFFITICONCRETE": {
             "name": "Tread Harshly",
@@ -5858,7 +5858,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0f57f2f0f2a970ba2f3a798f24d695d1f8c349d4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "30.7"
+            "percent": "30.8"
           },
           "e2_s04b_eliotgraffiti": {
             "name": "Permanent Record",
@@ -5867,7 +5867,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/be1d7843289762ecdb0d9680083aee2f50eadadb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.9"
+            "percent": "19.0"
           },
           "e2_s05_mirrorgraffiti": {
             "name": "Vanity Fare",
@@ -5930,7 +5930,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/cbaf493ccc1186fe5713ff765541891184b11ddc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.7"
+            "percent": "33.8"
           },
           "e3_s03_gobulegraffiti": {
             "name": "Spit Take",
@@ -5984,7 +5984,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/9f4dbe94e10dd423c7c0a4e35119537ba084f459.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.9"
+            "percent": "20.0"
           },
           "EndOfEpisode3": {
             "name": "All the Devils are Here",
@@ -6002,7 +6002,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0b5e431053d2ef1e171234756a803d581d827034.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.6"
+            "percent": "48.7"
           }
         },
         "platform": null,
@@ -7308,7 +7308,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/d4fc81011a3816c2003d0d9f1f51315fae059d8a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "9.7"
+            "percent": "9.8"
           },
           "its_not_easy": {
             "name": "It's Not Easy",
@@ -7362,7 +7362,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/d4fc81011a3816c2003d0d9f1f51315fae059d8a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.1"
+            "percent": "34.0"
           },
           "monty_understudy": {
             "name": "Monty Understudy",
@@ -7389,7 +7389,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/d4fc81011a3816c2003d0d9f1f51315fae059d8a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "53.1"
+            "percent": "53.0"
           },
           "everyones_favorite_boss": {
             "name": "Everyone's Favorite Boss",
@@ -7741,7 +7741,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b1f42309cdd8941e6376e4f6080501e268e37e3d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "97.2"
+            "percent": "97.1"
           },
           "2": {
             "name": "Power Trip",
@@ -7750,7 +7750,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/3360cc6d9cca7f9b98dd0ad795aa8734d09add04.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "87.8"
+            "percent": "87.7"
           },
           "3": {
             "name": "The Purr-fect Guide",
@@ -7759,7 +7759,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/c30f7939ad688cdfd2412dc96356eaf39e186788.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "70.8"
+            "percent": "70.6"
           },
           "4": {
             "name": "Another Pragmata",
@@ -7768,7 +7768,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/481c1e281a3823c7c2e7b553394ae0a3f6b6b698.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.6"
+            "percent": "59.4"
           },
           "5": {
             "name": "Entrusted Memory",
@@ -7777,7 +7777,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b357b88e280791c18f3d13551fbfcd56ccb78216.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "55.2"
+            "percent": "55.0"
           },
           "6": {
             "name": "Mission Unveiled",
@@ -7786,7 +7786,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/cdd0cdaeeafc7e1419f22cf4905232a3003580b0.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "44.0"
+            "percent": "43.8"
           },
           "7": {
             "name": "Awakening",
@@ -7795,7 +7795,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b9148bbe2545a36a7de493f73ead9451a7dd181e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.9"
+            "percent": "43.6"
           },
           "8": {
             "name": "Sentinel Breach",
@@ -7804,7 +7804,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/41aea8b0ce78b83224ad22b8b3fd2749b770c700.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "36.9"
+            "percent": "36.7"
           },
           "9": {
             "name": "Our Promise",
@@ -7813,7 +7813,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/070660e75c58978f83bb2dbb490e4eb539069afb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.6"
+            "percent": "35.4"
           },
           "10": {
             "name": "The Right Man for the Job",
@@ -7822,7 +7822,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/3ae49581d7a6e97cd2591c37367ed62e8d1960f7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.5"
+            "percent": "11.4"
           },
           "11": {
             "name": "Lunar Supremacy",
@@ -7831,7 +7831,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/eb8ca1a48ec91198f3ee9c37a2be8690b595ad64.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.0"
+            "percent": "2.9"
           },
           "12": {
             "name": "Small Talk",
@@ -7840,7 +7840,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/2db7f340aa4cc3cb20b9ab7cb78f5d8376e175f5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "95.2"
+            "percent": "95.1"
           },
           "13": {
             "name": "Thanks for Everything!",
@@ -7849,7 +7849,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9cb435cad95a6fd4bfd28869444829fedaeff303.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "81.3"
+            "percent": "81.2"
           },
           "14": {
             "name": "Peekaboo",
@@ -7858,7 +7858,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/bf8e0cdcf0d2046c1e5f379ea29f56c749653cf9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "59.1"
+            "percent": "58.9"
           },
           "15": {
             "name": "For Me?",
@@ -7867,7 +7867,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/e8360ad346eaa2c1c779795d8b60ae2b2a4e8357.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "88.7"
+            "percent": "88.6"
           },
           "16": {
             "name": "Replicating Extraordinaire!",
@@ -7876,7 +7876,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/3d4be638d80556519d8e425c4bf0f57a8673893f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "60.9"
+            "percent": "60.8"
           },
           "17": {
             "name": "Blackout!",
@@ -7885,7 +7885,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/f19928d0730d1891ec248d64808c0d96b246d582.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "64.6"
+            "percent": "64.5"
           },
           "18": {
             "name": "Mister Simulator",
@@ -7894,7 +7894,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/797855bd4312147fb5fb2d9e4be40cd91df1960f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "64.0"
+            "percent": "63.8"
           },
           "19": {
             "name": "Master of the Simulator",
@@ -7912,7 +7912,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9a00024b99e75504228205e3731cab9c5be69b5a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "75.7"
+            "percent": "75.5"
           },
           "21": {
             "name": "You're Not Getting Away That Easy",
@@ -7930,7 +7930,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/dd734d6a1b3a4f30b60ddb494ca25e0d0901c6df.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "75.6"
+            "percent": "75.5"
           },
           "23": {
             "name": "Well Spotted!",
@@ -7939,7 +7939,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/754841a6762f4b6144847e9e3f2e0e89ef63d26a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "74.1"
+            "percent": "74.0"
           },
           "24": {
             "name": "Mini-Hunter Supreme",
@@ -7948,7 +7948,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9011799b5dc136450b7ce9782762390f1275f31f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.4"
+            "percent": "9.3"
           },
           "25": {
             "name": "Top-Shelf Item",
@@ -7957,7 +7957,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7b8194b5774801607fd046ac2da07bffc005576c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.8"
+            "percent": "56.6"
           },
           "26": {
             "name": "Can't Stop, Won't Stop",
@@ -7966,7 +7966,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/896de323e7676e48a475d5d42ba725a04879e017.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.1"
+            "percent": "17.0"
           },
           "27": {
             "name": "Cradle Surveyor",
@@ -7975,7 +7975,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7ba0e06ce32860d89387c01d4a65393f5f826b34.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.5"
+            "percent": "47.4"
           },
           "28": {
             "name": "Escape Artist",
@@ -7984,7 +7984,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/bf6703a7293e07e39f4e03378b6fee3c2f0b19a7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.4"
+            "percent": "33.2"
           },
           "29": {
             "name": "A Lunar Challenge",
@@ -7993,7 +7993,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/d4d010aae921d092878604a74ecb4258dad13c47.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.4"
+            "percent": "20.3"
           },
           "30": {
             "name": "Round 'Em Up",
@@ -8002,7 +8002,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7896c6f11f7b408671e28e3cc832266e24ffd47a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "63.5"
+            "percent": "63.3"
           },
           "31": {
             "name": "Courage in Desperation",
@@ -8029,7 +8029,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/5f100f72cfe9b471013523b28470bbff22533c33.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.7"
+            "percent": "23.6"
           },
           "34": {
             "name": "IT'S OVER 6000!",
@@ -8038,7 +8038,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9600c34602fef0a0b1172d7fc2488fb61fbf5be0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "45.6"
+            "percent": "45.4"
           },
           "35": {
             "name": "Who Needs Guns!?",
@@ -8047,7 +8047,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/4ef5c2c595b0b6ee9a0c0d28d499f9aa77aeca92.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.6"
+            "percent": "44.4"
           }
         },
         "platform": null,
@@ -8247,7 +8247,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/d54742fba64e93f967be5977b3b1906ca1f39c29.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "75.2"
+            "percent": "75.1"
           },
           "6": {
             "name": "The Hero Returns",
@@ -8256,7 +8256,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/f02e488c09d46d8154f22d12eda3199bc023724a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "74.9"
+            "percent": "74.8"
           },
           "7": {
             "name": "I Remember That, Too",
@@ -8283,7 +8283,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/48800f462f670ae9ceee0ba035f7078642536265.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "73.2"
+            "percent": "73.1"
           },
           "10": {
             "name": "Hope and Requiem",
@@ -8292,7 +8292,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/477979d97909d4327d44e626a05f0631f99da349.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "71.7"
+            "percent": "71.6"
           },
           "11": {
             "name": "Rookie Agent",
@@ -8301,7 +8301,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/52c4b6fd92b554de83312a21b8d362a9d04090b3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "72.2"
+            "percent": "72.1"
           },
           "12": {
             "name": "Rising Agent",
@@ -8580,7 +8580,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/7f436bef4913a3d28a85e186a1365abf22877f60.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.7"
+            "percent": "19.6"
           },
           "43": {
             "name": "Speed Demon",
@@ -10646,7 +10646,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/d92b5372fbf62e667c33d109edc0a28a6aa12383.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.2"
+            "percent": "6.1"
           },
           "BG3_Quest54": {
             "name": "Foehammer",
@@ -11030,7 +11030,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "28.2"
+            "percent": "28.3"
           },
           "ACHIEVEMENT_0160": {
             "name": "Dear Diary",
@@ -11057,7 +11057,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.0"
+            "percent": "21.1"
           },
           "ACHIEVEMENT_0190": {
             "name": "Call Her Back",
@@ -11075,7 +11075,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/67f2dca4872e41dd6ce5b923edf54bf16d42ef53.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.0"
+            "percent": "27.1"
           },
           "ACHIEVEMENT_0210": {
             "name": "Thank You",
@@ -11246,7 +11246,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "7.2"
+            "percent": "7.3"
           },
           "ACHIEVEMENT_0400": {
             "name": "Permission Granted",
@@ -11273,7 +11273,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1113560/dccf83b1927eb511d794ec172eb2a8737aa5f317.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.8"
+            "percent": "14.9"
           },
           "ACHIEVEMENT_0430": {
             "name": "Book Burner",
@@ -11593,7 +11593,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/215bdf59b3a6657a2e36f474bbd0591152b5d2ea.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.8"
+            "percent": "36.9"
           },
           "ACH_10": {
             "name": "Unseen Assassin",
@@ -11683,7 +11683,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/481ec0cef1f53fa872c24318d38b08c8c3e821d8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.3"
+            "percent": "20.4"
           },
           "ACH_20": {
             "name": "No Stone Unturned",
@@ -11737,7 +11737,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/acccb5e509654a290a2dc39b3555e440b960a598.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.4"
+            "percent": "19.5"
           },
           "ACH_26": {
             "name": "Followed the Trails",
@@ -11845,7 +11845,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/52b9364e4d9be82d6634e4b0f0163898fa4620a1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.7"
+            "percent": "17.8"
           },
           "ACH_38": {
             "name": "Master the Terroir",
@@ -11908,7 +11908,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/7af5b22998196f6dafe9b83bfc39d018d9158383.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "14.1"
+            "percent": "14.2"
           },
           "ACH_45": {
             "name": "Count Down From 47",
@@ -11935,7 +11935,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/02c175d03ed8e312a68faf74f549f38ee9e279ce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.9"
+            "percent": "7.0"
           },
           "ACH_48": {
             "name": "Seven Figures",
@@ -12016,7 +12016,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/e376eb9ff6363f969258f26b5ec30414938ad908.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.6"
+            "percent": "10.7"
           },
           "ACH_57": {
             "name": "Null and Void",
@@ -12052,7 +12052,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/9edf2bf5af63be006c5e9728c59d2b7b59d59eab.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.9"
+            "percent": "24.0"
           },
           "ACH_61": {
             "name": "Miami Wise",
@@ -12115,7 +12115,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/afeb3f4027644a48c2e1115e72d534a9571a8f64.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.4"
+            "percent": "3.5"
           },
           "ACH_68": {
             "name": "This is Maintenance",
@@ -12124,7 +12124,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/63208155cad76d7b9d20fddb9e17a632b9060885.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.2"
+            "percent": "17.3"
           },
           "ACH_69": {
             "name": "Honorary Member",
@@ -12160,7 +12160,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/81a4b088072c0c6ba83ab041901d67809f0f8a0d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.2"
+            "percent": "6.3"
           },
           "ACH_73": {
             "name": "Die By the Sword",
@@ -12169,7 +12169,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/f982d45602c0f39ec7946f5610ac57c201510555.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "43.7"
+            "percent": "43.6"
           },
           "ACH_74": {
             "name": "Amalfi Pearl",
@@ -12624,7 +12624,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570940/52bcaf712d1290af73067720174a859ab26a3dbe.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "30.6"
+            "percent": "30.7"
           },
           "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02": {
             "name": "Dark Lord",
@@ -13172,7 +13172,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.9"
+            "percent": "57.8"
           },
           "ACH_KILL_TRICKSTER": {
             "name": "Adapt or Die",
@@ -13181,7 +13181,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "28.9"
+            "percent": "28.8"
           },
           "ACH_KILL_GRAND_PARASITER": {
             "name": "Ticks & Leeches",
@@ -13190,7 +13190,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/9df0cf216618b62837b023749f79131b4c70f55f.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "38.7"
+            "percent": "38.6"
           },
           "ACH_KILL_WILLIAM": {
             "name": "Drop of Blood",
@@ -13199,7 +13199,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.1"
+            "percent": "23.0"
           },
           "ACH_KILL_BEAST": {
             "name": "Ancient Blood",
@@ -13316,7 +13316,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.8"
+            "percent": "47.7"
           },
           "ACH_SLAM_ENEMIES": {
             "name": "Slam Champion",
@@ -13343,7 +13343,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "58.7"
+            "percent": "58.6"
           },
           "ACH_KILL_USING_ECOMBO": {
             "name": "E-Rodeo",
@@ -13352,7 +13352,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/9df0cf216618b62837b023749f79131b4c70f55f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.3"
+            "percent": "51.2"
           },
           "ACH_KILL_TRICKSTER_NO_FIREARMS": {
             "name": "Bleed You Out",
@@ -13388,7 +13388,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/9df0cf216618b62837b023749f79131b4c70f55f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.1"
+            "percent": "56.0"
           },
           "ACH_ENERGY_CHARGE": {
             "name": "Chewing Volts",
@@ -13397,7 +13397,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.0"
+            "percent": "48.9"
           },
           "ACH_LIMBS_TORN_OFF": {
             "name": "Sever Forever",
@@ -13559,7 +13559,7 @@
       "info": {
         "appid": "2183900",
         "name": "Warhammer 40,000: Space Marine 2",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/5d204c34172cdd6e4d0150943b1d1fba46962444/header_alt_assets_12.jpg?t=1779444506",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/5d204c34172cdd6e4d0150943b1d1fba46962444/header_alt_assets_12.jpg?t=1779454963",
         "achievements": {
           "STORY_INTRO": {
             "name": "The Die Is Cast",
@@ -13577,7 +13577,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ace9a149ba08c29d1271a9af6426110930e09ebe.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "82.1"
+            "percent": "82.0"
           },
           "PVE_ACID_BOMB": {
             "name": "Crude but Effective",
@@ -13595,7 +13595,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "71.6"
+            "percent": "71.5"
           },
           "STORY_SKYLAB": {
             "name": "Target Acquired",
@@ -13613,7 +13613,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "61.4"
+            "percent": "61.3"
           },
           "PVE_TYRANT": {
             "name": "Sic Semper Tyrannis",
@@ -13622,7 +13622,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "46.4"
+            "percent": "46.3"
           },
           "PVE_DAEMONHOST": {
             "name": "Voice in the Dark",
@@ -13640,7 +13640,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.1"
+            "percent": "58.0"
           },
           "PVE_FIRESTORM": {
             "name": "Douse the Flames",
@@ -13676,7 +13676,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "53.7"
+            "percent": "53.6"
           },
           "STORY_LAST_STAND": {
             "name": "Into the Abyss",
@@ -13694,7 +13694,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.4"
+            "percent": "52.3"
           },
           "MARKING_TOOL": {
             "name": "Purge Them All",
@@ -13748,7 +13748,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5ecf35ab270acdc257e15f714d237ce4d2e87c06.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.8"
+            "percent": "21.7"
           },
           "PVE_MAX_LEVEL": {
             "name": "Strategic Specialty",
@@ -13766,7 +13766,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.6"
+            "percent": "15.5"
           },
           "PVE_MAX_FIREARM": {
             "name": "Strongest Shot",
@@ -13829,7 +13829,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/33b39ee5b448ab5a97ae310a0fbb69ed9b6f6e71.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.6"
+            "percent": "13.5"
           },
           "SUPPORT_KILLS": {
             "name": "Immovable Object",
@@ -13874,7 +13874,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.2"
+            "percent": "44.1"
           },
           "ATTACK_LICTOR": {
             "name": "One Ugly Xenos",
@@ -13892,7 +13892,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/131aaef161d4b3a27bec916b6951fe9fa315bb31.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.4"
+            "percent": "25.3"
           },
           "PERFECT_PARRY": {
             "name": "Know No Fear",
@@ -13910,7 +13910,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "64.9"
+            "percent": "64.8"
           },
           "KILLS_ALERT": {
             "name": "Silence",
@@ -13919,7 +13919,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.6"
+            "percent": "41.5"
           },
           "PVE_TYRANID_KILLS": {
             "name": "Xenos Exterminator",
@@ -13946,7 +13946,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/8be6ef392195cdb4461a1a4762e1df7850001657.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.2"
+            "percent": "7.1"
           },
           "PVP_WIN": {
             "name": "Glorious Victory",
@@ -14242,7 +14242,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8870/ad0950c830d492b473fa64d012db513663348d9c.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "75.8"
+            "percent": "75.9"
           },
           "Achievement_3": {
             "name": "Shock Tactics",
@@ -14296,7 +14296,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8870/4bc4cb1d7b3f0a982f2ea4d780939df84fa24f99.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.0"
+            "percent": "50.1"
           },
           "Achievement_9": {
             "name": "The Bird or The Cage",
@@ -15288,7 +15288,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2a9cb9d487ceec52090a7fa01efe61cd5734d658.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "81.5"
+            "percent": "82.2"
           },
           "ACHIEVEMENT_2": {
             "name": "Stamping Ground",
@@ -15297,7 +15297,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b2334e3d8b0c58b8d0a4f40c21b92850ff020976.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "79.8"
+            "percent": "80.6"
           },
           "ACHIEVEMENT_3": {
             "name": "Just Getting Started",
@@ -15306,7 +15306,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/42fa26042c0cf70928d960e896b2a21c82c21ed1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.1"
+            "percent": "38.0"
           },
           "ACHIEVEMENT_4": {
             "name": "Working 9 to 5",
@@ -15315,7 +15315,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/af548750b03897acda225f5446037ea7f017ecb0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.7"
+            "percent": "39.4"
           },
           "ACHIEVEMENT_5": {
             "name": "Festival Fan",
@@ -15324,7 +15324,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/c0d6339c0047863869ac1460944ebca2219d43bf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "69.7"
+            "percent": "70.6"
           },
           "ACHIEVEMENT_6": {
             "name": "Making Waves",
@@ -15333,7 +15333,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/53bd6b09b7b2fb2d50e4be5a99138836d3ec642c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.2"
+            "percent": "50.5"
           },
           "ACHIEVEMENT_7": {
             "name": "Seeing the Sights",
@@ -15342,7 +15342,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/df1382c5a0a6bfd131815abdfa2f8b8a064ed402.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "65.1"
+            "percent": "66.3"
           },
           "ACHIEVEMENT_8": {
             "name": "Travelling All Around",
@@ -15351,7 +15351,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/ee5ef184d2be0feeaf4555aa5aff8a4eb07e9cf9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.0"
+            "percent": "43.4"
           },
           "ACHIEVEMENT_9": {
             "name": "A Fine Addition To My Collection",
@@ -15360,7 +15360,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/81920df982c5eb531ee4657068ce68826c4dbe60.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.2"
+            "percent": "50.2"
           },
           "ACHIEVEMENT_10": {
             "name": "Bargain Hunt",
@@ -15369,7 +15369,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/204765b4028e95e307f2ecf7e5ed2e43cef76ce6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "64.1"
+            "percent": "64.9"
           },
           "ACHIEVEMENT_11": {
             "name": "Another Lap Won't Hurt",
@@ -15378,7 +15378,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2b36aa23b3908ab6ac84250c272705646f31d74d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.0"
+            "percent": "69.1"
           },
           "ACHIEVEMENT_12": {
             "name": "Fresh Tire Smoke",
@@ -15387,7 +15387,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/80b2c7a07fd720bc535d3d74be85d668c2dfcfe6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "50.5"
+            "percent": "51.5"
           },
           "ACHIEVEMENT_13": {
             "name": "Four Swords",
@@ -15396,7 +15396,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/20190a3f074a5a1e13527b6798c198804f7c75f9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "88.6"
+            "percent": "89.0"
           },
           "ACHIEVEMENT_14": {
             "name": "Carkour!",
@@ -15405,7 +15405,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/a77dd43e31934a69fd00f735ff68f76083187ce6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "69.7"
+            "percent": "70.6"
           },
           "ACHIEVEMENT_15": {
             "name": "Blank Slate",
@@ -15414,7 +15414,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b0c8a9fdda79619203304cb78b2372131d1fe86b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "53.5"
+            "percent": "54.3"
           },
           "ACHIEVEMENT_16": {
             "name": "Dedicated Tourist",
@@ -15423,7 +15423,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/5928129b00aec451d895c1ed46c36a4c9d009aa1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "35.6"
+            "percent": "36.2"
           },
           "ACHIEVEMENT_17": {
             "name": "First Love",
@@ -15432,7 +15432,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/211db4be7081144ee41063f253b4ff95c2676d8f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "76.3"
+            "percent": "77.3"
           },
           "ACHIEVEMENT_18": {
             "name": "Meching My Way Downtown",
@@ -15441,7 +15441,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/09b74894f4c379121fef0b8bdedccd584b6b3f3c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.5"
+            "percent": "50.7"
           },
           "ACHIEVEMENT_19": {
             "name": "Ready to Rumble",
@@ -15450,7 +15450,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b373f71fc43892ee123b8a2fdd1ac25b210b1193.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.1"
+            "percent": "2.3"
           },
           "ACHIEVEMENT_20": {
             "name": "Smashcot",
@@ -15459,7 +15459,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/999e35a03fe7af65fb7ceb9d163157aa79c33d43.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "79.2"
+            "percent": "79.7"
           },
           "ACHIEVEMENT_21": {
             "name": "On the Board",
@@ -15468,7 +15468,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/22a31f7e8064267e1688bf3ba395d095c9a6316a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "85.8"
+            "percent": "86.2"
           },
           "ACHIEVEMENT_22": {
             "name": "What, Like It's Hard?",
@@ -15477,7 +15477,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/f183d9f1043977b2140394d553b83d9ec94b23f6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.7"
+            "percent": "34.9"
           },
           "ACHIEVEMENT_23": {
             "name": "Orange You Glad You Made It?",
@@ -15486,7 +15486,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/905f1f6ed8c2258267eb793b298e7ab94076561a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.7"
+            "percent": "23.6"
           },
           "ACHIEVEMENT_24": {
             "name": "Making Your Own Path",
@@ -15495,7 +15495,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/8584964b10c5cf7f75ad27d6daaa72c9e90be939.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.5"
+            "percent": "26.7"
           },
           "ACHIEVEMENT_25": {
             "name": "Hey! Listen!",
@@ -15504,7 +15504,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/96fc99ef2f84d0e90f0584314015653bdb826277.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.7"
+            "percent": "14.5"
           },
           "ACHIEVEMENT_26": {
             "name": "Racking Up The Miles",
@@ -15513,7 +15513,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/7f41a2bf0ef3cbf0511d90defb0de9cc4bc4769f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.9"
+            "percent": "17.0"
           },
           "ACHIEVEMENT_27": {
             "name": "Tokyo Resident",
@@ -15522,7 +15522,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/62114f59d34ff6d274f19bc61a2be8bf86b66718.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.3"
+            "percent": "37.2"
           },
           "ACHIEVEMENT_28": {
             "name": "Crowd Pleaser",
@@ -15531,7 +15531,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/4565235836d574c8e4cc8ded817bcf53d0f2173e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.2"
+            "percent": "2.4"
           },
           "ACHIEVEMENT_29": {
             "name": "White Ghost",
@@ -15540,7 +15540,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/1216f75ff1921f9cd96b8098beaa163fba00ae74.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.2"
+            "percent": "5.6"
           },
           "ACHIEVEMENT_30": {
             "name": "What Are You Doing In My Estate?",
@@ -15549,7 +15549,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/16315e25f9d57b390ef8d4fd502363d54ed69654.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.4"
+            "percent": "6.8"
           },
           "ACHIEVEMENT_31": {
             "name": "Show Me What You've Got!",
@@ -15558,7 +15558,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/741643449922c5d806aa87221f53b64f7576dbbe.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.9"
+            "percent": "12.2"
           },
           "ACHIEVEMENT_32": {
             "name": "Collector",
@@ -15567,7 +15567,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/bffce2d35b00d4f33cc19a51503d1e50a674a353.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.0"
+            "percent": "17.9"
           },
           "ACHIEVEMENT_33": {
             "name": "Ascending New Heights",
@@ -15576,7 +15576,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/0e090de939f4edb418529b8229e2f0f0ddfad38e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.9"
+            "percent": "23.9"
           },
           "ACHIEVEMENT_34": {
             "name": "Parking All Over The World",
@@ -15585,7 +15585,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/66a08b3a0fd3bced02b20fa6c582038b47bda657.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.5"
+            "percent": "2.7"
           },
           "ACHIEVEMENT_35": {
             "name": "A Whole New World",
@@ -15594,7 +15594,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/c6ad1fd43771a931727f7f25d8e3e39715b0c6c9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "65.8"
+            "percent": "67.0"
           },
           "ACHIEVEMENT_36": {
             "name": "Even Playing Field",
@@ -15603,7 +15603,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/049c018f3fddba9195ba37ec716e76d5912718b8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.3"
+            "percent": "6.6"
           },
           "ACHIEVEMENT_37": {
             "name": "To The Moon",
@@ -15612,7 +15612,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2a533b6ea9446f8e689c0e3907cb57899474be43.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.3"
+            "percent": "13.8"
           },
           "ACHIEVEMENT_38": {
             "name": "All Eyes On You",
@@ -15621,7 +15621,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/dd0943a3d27124bcc8de57f00e7786ee6772675d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.1"
+            "percent": "2.2"
           },
           "ACHIEVEMENT_39": {
             "name": "Track Day",
@@ -15630,7 +15630,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/ccd564c0943fc62c81172a1ff1ebb2b02e5903e4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.6"
+            "percent": "10.0"
           },
           "ACHIEVEMENT_40": {
             "name": "Played-List",
@@ -15639,7 +15639,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/f9c1d1a61ef6857f01d2c6b129dbba3fd764ac7e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.1"
+            "percent": "0.2"
           },
           "ACHIEVEMENT_41": {
             "name": "Pin It!",
@@ -15648,7 +15648,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/cbb4a1ccaf9107f707e64d2dff0821551e44f583.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "80.4"
+            "percent": "81.2"
           },
           "ACHIEVEMENT_42": {
             "name": "In The Spotlight",
@@ -15657,7 +15657,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/257a30d68559f0bb56c00b324f415daeb7314fec.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.6"
+            "percent": "17.4"
           },
           "ACHIEVEMENT_43": {
             "name": "Horizon Legend",
@@ -15666,7 +15666,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/ff6e7de94b0d4e440fdb0f4178fbeaaa7d369163.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.8"
+            "percent": "9.2"
           },
           "ACHIEVEMENT_44": {
             "name": "What an Adventure!",
@@ -15675,7 +15675,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/0ee27d2821d7c14b28c1eb823cfd151d6e829f63.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.1"
+            "percent": "8.6"
           },
           "ACHIEVEMENT_45": {
             "name": "Master Explorer",
@@ -15684,7 +15684,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b3e857b633010c29b104b437be7d6b31ac13196c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.4"
+            "percent": "5.7"
           },
           "ACHIEVEMENT_46": {
             "name": "The Boss",
@@ -15702,7 +15702,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/6ac1f6596e02c8ff75fd9f9caaaa3df2314a9ad2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.1"
+            "percent": "12.5"
           },
           "ACHIEVEMENT_48": {
             "name": "The Horizon Cartographer",
@@ -15711,7 +15711,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/43b1272f05add9e660ea86c26a942d96d235f5a9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.4"
+            "percent": "3.6"
           },
           "ACHIEVEMENT_49": {
             "name": "Feel the Rush",
@@ -15720,7 +15720,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/49e7c5b00be8fe6b1df67dd588d8fc02b6cceff8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.8"
+            "percent": "17.6"
           },
           "ACHIEVEMENT_50": {
             "name": "Maxed Out",
@@ -15747,7 +15747,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/053f80506792bd2b7b4c3d7cd3669d7ff81c3e41.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.5"
+            "percent": "4.9"
           },
           "ACHIEVEMENT_53": {
             "name": "A Few Splinters Is Nothing!",
@@ -15756,7 +15756,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/4b5a9f145a132bbc6b3606182e8d1f109b73a735.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.4"
+            "percent": "2.6"
           },
           "ACHIEVEMENT_54": {
             "name": "Racing Aficionado",
@@ -15765,7 +15765,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/a163f91c4789498c2dcd74bb8645bbbdcc1f39d7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.4"
+            "percent": "8.7"
           },
           "ACHIEVEMENT_55": {
             "name": "Storyteller",
@@ -15774,7 +15774,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/8e93ab68b927d9098b362b34fff1e899a609fd47.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.1"
+            "percent": "2.3"
           },
           "ACHIEVEMENT_56": {
             "name": "Welcome to Japan",
@@ -15783,7 +15783,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b88fdafe18f06d87e0fc21afc16eb4d26d142315.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "94.8"
+            "percent": "94.9"
           },
           "ACHIEVEMENT_57": {
             "name": "First of Many",
@@ -15792,7 +15792,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/9c1e30195468cb74b264f39a32b7a97d865de428.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "89.2"
+            "percent": "89.4"
           }
         },
         "platform": null,
@@ -16670,7 +16670,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "12.3"
+            "percent": "12.4"
           },
           "ACH_ENDING_COINFLIP_LOST": {
             "name": "End of the Line",
@@ -16688,7 +16688,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "9.3"
+            "percent": "9.4"
           },
           "ACH_CHA_F1_BIGSPENDER": {
             "name": "Big Spender",
@@ -16697,7 +16697,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "74.3"
+            "percent": "74.2"
           },
           "ACH_CHA_F1_BLACKJACK": {
             "name": "No Bust Run",
@@ -16724,7 +16724,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "74.4"
+            "percent": "74.3"
           },
           "ACH_CHA_F1_LUCKYSTREAK": {
             "name": "Lucky Streak",
@@ -16733,7 +16733,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "67.1"
+            "percent": "67.0"
           },
           "ACH_CHA_F1_ROULETTE": {
             "name": "All on Red",
@@ -16760,7 +16760,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.5"
+            "percent": "38.4"
           },
           "ACH_CHA_F1_DUCKRACE": {
             "name": "YARLL!!!",
@@ -16787,7 +16787,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "31.4"
+            "percent": "31.9"
           },
           "ACH_CHA_F2_CRASH": {
             "name": "Greed Test",
@@ -16814,7 +16814,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.3"
+            "percent": "6.4"
           },
           "ACH_CHA_F2_HIGHROLLER2": {
             "name": "High Roller 2",
@@ -16823,7 +16823,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.8"
+            "percent": "35.4"
           },
           "ACH_CHA_F2_KENO": {
             "name": "Spot On",
@@ -16841,7 +16841,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "26.1"
+            "percent": "26.6"
           },
           "ACH_CHA_F2_MONEYWHEEL": {
             "name": "Spin Streak",
@@ -16859,7 +16859,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.7"
+            "percent": "6.8"
           },
           "ACH_CHA_F3_POKER": {
             "name": "Poker Face",
@@ -16877,7 +16877,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.6"
+            "percent": "15.9"
           },
           "ACH_CHA_F3_CRAPS": {
             "name": "Natural Roller",
@@ -16886,7 +16886,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.8"
+            "percent": "7.9"
           },
           "ACH_CHA_F3_CROSSYROAD": {
             "name": "Traffic Monster",
@@ -16904,7 +16904,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.9"
+            "percent": "3.0"
           },
           "ACH_CHA_F3_DRAGONTOWER": {
             "name": "Step Into Fire",
@@ -16922,7 +16922,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.4"
+            "percent": "19.8"
           },
           "ACH_CHA_F3_LUCKYSTREAK3": {
             "name": "Lucky Streak 3",
@@ -16931,7 +16931,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.6"
           },
           "ACH_CHA_F3_MINESWEEPER": {
             "name": "Perfect Sweep",
@@ -16958,7 +16958,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.9"
+            "percent": "9.1"
           },
           "ACH_CHA_F4_BLACKJACK": {
             "name": "House Breaker",
@@ -17003,7 +17003,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.5"
+            "percent": "1.6"
           },
           "ACH_CHA_F4_HIGHROLLER4": {
             "name": "High Roller 4",
@@ -17012,7 +17012,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.8"
+            "percent": "9.9"
           },
           "ACH_CHA_F4_KENO": {
             "name": "Marked to Win",
@@ -17021,7 +17021,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.0"
+            "percent": "4.1"
           },
           "ACH_CHA_F4_LUCKYSTREAK4": {
             "name": "Lucky Streak 4 ",
@@ -17030,7 +17030,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.0"
+            "percent": "7.2"
           },
           "ACH_CHA_F4_MINESWEEPER": {
             "name": "No Detonations",
@@ -17057,7 +17057,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.1"
+            "percent": "3.2"
           },
           "ACH_CHA_F4_ROULETTE": {
             "name": "Ball in Motion",
@@ -17075,7 +17075,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.0"
+            "percent": "40.2"
           },
           "ACH_MONEY_100M": {
             "name": "BETTER",
@@ -17084,7 +17084,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.7"
+            "percent": "32.9"
           },
           "ACH_MONEY_1B": {
             "name": "FASTER",
@@ -17093,7 +17093,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.6"
+            "percent": "25.8"
           },
           "ACH_MONEY_10B": {
             "name": "STRONGER",
@@ -17102,7 +17102,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.4"
+            "percent": "19.6"
           },
           "ACH_MONEY_100B": {
             "name": "WORK IS NEVER OVER!",
@@ -17111,7 +17111,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.4"
+            "percent": "14.6"
           },
           "ACH_MISC_NOTOGAMBLE": {
             "name": "Not Feeling It",
@@ -17129,7 +17129,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "83.9"
+            "percent": "83.8"
           },
           "ACH_MISC_YESTOGAMBLELOSE": {
             "name": "Unlucky :(",
@@ -17138,7 +17138,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "68.9"
+            "percent": "69.0"
           },
           "ACH_MISC_PEAK": {
             "name": "You reached...PEAK!",
@@ -17472,7 +17472,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/4878f6ff0b14e910bbf70cd83b1ecde4d429ca39.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "53.9"
+            "percent": "53.8"
           },
           "10_KillCharacter_Tachy_Kill": {
             "name": "Tachy",
@@ -17508,7 +17508,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/c8009bd93ca48c5d247f7e1d2e2a8038538fd250.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.7"
+            "percent": "39.6"
           },
           "14_KillCharacter_Marionette_Kill": {
             "name": "Karakuri",
@@ -17535,7 +17535,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/c945185b5331a92b34fcbe84d483380c96abb22e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "38.2"
+            "percent": "38.1"
           },
           "17_Ending_Colony": {
             "name": "Return to the Colony",
@@ -17616,7 +17616,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/0ae264e18ec6b51eca71d844806da99ab4302289.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.4"
+            "percent": "18.3"
           },
           "26_Activate_AllCamp": {
             "name": "Meticulous Explorer",
@@ -17643,7 +17643,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8d002cbf7aa87b3c5eed3f95f3f42fbb74880da1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.3"
+            "percent": "38.2"
           },
           "29_TumblerMaxUpgrade": {
             "name": "Perfect Rechargeable Tumbler",
@@ -17670,7 +17670,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8b779b1bbbe8495adb56c59129ae94a569e7fe13.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "28.7"
+            "percent": "28.6"
           },
           "32_Acquire_AllSkill": {
             "name": "Thorough Technician",
@@ -17679,7 +17679,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/16577751adcc82ba33b963cdb1e4507c82bdc737.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.3"
+            "percent": "22.2"
           },
           "33_CompleteQuest_Enya": {
             "name": "Beyond Fate",
@@ -17697,7 +17697,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/936e0f8833e3be9e29aec80bf0f966e4fccb1b0e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "38.4"
+            "percent": "38.3"
           },
           "35_CompleteQuest_Digger": {
             "name": "Beep!",
@@ -17760,7 +17760,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b3d9ddf2623431b57f42af0d458b361ca2ee6a50.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "12.6"
+            "percent": "12.5"
           },
           "42_CharKill_RangeSkill": {
             "name": "Cold-blooded Sniper",
@@ -18018,7 +18018,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/1212be0da4ec80f71d80315959411546db118b2b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.4"
+            "percent": "12.5"
           },
           "ACHIEVEMENT_Kill_1M_Units": {
             "name": "Tyrant",
@@ -18072,7 +18072,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/75cc4ba0f64a5b58f633a2a0932da1e68d45ee20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.5"
+            "percent": "20.6"
           },
           "ACHIEVEMENT_Kill_1000_Lions": {
             "name": "Banned from the Circus",
@@ -19485,7 +19485,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/4462dd3970177b773d881b7160791884e8811452.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.7"
+            "percent": "36.8"
           },
           "12": {
             "name": "The Devils You Know",
@@ -19521,7 +19521,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/eb061ede6a64e4b12a8fdf1237d0fb99fe9e0d92.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "28.4"
+            "percent": "28.5"
           },
           "16": {
             "name": "The Hammer Falls",
@@ -19566,7 +19566,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/783c532084a3141e96762732fdf70c29afad018e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.4"
+            "percent": "32.5"
           },
           "21": {
             "name": "The Best There Is",
@@ -19683,7 +19683,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/85ae20d9d93cd21bb5721a961ca5a4448cafe2db.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.4"
+            "percent": "8.5"
           },
           "34": {
             "name": "Cyber Jockey",
@@ -19710,7 +19710,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/bb62434ecfa685f179e5dcb0f013f512c236a63c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.1"
+            "percent": "16.2"
           },
           "37": {
             "name": "Replicator",
@@ -19728,7 +19728,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/224fc26e12eb7238c5c769a5b2ba78f034be47e1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.8"
+            "percent": "9.9"
           },
           "39": {
             "name": "Starcrossed",
@@ -19800,7 +19800,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/606d0af1af6e0fe69ddad0c5d7fcfcec4494c0cd.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "74.3"
+            "percent": "74.2"
           },
           "47": {
             "name": "Traveler",
@@ -19827,7 +19827,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/9069c6c46631f065aff7d3c283a303b2c061a625.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.4"
+            "percent": "18.5"
           },
           "50": {
             "name": "Reach for the Stars",
@@ -19989,7 +19989,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/d6a7bad4c1efce5998f84f23d1caf8091b636aaf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.1"
+            "percent": "0.2"
           },
           "68": {
             "name": "Less Than",
@@ -19998,7 +19998,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/5d181dd574a5f64d2c0bd9640f0617d31956abbd.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.0"
+            "percent": "0.1"
           },
           "69": {
             "name": "Incursion Fighter",
@@ -20007,7 +20007,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/21581aaf95fe22debe9269dc6e6039b56cde33f2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.8"
+            "percent": "0.9"
           },
           "70": {
             "name": "Incursion Exterminator",
@@ -20016,7 +20016,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/06452aabefa14dd84803ef2a4f5035167c8561c1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.2"
+            "percent": "0.3"
           },
           "71": {
             "name": "Incursion Eliminator",
@@ -20052,7 +20052,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/0ac8d4eb3fc86ab6330809cccecfac1bd6503d4b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.5"
+            "percent": "1.6"
           },
           "75": {
             "name": "Top Tier",
@@ -20061,7 +20061,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1716740/6a6bb6e35f760c7b3654dab609f02f770141aac0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.9"
+            "percent": "1.0"
           },
           "76": {
             "name": "Just Like Grandma Used to Make",
@@ -20512,7 +20512,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/9b7f96c75dba8fafd0bf680a690c880625103648.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "7.8"
+            "percent": "7.7"
           },
           "NEW_ACHIEVEMENT_1_6": {
             "name": "Basic Chemistry",
@@ -20530,7 +20530,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/01244af4bb4f2142b10cc29173aff7a5c7661ccf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "80.3"
+            "percent": "80.2"
           },
           "NEW_ACHIEVEMENT_1_8": {
             "name": "Get Organized",
@@ -20701,7 +20701,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/23b9bd04ccb19b16d7cc74c4a120313388ad1a0e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "50.9"
+            "percent": "50.8"
           },
           "NEW_ACHIEVEMENT_1_27": {
             "name": "Veteran",
@@ -20943,7 +20943,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/35f66f4e8e8907035553c5772a1192bf5f4054b5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.9"
+            "percent": "42.8"
           },
           "ACH_6": {
             "name": "There You Are!",
@@ -20952,7 +20952,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5f01089f5c826120e6855910d3806faa276df64a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "41.8"
+            "percent": "41.7"
           },
           "ACH_7": {
             "name": "Glimpse into the Future",
@@ -20979,7 +20979,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/ccd0ab54ac477eddd779ed6b5b401400f2faeb7b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.1"
+            "percent": "32.0"
           },
           "ACH_10": {
             "name": "Ultimate Beast",
@@ -21024,7 +21024,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/889a4767e275569f8e8efd9ebf57f7a34fa4c665.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.4"
+            "percent": "22.3"
           },
           "ACH_15": {
             "name": "Gunslinger",
@@ -21033,7 +21033,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/6fdaf6e3402e1d12080e53d66e7e06cd2f10a704.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.7"
+            "percent": "9.6"
           },
           "ACH_16": {
             "name": "Craftsman",
@@ -21060,7 +21060,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/0a2dbaa2f5de3ef66115997856224e487cca8b61.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "77.4"
+            "percent": "77.3"
           },
           "ACH_19": {
             "name": "Blacksmith",
@@ -21150,7 +21150,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/31cc53d398d0da5916eaff75a2443bc0d21aee75.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "22.8"
+            "percent": "22.7"
           },
           "ACH_29": {
             "name": "What Happened at the Asylum",
@@ -21177,7 +21177,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/c61c838ad690c81a5842ea249139745f3c5f4626.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.8"
+            "percent": "2.9"
           },
           "ACH_32": {
             "name": "The Legend Dawns",
@@ -21186,7 +21186,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/40c9ce209e8e636e8f6f061166423717ce3b6c8f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.5"
+            "percent": "15.6"
           },
           "ACH_33": {
             "name": "Beast's Dowry",
@@ -21195,7 +21195,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b35b0c322f5320380264d761c19e9a7438ffa587.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.1"
+            "percent": "16.2"
           },
           "ACH_34": {
             "name": "I am The Alpha now",
@@ -21204,7 +21204,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/4c399110fec7dbad36bdf89c9ba4234d4c0efbe7.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "5.1"
+            "percent": "5.2"
           },
           "ACH_35": {
             "name": "The Nightmare is over",
@@ -21213,7 +21213,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b0a78ee8e8aed5751618d21c92a0a171a9625867.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.8"
+            "percent": "1.9"
           },
           "ACH_36": {
             "name": "Pushing Through",
@@ -21222,7 +21222,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/e979de96d510c24a562e2b23683e8cb6ce270777.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "1.6"
+            "percent": "1.7"
           },
           "ACH_37": {
             "name": "True Survivor",
@@ -21231,7 +21231,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b1556dd858dd1a9c033ba64669da7485b45fc984.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.9"
+            "percent": "1.0"
           },
           "ACH_38": {
             "name": "Unbeatable",
@@ -21276,7 +21276,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/48c6df4a348e4c1aebbce117adaf9dfec624470f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.4"
+            "percent": "0.5"
           }
         },
         "platform": null,
@@ -21594,7 +21594,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.4"
+            "percent": "23.5"
           },
           "ach-take-2k-dmg": {
             "name": "No pain, no gain",
@@ -21603,7 +21603,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/973b3b25b12c3ebb09fde139603dcd21622876e4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.6"
+            "percent": "38.7"
           },
           "ach-Nicetra": {
             "name": "Gotta stay Nitrated",
@@ -21639,7 +21639,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/27dc49b92324229fe12da120adf7aa23e22765bf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.7"
+            "percent": "34.8"
           },
           "ach-MSDataDie": {
             "name": "Hoxxes Manual",
@@ -21648,7 +21648,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/27dc49b92324229fe12da120adf7aa23e22765bf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "64.2"
+            "percent": "64.3"
           },
           "ach-MSDataAccrueStatType_Armor": {
             "name": "Why so Salty?",
@@ -21693,7 +21693,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "31.0"
+            "percent": "31.1"
           },
           "ach-MSDataFireProjectiles": {
             "name": "Count em!",
@@ -21711,7 +21711,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "30.5"
+            "percent": "30.6"
           },
           "ach-MSDataAquireMasteryPoints_WeaponBox": {
             "name": "What's in the box!?",
@@ -21729,7 +21729,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.8"
+            "percent": "33.9"
           },
           "ach-MSDataAccrueDamageFromSource": {
             "name": "Freezing hot acid",
@@ -21738,7 +21738,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.9"
+            "percent": "41.0"
           },
           "ach-CC_4_MSDataWinRun": {
             "name": "Crystalline Caverns",
@@ -21819,7 +21819,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "31.7"
+            "percent": "31.8"
           },
           "arh-MSDataDestroyAllRock": {
             "name": "Axe in face!",
@@ -21837,7 +21837,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.6"
+            "percent": "24.7"
           },
           "ach-wep18-zhukovnuk17": {
             "name": "Overclock: Zhukov NUK17",
@@ -21846,7 +21846,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.3"
+            "percent": "19.4"
           },
           "ach-wep18-cryogrenade": {
             "name": "Overclock: Cryo Grenade",
@@ -21855,7 +21855,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.7"
+            "percent": "11.8"
           },
           "ach-wep18-juryriggedboomstick": {
             "name": "Overclock: Jury-Rigged Boomstick",
@@ -21864,7 +21864,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.8"
+            "percent": "14.9"
           },
           "ach-wep18-m1000": {
             "name": "Overclock: M1000",
@@ -21909,7 +21909,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.9"
+            "percent": "10.0"
           },
           "ach-wep18-nishankaboltshark": {
             "name": "Overclock: Nishanka Boltshark",
@@ -21945,7 +21945,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.9"
+            "percent": "24.0"
           },
           "ach-wep18-brt7burstfiregun": {
             "name": "Overclock: Burst Fire Gun",
@@ -21981,7 +21981,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.0"
+            "percent": "9.1"
           },
           "ach-wep18-hurricanguidedrocketsystem": {
             "name": "Overclock: Hurricane",
@@ -22026,7 +22026,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.5"
+            "percent": "12.6"
           },
           "ach-wep18-hivoltthunderbird": {
             "name": "Overclock: Hi-Volt Thunderbird",
@@ -22044,7 +22044,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.1"
+            "percent": "24.2"
           },
           "ach-wep18-voltaicshockfence": {
             "name": "Overclock: Voltaic Shock Fence",
@@ -22116,7 +22116,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.7"
+            "percent": "14.8"
           },
           "ach-wep18-krakatoasentinel": {
             "name": "Overclock: Krakatoa Sentinel",
@@ -22134,7 +22134,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.3"
+            "percent": "8.4"
           },
           "ach-wep18-crsprflamethrower": {
             "name": "Overclock: CRSPR Flamethrower",
@@ -22143,7 +22143,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.9"
+            "percent": "19.0"
           },
           "ach-wep18-corrosivesludgepump": {
             "name": "Overclock: Sludge Pump",
@@ -22152,7 +22152,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.7"
+            "percent": "12.8"
           },
           "ach-wep18-colettewavecooker": {
             "name": "Overclock: Wave Cooker",
@@ -22170,7 +22170,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.2"
+            "percent": "10.3"
           },
           "ach-wep18-neurotoxingrenade": {
             "name": "Overclock: Neurotoxin Grenade",
@@ -22215,7 +22215,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.4"
+            "percent": "14.5"
           },
           "ach-wepmaster-zhukovnuk17": {
             "name": "Mastery: Zhukov NUK17",
@@ -22233,7 +22233,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.8"
+            "percent": "7.9"
           },
           "ach-wepmaster-juryriggedboomstick": {
             "name": "Mastery: Jury-Rigged Boomstick",
@@ -22269,7 +22269,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.1"
+            "percent": "7.2"
           },
           "ach-wepmaster-arctekcryoguard": {
             "name": "Mastery: Cryo Guard",
@@ -22287,7 +22287,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.4"
+            "percent": "7.5"
           },
           "ach-wepmaster-nishankaboltshark": {
             "name": "Mastery: Nishanka Boltshark",
@@ -22323,7 +22323,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.0"
+            "percent": "14.1"
           },
           "ach-wepmaster-brt7burstfiregun": {
             "name": "Mastery: Burst Fire Gun",
@@ -22395,7 +22395,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.3"
+            "percent": "10.4"
           },
           "ach-wepmaster-stubbyvoltaicsmg": {
             "name": "Mastery: Voltaic SMG",
@@ -22404,7 +22404,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.9"
+            "percent": "8.0"
           },
           "ach-wepmaster-hivoltthunderbird": {
             "name": "Mastery: Hi-Volt Thunderbird",
@@ -22431,7 +22431,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.9"
+            "percent": "7.0"
           },
           "ach-wepmaster-lok1smartrifle": {
             "name": "Mastery: LOK-1 Smart Rifle",
@@ -22449,7 +22449,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.8"
+            "percent": "7.9"
           },
           "ach-wepmaster-breachcutter": {
             "name": "Mastery: Breach Cutter",
@@ -22512,7 +22512,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.4"
+            "percent": "6.5"
           },
           "ach-wepmaster-crsprflamethrower": {
             "name": "Mastery: CRSPR Flamethrower",
@@ -22530,7 +22530,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.4"
+            "percent": "8.5"
           },
           "ach-wepmaster-colettewavecooker": {
             "name": "Mastery: Wave Cooker",
@@ -22548,7 +22548,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.5"
+            "percent": "7.6"
           },
           "ach-wepmaster-neurotoxingrenade": {
             "name": "Mastery: Neurotoxin Grenade",
@@ -22602,7 +22602,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.0"
+            "percent": "2.1"
           },
           "ach-wepmaster5-cryogrenade": {
             "name": "True Mastery: Cryo Grenade",
@@ -22638,7 +22638,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.7"
+            "percent": "1.8"
           },
           "ach-wepmaster5-th0rbugtaser": {
             "name": "True Mastery: TH-0R Bug Taser",
@@ -22845,7 +22845,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.6"
+            "percent": "1.7"
           },
           "ach-wepmaster5-plasmaburster": {
             "name": "True Mastery: Plasma Burster",
@@ -22863,7 +22863,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.6"
+            "percent": "1.7"
           },
           "ach-wepmaster5-subata120": {
             "name": "True Mastery: Subata 120",
@@ -22971,7 +22971,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.0"
+            "percent": "11.1"
           },
           "ach-biomemaster-magmacore": {
             "name": "Mastery: Magma Core",
@@ -23043,7 +23043,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.4"
+            "percent": "2.5"
           },
           "ach-biomemaster5-azureweald": {
             "name": "True Mastery: Azure Weald",
@@ -23052,7 +23052,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.2"
+            "percent": "2.3"
           },
           "ach-tagcollect-acid": {
             "name": "Feeling a bit sour",
@@ -23079,7 +23079,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.8"
+            "percent": "7.9"
           },
           "ach-tagcollect-construct": {
             "name": "Dwarven architecture",
@@ -23088,7 +23088,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.0"
+            "percent": "11.1"
           },
           "ach-tagcollect-cold": {
             "name": "Deep freeze",
@@ -23124,7 +23124,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.9"
+            "percent": "6.0"
           },
           "ach-tagcollect-fire": {
             "name": "Keeper of the flame",
@@ -23151,7 +23151,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.4"
+            "percent": "16.5"
           },
           "ach-tagcollect-lasting": {
             "name": "Delayed gratification",
@@ -23169,7 +23169,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.5"
+            "percent": "4.6"
           },
           "ach-tagcollect-medium": {
             "name": "Tried and tested",
@@ -23205,7 +23205,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.4"
+            "percent": "24.5"
           },
           "ach-tagcollect-spray": {
             "name": "Spray 'n pray",
@@ -23232,7 +23232,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.6"
+            "percent": "1.7"
           },
           "ach-subclasswin-classic": {
             "name": "The journey begins",
@@ -23241,7 +23241,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.6"
+            "percent": "25.7"
           },
           "ach-subclasswin-sharpshooter": {
             "name": "Measure twice, shoot once",
@@ -23259,7 +23259,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.8"
+            "percent": "17.9"
           },
           "ach-subclasswin-weaponsspecialist": {
             "name": "10,000 rounds per minute",
@@ -23268,7 +23268,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.0"
+            "percent": "22.1"
           },
           "ach-subclasswin-juggernaut": {
             "name": "Tough as nails",
@@ -23277,7 +23277,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.2"
+            "percent": "12.3"
           },
           "ach-subclasswin-heavygunner": {
             "name": "Ka-boom!",
@@ -23295,7 +23295,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.3"
+            "percent": "21.4"
           },
           "ach-subclasswin-tinkerer": {
             "name": "Brainstorming",
@@ -23322,7 +23322,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.3"
+            "percent": "16.4"
           },
           "ach-subclasswin-interrogator": {
             "name": "Chemical burns",
@@ -23385,7 +23385,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.0"
+            "percent": "3.1"
           },
           "ach-subclasswinspecial-heavygunner": {
             "name": "Walk without rhythm",
@@ -23457,7 +23457,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.7"
+            "percent": "22.8"
           },
           "ach-endurance-dives-2": {
             "name": "Endurance: Dives II",
@@ -23466,7 +23466,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.3"
+            "percent": "8.4"
           },
           "ach-endurance-dives-3": {
             "name": "Endurance: Dives III",
@@ -23493,7 +23493,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.7"
+            "percent": "1.8"
           },
           "ach-endurance-kills-1": {
             "name": "Endurance: Kills I",
@@ -23502,7 +23502,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.5"
+            "percent": "21.6"
           },
           "ach-endurance-kills-2": {
             "name": "Endurance: Kills II",
@@ -23520,7 +23520,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.0"
+            "percent": "8.1"
           },
           "ach-endurance-kills-4": {
             "name": "Endurance: Kills IV",
@@ -23538,7 +23538,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.8"
+            "percent": "1.9"
           },
           "ach-endurance-damage-1": {
             "name": "Endurance: Damage I",
@@ -23547,7 +23547,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.8"
+            "percent": "17.9"
           },
           "ach-endurance-damage-2": {
             "name": "Endurance: Damage II",
@@ -23574,7 +23574,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.5"
+            "percent": "6.6"
           },
           "ach-endurance-damage-5": {
             "name": "Endurance: Damage V",
@@ -23583,7 +23583,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.2"
+            "percent": "4.3"
           },
           "ach-endurance-mine-1": {
             "name": "Endurance: Mine I",
@@ -23601,7 +23601,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.2"
+            "percent": "11.3"
           },
           "ach-endurance-mine-3": {
             "name": "Endurance: Mine III",
@@ -23610,7 +23610,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.0"
+            "percent": "7.1"
           },
           "ach-endurance-mine-4": {
             "name": "Endurance: Mine IV",
@@ -23628,7 +23628,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.0"
+            "percent": "3.1"
           },
           "ach-endurance-walk-1": {
             "name": "Endurance: Run I",
@@ -23637,7 +23637,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.5"
+            "percent": "32.6"
           },
           "ach-endurance-walk-2": {
             "name": "Endurance: Run II",
@@ -23646,7 +23646,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.8"
+            "percent": "20.9"
           },
           "ach-endurance-walk-3": {
             "name": "Endurance: Run III",
@@ -23673,7 +23673,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.5"
+            "percent": "3.6"
           },
           "ach-gear-haz5none": {
             "name": "Just like the old days",
@@ -23700,7 +23700,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.0"
+            "percent": "17.1"
           },
           "ach-gear-equipepic": {
             "name": "Truly epic",
@@ -23709,7 +23709,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "27.3"
+            "percent": "27.4"
           },
           "ach-gear-6legendary": {
             "name": "Fabled fittings",
@@ -23727,7 +23727,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.0"
+            "percent": "8.1"
           },
           "ach-gear-6rare": {
             "name": "Professional setup",
@@ -23736,7 +23736,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.8"
+            "percent": "10.0"
           },
           "ach-gear-6uncommon": {
             "name": "Custom rig",
@@ -23745,7 +23745,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.5"
+            "percent": "11.7"
           },
           "ach-gear-fullupgrade": {
             "name": "We're keeping this one",
@@ -23817,7 +23817,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.8"
+            "percent": "0.9"
           },
           "ach-vang-winhaz3": {
             "name": "Vanguard: Hazard 3",
@@ -23826,7 +23826,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.1"
+            "percent": "7.2"
           },
           "ach-vang-winhaz4": {
             "name": "Vanguard: Hazard 4",
@@ -23889,7 +23889,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.7"
+            "percent": "0.8"
           },
           "ach-funky-50rerolls": {
             "name": "Extreme indecision",
@@ -23916,7 +23916,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.6"
+            "percent": "16.7"
           },
           "ach-comm-dreadnodamage": {
             "name": "Still only counts as one!",
@@ -23925,7 +23925,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.0"
+            "percent": "13.1"
           },
           "ach-comm-dreadtwinsnoheal": {
             "name": "Denied",
@@ -23952,7 +23952,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.2"
+            "percent": "7.3"
           },
           "ach-comm-perfectrun": {
             "name": "Perfect run",
@@ -23961,7 +23961,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.2"
+            "percent": "1.3"
           },
           "ach-comm-nospending": {
             "name": "Cheapskate",
@@ -23988,7 +23988,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.0"
+            "percent": "3.1"
           },
           "ach-comm-lootbugroadkill": {
             "name": "Roadkill",
@@ -24006,7 +24006,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.9"
+            "percent": "9.0"
           },
           "ach-comm-30secondsleft": {
             "name": "Early access",
@@ -24060,7 +24060,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.3"
+            "percent": "1.4"
           },
           "ach-comm-5scanners": {
             "name": "Deep scan",
@@ -24087,7 +24087,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.3"
+            "percent": "11.4"
           },
           "ach-comm-lvl25classes": {
             "name": "Survivor squad",
@@ -24123,7 +24123,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.1"
+            "percent": "16.2"
           },
           "ach-comm-escortminestage": {
             "name": "The only drilldozer here is me",

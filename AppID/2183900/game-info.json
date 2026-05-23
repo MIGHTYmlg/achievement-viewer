@@ -1,7 +1,7 @@
 {
   "appid": "2183900",
   "name": "Warhammer 40,000: Space Marine 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/5d204c34172cdd6e4d0150943b1d1fba46962444/header_alt_assets_12.jpg?t=1779444506",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/5d204c34172cdd6e4d0150943b1d1fba46962444/header_alt_assets_12.jpg?t=1779454963",
   "achievements": {
     "STORY_INTRO": {
       "name": "The Die Is Cast",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ace9a149ba08c29d1271a9af6426110930e09ebe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.1"
+      "percent": "82.0"
     },
     "PVE_ACID_BOMB": {
       "name": "Crude but Effective",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.5"
     },
     "STORY_SKYLAB": {
       "name": "Target Acquired",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.3"
     },
     "PVE_TYRANT": {
       "name": "Sic Semper Tyrannis",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.3"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.7"
+      "percent": "53.6"
     },
     "STORY_LAST_STAND": {
       "name": "Into the Abyss",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "MARKING_TOOL": {
       "name": "Purge Them All",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5ecf35ab270acdc257e15f714d237ce4d2e87c06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.7"
     },
     "PVE_MAX_LEVEL": {
       "name": "Strategic Specialty",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/33b39ee5b448ab5a97ae310a0fbb69ed9b6f6e71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.5"
     },
     "SUPPORT_KILLS": {
       "name": "Immovable Object",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.1"
     },
     "ATTACK_LICTOR": {
       "name": "One Ugly Xenos",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/131aaef161d4b3a27bec916b6951fe9fa315bb31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "PERFECT_PARRY": {
       "name": "Know No Fear",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "64.8"
     },
     "KILLS_ALERT": {
       "name": "Silence",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "PVE_TYRANID_KILLS": {
       "name": "Xenos Exterminator",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/8be6ef392195cdb4461a1a4762e1df7850001657.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "PVP_WIN": {
       "name": "Glorious Victory",

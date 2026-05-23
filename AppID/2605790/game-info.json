@@ -1,7 +1,7 @@
 {
   "appid": "2605790",
   "name": "Deep Rock Galactic: Rogue Core",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/33b0aef214c4b17af3205e091a569f68d340e914/header.jpg?t=1779302062",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/33b0aef214c4b17af3205e091a569f68d340e914/header.jpg?t=1779480566",
   "achievements": {
     "PCAA_CERTIFIED": {
       "name": "PCAA Certified",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.3"
+      "percent": "89.4"
     },
     "ROGUED_OUT": {
       "name": "Rogue'd Out",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.8"
+      "percent": "75.3"
     },
     "ABOVE_AND_BEYOND": {
       "name": "Above and Beyond",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "43.5"
     },
     "PROMOTION_SPOTTED": {
       "name": "Promotion Spotted",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "3.5"
     },
     "GREAT_IN_EVERY_TIMELINE": {
       "name": "Great in Every Timeline",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "1.8"
     },
     "GALLANT_GUARDIAN": {
       "name": "Gallant Guardian",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "3.3"
     },
     "A_SLICE_OF_GREATNESS": {
       "name": "A Slice of Greatness",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "4.6"
     },
     "DRONE_SCHOOL_STAR": {
       "name": "Drone School Star",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "3.7"
     },
     "ITS_GOING_DOWN": {
       "name": "It's Going Down",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.0"
+      "percent": "90.6"
     },
     "JUNIOR_DETECTIVE": {
       "name": "Junior Detective",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "56.0"
     },
     "RECLAIMER_IRON": {
       "name": "Reclaimer Iron",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "72.0"
     },
     "RECLAIMER_BRONZE": {
       "name": "Reclaimer Bronze",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "30.1"
     },
     "RECLAIMER_SILVER": {
       "name": "Reclaimer Silver",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "8.7"
     },
     "RECLAIMER_GOLD": {
       "name": "Reclaimer Gold",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "1.2"
     },
     "GOTOORAK_SLAYER": {
       "name": "Gotoorak Slayer",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "72.8"
     },
     "RAMOK_CONQUEROR": {
       "name": "Ramok Conqueror",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "20.3"
     },
     "MALAKTULA_VANQUISHER": {
       "name": "Molaktula Vanquisher",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "5.1"
     },
     "A_DEPLOYMENT_A_DAY": {
       "name": "A Deployment A Day",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "3.3"
     },
     "DOESNT_AFRAID_OF_ANYTHING": {
       "name": "Doesn't Afraid of Anything",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.2"
     },
     "GAUNTLET_LEGEND": {
       "name": "Gauntlet Legend",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.7"
     },
     "RAM_ROD_REALLY_ROCKS": {
       "name": "Ram Rod Really Rocks",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "2.0"
     },
     "WITNESS_ASCENSION": {
       "name": "Reverence for a Comrade",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "6.9"
     }
   },
   "platform": null,
