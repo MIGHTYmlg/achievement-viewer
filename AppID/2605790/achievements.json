@@ -36,8 +36,8 @@
     "earned_time": 0
   },
   "ITS_GOING_DOWN": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779563928
   },
   "JUNIOR_DETECTIVE": {
     "earned": false,
@@ -80,8 +80,8 @@
     "earned_time": 0
   },
   "ROGUED_OUT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779563335
   },
   "STOLEN_VALOR": {
     "earned": false,
