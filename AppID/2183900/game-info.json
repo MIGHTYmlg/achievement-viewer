@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f5d9b630753886bda7b52dbf5960755175b8a6c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "STORY_TOWER": {
       "name": "Enemy Revealed",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.5"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "STORY_LAST_STAND": {
       "name": "Into the Abyss",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.5"
     },
     "STORY_FINALE": {
       "name": "I'll Be Watching You",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c074b26930afcc1403d67b0f091515224ed13ec2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "PVE_MAX_MELEE": {
       "name": "Sharpest Edge",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.4"
     },
     "KILLS_ALERT": {
       "name": "Silence",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/dfd9555220709bb50d88a451d74f1e76c968ba01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "PVE_CHAOS_KILLS": {
       "name": "The Thousand Dead Sons",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7d611b6773380c8bf671bab14fe3b99ad0f1b301.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "PVP_WIN_CLASSES": {
       "name": "Tactical Genius",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/1059895a6af5f38ffd16144c2e748977c49d12b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "ALL_ACHIEVEMENTS": {
       "name": "Defender of Humanity",
