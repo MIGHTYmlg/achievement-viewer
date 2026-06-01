@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/faa9972fca0e8068acb42b895a1c78e97dd9f91c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.5"
     },
     "4": {
       "name": "Got No Strings",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/0010b1220db8840558616cd7ce4a7acfd5a3602f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.3"
     },
     "5": {
       "name": "Fish Out of Water",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/8eb45c9178ace6bf4f4e6e3f002227d7ce4d8882.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     },
     "8": {
       "name": "Iron Giant Down",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/0bca31fd2955786daec415b6e7205821eb2f6fa3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "10": {
       "name": "Great Dad",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/a461ad8d1733923f8a525e7af2836fc7477ff246.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "27": {
       "name": "Strategist",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/2272aae75a00972dc38ac0dbdb312af3e0b211fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "29": {
       "name": "Fast Reflexes",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/bbcf3ff969de02f320f5da912d7a945516ddd300.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "31": {
       "name": "Timber",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/b36090ad7402a1a65c6b4c937e00f983ef8edd23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "50": {
       "name": "Green Teen",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/e8682ff3d9afd23b4b1dcd94107f5edb813eb212.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "51": {
       "name": "Serene Teen",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/cc5e029396e3613f6ed1649e0b7e07a73c07aebf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "52": {
       "name": "Supreme Teen",
