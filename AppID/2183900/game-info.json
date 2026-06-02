@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ace9a149ba08c29d1271a9af6426110930e09ebe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "PVE_ACID_BOMB": {
       "name": "Crude but Effective",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/eecd8bfd24ba4a8feb78c81ecc1b13e8125dd131.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.3"
     },
     "STORY_ASSASSINATION": {
       "name": "Chaos All Along",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.2"
+      "percent": "71.1"
     },
     "STORY_SKYLAB": {
       "name": "Target Acquired",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6a5e1545dbb43f58ed160ba66c1a8f571128661e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "64.8"
     },
     "STORY_RESCUE": {
       "name": "Vital Asset",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "60.8"
     },
     "PVE_TYRANT": {
       "name": "Sic Semper Tyrannis",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.4"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f19b56ce81938db5cbd0113504963060a6b0dbfd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "PVE_ANCIENT_WEAPON": {
       "name": "Resurrection",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "STORY_LAST_STAND": {
       "name": "Into the Abyss",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "STORY_FINALE": {
       "name": "I'll Be Watching You",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "MARKING_TOOL": {
       "name": "Purge Them All",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7f3303ea6fe3d811a1cbd7f931b3652b282cc880.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "PVE_TRAIN": {
       "name": "Outbound Payload",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c074b26930afcc1403d67b0f091515224ed13ec2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "PVE_MAX_MELEE": {
       "name": "Sharpest Edge",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.0"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/515e33a65c96f94a548eba17ed36020deddec418.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "TOTAL_KILLS_SILVER": {
       "name": "A Blight to Be Purged",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3c343837985d44b438be4fe58b582769c8bcca93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "55.7"
     },
     "SOLDIER_KILLS": {
       "name": "Master of Arsenal",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/33b39ee5b448ab5a97ae310a0fbb69ed9b6f6e71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "SUPPORT_KILLS": {
       "name": "Immovable Object",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a55f557a15b3247df1f22bb38f4a8ec6fe0160f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "RAVENER_CANCEL_GRAB": {
       "name": "Unhand My Brother!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "ATTACK_LICTOR": {
       "name": "One Ugly Xenos",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     },
     "KILLS_ALERT": {
       "name": "Silence",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "PVE_TYRANID_KILLS": {
       "name": "Xenos Exterminator",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7d611b6773380c8bf671bab14fe3b99ad0f1b301.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "PVP_WIN_CLASSES": {
       "name": "Tactical Genius",

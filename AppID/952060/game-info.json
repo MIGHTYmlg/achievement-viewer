@@ -1,7 +1,7 @@
 {
   "appid": "952060",
   "name": "Resident Evil 3",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1778616591",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1780362329",
   "achievements": {
     "NEW_ACHIEVEMENT_1_1": {
       "name": "First Escape",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/617e2de9c68146ba24cf99f96c1c888f298549f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.8"
+      "percent": "82.9"
     },
     "NEW_ACHIEVEMENT_1_9": {
       "name": "Nemesis Down",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/a1492559f78d4318100e3a4a5187ecdcbeba39b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.0"
+      "percent": "70.1"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Jill Valentine",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/303bb2981a559de630e87c6c2a8f0cf99c7252db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.6"
     },
     "NEW_ACHIEVEMENT_1_20": {
       "name": "Hello, Charlie!",
