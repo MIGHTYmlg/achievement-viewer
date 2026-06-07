@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/d740d3dd78c2c8845ec970781803ef6d735bc88a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.2"
+      "percent": "74.1"
     },
     "BossDefeated_Duchess": {
       "name": "Tyrant of Slacktide",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/40259cf04b35b03124c1f5ad281d7823ffbfaefa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "BossDefeated_Pathfinder": {
       "name": "Polluted Platoon Pathfinder",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/d53f074ab6f68818189373621bdbce7066c8cc73.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.9"
+      "percent": "61.8"
     },
     "BossDefeated_Lichenthrope": {
       "name": "Diseased Lichenthrope",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/04b7db28ad9919e58d9eaf4c3394bf3682ed8a48.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "BossDefeated_Heikea": {
       "name": "Intimidation Crab",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/cc21e55bef2405d8101a1d8e5ecb334115234fb9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "BossDefeated_Roland": {
       "name": "Venture Crabitalist",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/3456b3a0876faa5854bdea785ec77c5cfcdf832e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "BossDefeated_Inkerton": {
       "name": "Crab Hunter",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/6114a22b13ecb27cca222c505fbc2a1c58e299aa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "BossDefeated_BleachedKing_Fake": {
       "name": "The Bleached King",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/f02fff2ba5c42f09504ab0050386b657920e1713.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "BossDefeated_BleachedKing_Real": {
       "name": "Camtscha, Reborn",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/8b34b4e76ff2f84c9851de0062dd07fbd8ce78e2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "SkillTreeCompleted_Crab": {
       "name": "Path of the True Crab",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/04b15fd0872678c7c8e860f898ba1e47e5883af6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "Misc_HasFallenOff": {
       "name": "You fell off",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/950c42c33601d8ee9429662aec7bd92be95a03b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "BossDefeated_Royalsplitter": {
       "name": "Royal Shellsplitter",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/e80c654a5bf32faac3bebf9cbc4bd01e87d74426.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "Plot_HomeShellReturned": {
       "name": "Finishing What I Started",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/fc388b67be712dcdacf97133bdf69b901ceebfb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "YOTC_StartNewGamePlus": {
       "name": "Prepare to Die",
