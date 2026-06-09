@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/77af01750896351615749300261533c376cb8247.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.1"
+      "percent": "79.0"
     },
     "3": {
       "name": "That Sucked!",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/faa9972fca0e8068acb42b895a1c78e97dd9f91c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "4": {
       "name": "Got No Strings",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/0010b1220db8840558616cd7ce4a7acfd5a3602f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.3"
+      "percent": "64.1"
     },
     "5": {
       "name": "Fish Out of Water",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/ce1b16ebd8d323b36cae719c19178bcc551bb825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.3"
     },
     "6": {
       "name": "Up Urs!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/b737b1741920b0634adc438c93e8c13d84f2803e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.1"
     },
     "7": {
       "name": "Temporary Measures",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/8eb45c9178ace6bf4f4e6e3f002227d7ce4d8882.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "60.8"
     },
     "8": {
       "name": "Iron Giant Down",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/034cead1e5c710d54ca9c62d331295e26d0792a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.2"
     },
     "9": {
       "name": "The Root of the Matter",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/0bca31fd2955786daec415b6e7205821eb2f6fa3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "10": {
       "name": "Great Dad",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/14ea12e7a1ec9b2fafd130e8c37705a5971c0f95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.4"
+      "percent": "58.3"
     },
     "11": {
       "name": "Best Dad Ever",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/f450203ae7d6269858ca566603a90a6b9a7384a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "12": {
       "name": "World's Best Dad",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/524e9f990b19c66526b21c9874701e4bf9ec3ea8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "13": {
       "name": "Universe's Best Dad",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/269d67fcec14745d4be01f8a0a35cced0c976c62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.5"
+      "percent": "86.4"
     },
     "15": {
       "name": "Patron",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/ea7abf273b64c777875a072c3faaa53f7e45da24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.1"
+      "percent": "77.0"
     },
     "16": {
       "name": "Petty Thief",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/7a1959268c41aa5b128bedf28689c6f77532c544.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.9"
     },
     "17": {
       "name": "Repairer",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/58eff0d2972d225255224accb7404227dd8f919c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "18": {
       "name": "Hunter",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/e2cd66303551b2f351c648150b4c6395853a0e37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.4"
+      "percent": "69.3"
     },
     "19": {
       "name": "Get the Ball Rolling",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/37bbf9524e947355bf91826a09e4db3008593e07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.7"
+      "percent": "66.6"
     },
     "20": {
       "name": "Goooaaal!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/1c43e00bbe4c24eb1200c0796c047e419f38c442.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "22": {
       "name": "When You Gotta Go...",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/a461ad8d1733923f8a525e7af2836fc7477ff246.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.5"
     },
     "27": {
       "name": "Strategist",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/dce1e948b4b2b53bba3837e9a439c31184828c26.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.3"
     },
     "28": {
       "name": "Medium Rare",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/2272aae75a00972dc38ac0dbdb312af3e0b211fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.0"
     },
     "29": {
       "name": "Fast Reflexes",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/bbcf3ff969de02f320f5da912d7a945516ddd300.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "31": {
       "name": "Timber",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/af964e8c115c547f4504647ac2f01784cbd19086.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "33": {
       "name": "Lucky Number 7",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/ae8f35770222900ab5ab8e00a50c221cbc785978.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "35": {
       "name": "Cynic",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/16bd8cd23d6fe38f0cd95875d6ee9ffe69a24d44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "76.9"
     },
     "36": {
       "name": "Heretic",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/1bf2bde31cae6247a9217c6772c35d1e6ac5c6c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.9"
     },
     "38": {
       "name": "Veteran Gunsmith",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/eb42b3d483ae8ca7d592e532dbee5adc352d0812.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "39": {
       "name": "Tinkerer",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/e47d25dfb1f0b64a55ce30c3e79f25a841e7ee8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "41": {
       "name": "Bookworm",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/eaad88e2ea5be5313f4272a5157ad31ecbad4386.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "44": {
       "name": "Frugal Father",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/72fd9f54ed52408f8a7b3ee152ad562d1b0b0132.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "49": {
       "name": "Art Collector",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/b36090ad7402a1a65c6b4c937e00f983ef8edd23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "50": {
       "name": "Green Teen",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1196590/a8b807742c058bbcfae0b9ddf846b63571c8e811.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "54": {
       "name": "Craftsmaster",
