@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f5d9b630753886bda7b52dbf5960755175b8a6c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "STORY_TOWER": {
       "name": "Enemy Revealed",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c67bf0d0474d58c50b6eee5ba686e28315056b22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "DATASLATES": {
       "name": "Data Mining",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/515e33a65c96f94a548eba17ed36020deddec418.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "TOTAL_KILLS_SILVER": {
       "name": "A Blight to Be Purged",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3c343837985d44b438be4fe58b582769c8bcca93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.9"
     },
     "SOLDIER_KILLS": {
       "name": "Master of Arsenal",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a55f557a15b3247df1f22bb38f4a8ec6fe0160f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "RAVENER_CANCEL_GRAB": {
       "name": "Unhand My Brother!",

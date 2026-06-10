@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/9ef52070a543a026857a2f273f7cbcbecb7e0303.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "BossDefeated_Topoda": {
       "name": "Grovekeeper",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/0123a10d713e50908c0f8a5c5e818573ddd290d9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "BossDefeated_Voltai": {
       "name": "The Accumulator",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/4fb27a4daf98b852f1219841e4a5f16bec97a1a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "BossDefeated_Petroc": {
       "name": "The False Moon",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/49ef585cd998b81295cdc354df2532c4f179477b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "SkillTreeCompleted_Predator": {
       "name": "Path of the Predator",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/f3615da38c0246566cd2209864378d637d77a24e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "SkillTreeCompleted_Hermit": {
       "name": "Path of the Hermit",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/29eba3a1deca8816a4fde9e196df54c992d11394.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "UpgradeMax_Fork": {
       "name": "Make it Shine",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/a454eb029b4274542dfd50faaaaf245c33c75c97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "Misc_ShootCrab": {
       "name": "This Kills The Crab",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/47bf46435028d60b2af0646bb94f48d45410463c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "Plot_TreasurehuntStart": {
       "name": "The Hunt Begins!",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/681dd126d50ea28c1b3a809a2d6be22e7e4e6f13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "BossDefeated_OilDrumBrusier": {
       "name": "Curdled Carbonara Connoisseur",
