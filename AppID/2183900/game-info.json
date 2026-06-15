@@ -1,7 +1,7 @@
 {
   "appid": "2183900",
   "name": "Warhammer 40,000: Space Marine 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/095aa13e7e5c409c8f423652c181a4ffb7c81b9f/header_alt_assets_12.jpg?t=1780329761",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/4f84d3757d6d28ce36ce0022541b24122819b402/header_alt_assets_12_brazilian.jpg?t=1780329761",
   "achievements": {
     "STORY_INTRO": {
       "name": "The Die Is Cast",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.8"
+      "percent": "60.9"
     },
     "PVE_TYRANT": {
       "name": "Sic Semper Tyrannis",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f5d9b630753886bda7b52dbf5960755175b8a6c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "STORY_TOWER": {
       "name": "Enemy Revealed",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f19b56ce81938db5cbd0113504963060a6b0dbfd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "PVE_ANCIENT_WEAPON": {
       "name": "Resurrection",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d9c32785a96e5df3d4e41f222e6797eb2ed731cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "STORY_ORBITAL_DROP": {
       "name": "My Face Is My Shield",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "STORY_FINALE": {
       "name": "I'll Be Watching You",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c67bf0d0474d58c50b6eee5ba686e28315056b22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "DATASLATES": {
       "name": "Data Mining",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5ecf35ab270acdc257e15f714d237ce4d2e87c06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "PVE_MAX_LEVEL": {
       "name": "Strategic Specialty",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c074b26930afcc1403d67b0f091515224ed13ec2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "PVE_MAX_MELEE": {
       "name": "Sharpest Edge",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/515e33a65c96f94a548eba17ed36020deddec418.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "TOTAL_KILLS_SILVER": {
       "name": "A Blight to Be Purged",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3c343837985d44b438be4fe58b582769c8bcca93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.9"
     },
     "SOLDIER_KILLS": {
       "name": "Master of Arsenal",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ced24795f14a16b1e76e9b88b06e844d992d6abf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "TANK_KILLS": {
       "name": "Guardian's Might",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a55f557a15b3247df1f22bb38f4a8ec6fe0160f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "RAVENER_CANCEL_GRAB": {
       "name": "Unhand My Brother!",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/131aaef161d4b3a27bec916b6951fe9fa315bb31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "PERFECT_PARRY": {
       "name": "Know No Fear",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0d30a4d523ffb8ddacf648dfd6eea0c88e4a03e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "KILLS_BY_TRAPS": {
       "name": "Field of Battle",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "PVE_TYRANID_KILLS": {
       "name": "Xenos Exterminator",
