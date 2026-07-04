@@ -1,5 +1,5 @@
 {
-  "last_updated": 1783138534,
+  "last_updated": 1783169800,
   "total_games": 37,
   "games": [
     {
@@ -10234,7 +10234,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.1"
+            "percent": "32.0"
           },
           "ANDREW_REDEEMED": {
             "name": "Strength From Within",
@@ -10469,8 +10469,8 @@
           "earned_time": 0
         },
         "UNLOCKED_AMIABLE": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783159690
         },
         "UNLOCKED_COMPASSION": {
           "earned": false,
