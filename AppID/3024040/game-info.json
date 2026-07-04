@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/9ea6b9911d4911bcc449582deaff5c2343eead06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ACHIEVEMENT_Kill_10k_Units": {
       "name": "Meanie",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/2f173fd5971a0eb25f6726c71272336e81ae5fbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "ACHIEVEMENT_Kill_100k_Units": {
       "name": "Bully",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/6760beb2dc0145a7d34fba5c57aea3848237cbf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.5"
     },
     "ACHIEVEMENT_Store_Wood_10000": {
       "name": "No More Wood Needed",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/1c331a06c112ffa247910d42c7080cd4340f456a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "ACHIEVEMENT_Amass_Gold_10000": {
       "name": "The Midas Touch",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/5b0602d04d2d16388ece8a085f52c1b794f80757.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ACHIEVEMENT_Sands_Trail_1": {
       "name": "Sheep Farmer",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/5a070adf0a8a17ac73e5ffbf106233cf0ce97a15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.7"
+      "percent": "68.6"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_7": {
       "name": "Almost Impressive",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/673be2d6969bac6463ffd3bca6b393cec41a50a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_Team_of_7": {
       "name": "Genuinely Impressive",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/dffb006abab9fff9ebd0ec60054f62f5873cf676.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "ACHIEVEMENT_Win_Skirmish_No_Ranged": {
       "name": "Up Close & Personal",
