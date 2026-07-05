@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312670/194da1e8c3bd74a9686f01d9936be9df3ceb2897.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "ACHIEVEMENT_SKELETONS_KILLED": {
       "name": "Hydra's Teeth",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312670/cf5ce093058990e3694239fe53a879636ff5b5c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "45.8"
     },
     "ACHIEVEMENT_USE_ALL_CHARACTERS": {
       "name": "There's no 'I' in Team…but there is a 'me'",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312670/936920efe081cb8649dfeb7dd40fc36d4c0dce29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACHIEVEMENT_DLC_3_ALL_JARS": {
       "name": "Don't go breaking my jar!",
