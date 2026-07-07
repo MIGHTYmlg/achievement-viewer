@@ -1,5 +1,5 @@
 {
-  "last_updated": 1783398782,
+  "last_updated": 1783423568,
   "total_games": 38,
   "games": [
     {
@@ -14332,8 +14332,8 @@
           "earned_time": 0
         },
         "HEARTTOHEART": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783355596
         },
         "ILLUMINATINGEVIDENCE": {
           "earned": false,
@@ -14368,8 +14368,8 @@
           "earned_time": 0
         },
         "SEMPERFI": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783355821
         },
         "SIXMINUTESOFNIGHT": {
           "earned": false,
