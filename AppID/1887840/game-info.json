@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/5a69a674d4ac30a5f10512e5b5fd9e1cb2e2acab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "CollectLimit_Adaptations": {
       "name": "Well Adapted",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/dfb6396d05c6eac277bdac7f0a50504a5e0e5175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "YOTC_HiddenSnail": {
       "name": "I am Speed",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/280045137061428e80b7c43590ebbcf12cc44c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     }
   },
   "platform": null,
