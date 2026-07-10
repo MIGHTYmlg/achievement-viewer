@@ -1,7 +1,7 @@
 {
   "appid": "2183900",
   "name": "Warhammer 40,000: Space Marine 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/095aa13e7e5c409c8f423652c181a4ffb7c81b9f/header_alt_assets_12.jpg?t=1780329761",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1780329761",
   "achievements": {
     "STORY_INTRO": {
       "name": "The Die Is Cast",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "71.0"
     },
     "STORY_SKYLAB": {
       "name": "Target Acquired",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.3"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.6"
     },
     "MARKING_TOOL": {
       "name": "Purge Them All",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7f3303ea6fe3d811a1cbd7f931b3652b282cc880.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "PVE_TRAIN": {
       "name": "Outbound Payload",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ATTACK_LICTOR": {
       "name": "One Ugly Xenos",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "KILLS_ALERT": {
       "name": "Silence",
