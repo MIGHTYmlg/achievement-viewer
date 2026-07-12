@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/ec813e87e978bc705927371553509a5a5f17a95d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.2"
+      "percent": "73.1"
     },
     "05_KillCharacter_Gigas_Kill": {
       "name": "Gigas",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8a797b96f7063ba0f4cba6bf3df3877f10de2ac3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.7"
     },
     "07_CompleteLevel_AltesLabor": {
       "name": "Altess Levoire",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/f85d4cc8f54baece3d7087555a41d5212fa08b11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.7"
     },
     "09_KillCharacter_Juggernaut_Kill": {
       "name": "Juggernaut",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/43a91c3b0174a1be23f9e93773e7c6e3445ec529.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.7"
     },
     "13_KillCharacter_Belial_A_Kill": {
       "name": "Belial",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/c8009bd93ca48c5d247f7e1d2e2a8038538fd250.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "14_KillCharacter_Marionette_Kill": {
       "name": "Karakuri",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/c945185b5331a92b34fcbe84d483380c96abb22e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "17_Ending_Colony": {
       "name": "Return to the Colony",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/65603a6ebd5343bd31861019b765fc16914d3ff6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "20_Acquire_AllCan": {
       "name": "Can Collector",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/813682d75b72a643972ffde190848e37d2af27b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "21_Acquire_AllNanoSuit": {
       "name": "Nano Suit Collector",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b5050c5c26ea17caa18bf5e4e065cd0b860620c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "22_Acquire_AllRecords": {
       "name": "Records Collector",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/046f3dece50939998e49450193f076c652e6a09f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "23_Album_AllFish": {
       "name": "Lonely Fisherman",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/810dca89ea6b8e111725c87636e05c2723a4ede8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "24_Open_AllBox": {
       "name": "Box Hunter",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/0ae264e18ec6b51eca71d844806da99ab4302289.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "26_Activate_AllCamp": {
       "name": "Meticulous Explorer",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8d002cbf7aa87b3c5eed3f95f3f42fbb74880da1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "29_TumblerMaxUpgrade": {
       "name": "Perfect Rechargeable Tumbler",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b35a50d28a86790e558acaf10a9a4adda8eb235f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "30_BodyMaxUpgrade": {
       "name": "Perfect Physical Enhancement",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/371f6cb3ffbe6b45caa681bdb7cd1bf09bbfe337.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "31_BetaMaxUpgrade": {
       "name": "Perfect Beta Energy Enhancement",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8b779b1bbbe8495adb56c59129ae94a569e7fe13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "32_Acquire_AllSkill": {
       "name": "Thorough Technician",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/16577751adcc82ba33b963cdb1e4507c82bdc737.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.6"
     },
     "33_CompleteQuest_Enya": {
       "name": "Beyond Fate",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/936e0f8833e3be9e29aec80bf0f966e4fccb1b0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "35_CompleteQuest_Digger": {
       "name": "Beep!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/011bc02b3ccee12bd3d60774de7ed02915ca6a5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "36_JustEvade": {
       "name": "Battlefield Martial Artist",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/7c7325119d991499027ceb5f40b9888f12731a3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "41_CharKill_TachySkill": {
       "name": "Revenging Agent",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b3d9ddf2623431b57f42af0d458b361ca2ee6a50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "42_CharKill_RangeSkill": {
       "name": "Cold-blooded Sniper",

@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c34871d21b5a178f05b63c0d14c4a6868987cf9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "Arc_Ran": {
       "name": "Path Of Peace",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/784af6c15c504c7ef07d3c93316b0e4ea46bcfee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "Arc_Wra": {
       "name": "Path Of Deputation",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/4be1d754f33515327e076d60ba45b87a06e61a8c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "Arc_May": {
       "name": "Path Of Vigilance",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/f78c38724bb9e912a740365a318fad39c1c06af6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.7"
     },
     "Arc_For": {
       "name": "Path Of Vindication",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a1a2b1c7e6c259c0e0072b92b0c507c791d2b599.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "KO_May": {
       "name": "The Vicious Vine",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a573ac9bc9ce0fd8b2b12988253d65c276b86de7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "KO_Orc": {
       "name": "The Bubble Butt",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a2ad0c31196d69551109888fae4da6072233b738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "Skill_Wra": {
       "name": "The Towering Tornado",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/375467a1151e0c1d2297211daa99ef962e94ca29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "Skill_May": {
       "name": "Maypals!",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ca7500cb1f7bd6e242ed3c0efd251e2f9a13c051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "Skill_Orc": {
       "name": "The Daring Orca Hop",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3629cc78580a652c22c84681fbcb6e3b6a27ebed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "New_Emote": {
       "name": "Quick To Listen",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a597474b2eebdbde67c5229db16ce7cc68dc41f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "New_CPU": {
       "name": "Power Down",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a39630f37d3498d97b8b22d17c38729ad4b07c76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.0"
     },
     "Lvl_Eta": {
       "name": "The Glacier's Might",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/bb81a5c7bc29fd010f280e28c2ff8f89fc10886c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "Lvl_Oly": {
       "name": "The Amethyst Fist",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/f88b28be42458ad27bcec3fca01717c430968006.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "KO_Gal": {
       "name": "Sedimentary Stomp",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/f43cfe0943bbda833c501ea3530412a6ca037310.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "New_Mint": {
       "name": "Achievemint",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/8d479c93936bacde11fab550efd2d418837b2e32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "Arc_Lar": {
       "name": "Path of Grandiosity",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/774d1c80063d7b4e052609674a5d05e03033d750.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "8.0"
     },
     "Skill_Lar": {
       "name": "Heavenly Polarity Piledriver",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2018b2aaebea1b2d6d32120f0c2abb57da6cc552.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "Lvl_Sla": {
       "name": "The Swagger of the Sea",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7137516280ab880ea3babbbee264687881f8bb6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "Skill_Sla": {
       "name": "Bootyful",

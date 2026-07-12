@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/9ea6b9911d4911bcc449582deaff5c2343eead06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "ACHIEVEMENT_Kill_10k_Units": {
       "name": "Meanie",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/c5a7caf058b3078eaa11ea5dfc8df5499c1e5ac3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "ACHIEVEMENT_Campaign_2": {
       "name": "Iron Banner",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/a5db7186aa5dfcdc1a2e0f09623ded4ccbf2be37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ACHIEVEMENT_Campaign_3": {
       "name": "King of the Sandcastle",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/f82a09d6d1b584e99cc980b44d5d12f32f715f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "ACHIEVEMENT_Sands_Prince": {
       "name": "Nailed It!",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/5a070adf0a8a17ac73e5ffbf106233cf0ce97a15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_7": {
       "name": "Almost Impressive",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/673be2d6969bac6463ffd3bca6b393cec41a50a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_Team_of_7": {
       "name": "Genuinely Impressive",

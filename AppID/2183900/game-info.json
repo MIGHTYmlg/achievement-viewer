@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.0"
+      "percent": "70.9"
     },
     "STORY_SKYLAB": {
       "name": "Target Acquired",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "45.6"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.2"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.5"
     },
     "MARKING_TOOL": {
       "name": "Purge Them All",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7f3303ea6fe3d811a1cbd7f931b3652b282cc880.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "PVE_TRAIN": {
       "name": "Outbound Payload",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.1"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "ATTACK_LICTOR": {
       "name": "One Ugly Xenos",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.1"
     },
     "KILLS_ALERT": {
       "name": "Silence",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7d611b6773380c8bf671bab14fe3b99ad0f1b301.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "PVP_WIN_CLASSES": {
       "name": "Tactical Genius",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/99d8d3aef2585e48422c740b5d914ef88edd99b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "PVP_DOMINATION": {
       "name": "Dominator",
