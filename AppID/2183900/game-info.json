@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "71.0"
     },
     "STORY_SKYLAB": {
       "name": "Target Acquired",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.3"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.6"
     },
     "MARKING_TOOL": {
       "name": "Purge Them All",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6614d83d403bb06ac5ec1eae12ebd15ec6b92f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ATTACK_LICTOR": {
       "name": "One Ugly Xenos",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/971d3000fbcd619edf38e7ffbb48213302fcd050.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "KILL_LESSER_SOURCERER": {
       "name": "An End to Heresy",
