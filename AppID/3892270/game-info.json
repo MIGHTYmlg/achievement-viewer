@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACH_ENDING_DEBT_PAID": {
       "name": "...And They Lived Happily After",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "ACH_CHA_F2_CRASH": {
       "name": "Greed Test",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "ACH_CHA_F3_LUCKYSTREAK3": {
       "name": "Lucky Streak 3",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ACH_CHA_F4_BLACKJACK": {
       "name": "House Breaker",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "63.1"
     },
     "ACH_MISC_YESTOGAMBLEWIN": {
       "name": "The Gambler's Blessing",
