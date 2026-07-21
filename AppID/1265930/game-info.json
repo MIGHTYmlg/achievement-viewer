@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/3ca36d17fd08aa005b9cd7cae1d03546f63b794b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.9"
+      "percent": "67.0"
     },
     "E1_S01B_BLANKSPOT": {
       "name": "I See U Saw",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/98d736ffd2ca8278019b92672e4d614bf373607f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.1"
     },
     "E1_S04_GRAFFITIRANGUS": {
       "name": "Rock Idol",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/6ecc76e20fe3771f9e7f90cec48522ed90857bab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "E1_S08_SIGNGRAFFITI": {
       "name": "Face Your Anger",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/e91148418d1af854b6303044c63be155ae18e17f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "EndOfEpisode1": {
       "name": "Awake, Dear Heart",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0478d2ff2aa420769e173e815f3ce076646061ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "e2_s01D_lightgraffiti": {
       "name": "Stagehandwriting",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0f57f2f0f2a970ba2f3a798f24d695d1f8c349d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "e2_s04b_eliotgraffiti": {
       "name": "Permanent Record",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0b5e431053d2ef1e171234756a803d581d827034.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     }
   },
   "platform": null,
