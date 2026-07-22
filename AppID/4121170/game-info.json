@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/1ff663795617ec2ff6215df5f61c4a6ace8c49ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.6"
+      "percent": "72.8"
     },
     "HITCHED_UP": {
       "name": "All Hitched Up",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/8a46db0474380b09d44b504162744691a91e2d6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.3"
     },
     "HOLY_COW": {
       "name": "Holy Cow",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/ab6a2ac09d4f1ef906b7d014ad398fe9ca8f5528.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "WHOS_WATCHING": {
       "name": "Who's Watching?",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/8d0352e6c98ee1a8d0e3d162f634781d74615c1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.9"
+      "percent": "80.0"
     }
   },
   "platform": null,

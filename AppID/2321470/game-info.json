@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "ach-MSDataAquireMasteryPoints_WeaponBox": {
       "name": "What's in the box!?",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "ach-CC_4_MSDataWinRun": {
       "name": "Crystalline Caverns",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "ach-AW_4_MSDataWinRun": {
       "name": "Azure Weald",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "ach-wep18-nishankaboltshark": {
       "name": "Overclock: Nishanka Boltshark",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "ach-wep18-seismicrepulsor": {
       "name": "Overclock: Seismic Repulsor",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "ach-wep18-krakatoasentinel": {
       "name": "Overclock: Krakatoa Sentinel",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "ach-wep18-highexplosivegrenade": {
       "name": "Overclock: HE Grenade",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "ach-wep18-experimentalplasmacharger": {
       "name": "Overclock: Plasma Charger",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "ach-wepmaster-zhukovnuk17": {
       "name": "Mastery: Zhukov NUK17",
@@ -811,7 +811,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "ach-wepmaster-arctekcryoguard": {
       "name": "Mastery: Cryo Guard",
@@ -964,7 +964,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "ach-wepmaster-voltaicshockfence": {
       "name": "Mastery: Voltaic Shock Fence",
@@ -1081,7 +1081,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "ach-wepmaster-impactaxe": {
       "name": "Mastery: Impact Axe",
@@ -1099,7 +1099,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ach-wepmaster-cryocannon": {
       "name": "Mastery: Cryo Cannon",
@@ -1279,7 +1279,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "ach-wepmaster5-hurricanguidedrocketsystem": {
       "name": "True Mastery: Hurricane",
@@ -1450,7 +1450,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ach-wepmaster5-colettewavecooker": {
       "name": "True Mastery: Wave Cooker",
@@ -1594,7 +1594,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.3"
     },
     "ach-tagcollect-acid": {
       "name": "Feeling a bit sour",
@@ -1612,7 +1612,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.1"
     },
     "ach-tagcollect-beam": {
       "name": "Cross the beams",
@@ -1747,7 +1747,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "ach-tagcollect-spray": {
       "name": "Spray 'n pray",
@@ -1792,7 +1792,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "ach-subclasswin-recon": {
       "name": "Adventure awaits",
@@ -1801,7 +1801,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "ach-subclasswin-weaponsspecialist": {
       "name": "10,000 rounds per minute",
@@ -1810,7 +1810,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "ach-subclasswin-juggernaut": {
       "name": "Tough as nails",
@@ -1837,7 +1837,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "ach-subclasswin-tinkerer": {
       "name": "Brainstorming",
@@ -1864,7 +1864,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "ach-subclasswin-interrogator": {
       "name": "Chemical burns",
@@ -1873,7 +1873,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "ach-subclasswin-strongarmed": {
       "name": "And my axe",
@@ -1927,7 +1927,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "ach-subclasswinspecial-heavygunner": {
       "name": "Walk without rhythm",
@@ -1945,7 +1945,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "ach-subclasswinspecial-tinkerer": {
       "name": "Fully overclocked",
@@ -1990,7 +1990,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ach-endurance-dives-1": {
       "name": "Endurance: Dives I",
@@ -2017,7 +2017,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "ach-endurance-dives-4": {
       "name": "Endurance: Dives IV",
@@ -2026,7 +2026,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "ach-endurance-dives-5": {
       "name": "Endurance: Dives V",
@@ -2098,7 +2098,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "ach-endurance-damage-3": {
       "name": "Endurance: Damage III",
@@ -2125,7 +2125,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "ach-endurance-mine-1": {
       "name": "Endurance: Mine I",
@@ -2134,7 +2134,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "ach-endurance-mine-2": {
       "name": "Endurance: Mine II",
@@ -2197,7 +2197,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "ach-endurance-walk-4": {
       "name": "Endurance: Run IV",
@@ -2278,7 +2278,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "ach-gear-6uncommon": {
       "name": "Custom rig",
@@ -2467,7 +2467,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ach-comm-dreadtwinsnoheal": {
       "name": "Denied",
@@ -2476,7 +2476,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ach-comm-shellbacksupplypod": {
       "name": "Bullseye",
@@ -2485,7 +2485,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ach-comm-killalllootbugs": {
       "name": "This hurts me more",
