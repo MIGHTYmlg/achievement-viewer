@@ -1,0 +1,118 @@
+{
+  "appid": "4601770",
+  "name": "RED FLAG",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601770/f9fbea0b2e78d00ef193f94b09a81a03a9db7590/header.jpg?t=1784110963",
+  "achievements": {
+    "achiv_survive": {
+      "name": "I Survived? We Survived!",
+      "description": "Stay in the shelter and survive the finale.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/43bc5a13319db09833f1090feeaa5ad424434e87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/a60a7442f87553bcfd2ad6830c3ad45bc2d35d9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.3"
+    },
+    "achiv_untouchable": {
+      "name": "Untouchable",
+      "description": "Win without receiving a single vote for your elimination.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/cd0f29b1aa27e7061e2626ef0df97797135c8489.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/ea0e92773af4de7627b763f543388af421e52577.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.0"
+    },
+    "achiv_lifeform": {
+      "name": "The Perfect Lifeform",
+      "description": "Be reborn as a cockroach.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/3136c12c45179f2205f16ab56f2e9dcb9809e5bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/2de190a52521fb011d5280a92b29cf97172e861d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "achiv_squash": {
+      "name": "Oops, Someone Got Squashed...",
+      "description": "Squash a cockroach.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/2bfd4ebfec0330a45eb0f0783a230d0c1369f34c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/6479474d808978ad867c2169efc2d03359ce3f83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "achiv_what": {
+      "name": "What Was That?",
+      "description": "As a cockroach, get personally acquainted with another player's palm.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/bf7a8747e5b7aece93eb4ba392503107202bfd83.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/3eb961b9e7225b75011addefbd284ea8c5dca262.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "achiv_roach": {
+      "name": "Lucky Roach",
+      "description": "Enter the cockroach casino.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/f6c271e3c5f5b48813ac8f7015efb5350ee2490d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/05a4a46c745ce11852f9708b062aa8284208d1f6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "achiv_cockpot": {
+      "name": "Cockpot",
+      "description": "Win at the casino.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/0422e39e24593a5c2d359dc310bf6095d89dd873.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/bf4a367743c3d747c75c08d810dcbcf591047aa3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "achiv_okay": {
+      "name": "Okay, What?!",
+      "description": "Use a meta-ability.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/3ca2fba8c1ea6310070102cae8b140954dcf5c09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/7199b57c62e1b6ee58e99d659d7506f867d068e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.8"
+    },
+    "achiv_free": {
+      "name": "I'm Free!",
+      "description": "Become the first player eliminated in a match.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/0cda99a249e820aae4d29fa5797e016e5a0c0c06.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/b2ce2c7c38e68a086ffb6111da2f1ef2c19a64f7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.4"
+    },
+    "achiv_knife": {
+      "name": "Knife in the Back",
+      "description": "Become the last player eliminated before the finale.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/14cedb2324ab24e6b3fb2697334bab6d1973ac76.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/58e331de56dc7844509047e02f1ce378451d36eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "achiv_conspiracy": {
+      "name": "Is This Some Kind of Conspiracy?",
+      "description": "Receive every possible vote for your elimination.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/d4e8ebe1630d4fa5063dfaa86ad8c68d557ca737.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/a30f4d8666cbaad0687e363bc308042c91c51bf8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "achiv_dinner": {
+      "name": "Dinner Is Served!",
+      "description": "Climb into the toilet hole as a cockroach.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/6bcce983ac99e3e62780b0f43be926f8934d7733.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/8c07349356ab8821659a18542fa9b56d0f7a5139.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
