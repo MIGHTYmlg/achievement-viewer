@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/d740d3dd78c2c8845ec970781803ef6d735bc88a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.9"
+      "percent": "73.8"
     },
     "BossDefeated_Duchess": {
       "name": "Tyrant of Slacktide",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/40259cf04b35b03124c1f5ad281d7823ffbfaefa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.6"
     },
     "BossDefeated_Pathfinder": {
       "name": "Polluted Platoon Pathfinder",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/d53f074ab6f68818189373621bdbce7066c8cc73.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.4"
     },
     "BossDefeated_Lichenthrope": {
       "name": "Diseased Lichenthrope",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/9d722ab55b248b40154663894fcc20b1b408c4ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "BossDefeated_Consortium": {
       "name": "The Consortium",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/eaf48af2ab217d9cf06be56a85b707a42e9c6b00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "BossDefeated_Pagurus": {
       "name": "The Ravenous",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/0123a10d713e50908c0f8a5c5e818573ddd290d9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "BossDefeated_Voltai": {
       "name": "The Accumulator",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/cc21e55bef2405d8101a1d8e5ecb334115234fb9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "26.9"
     },
     "BossDefeated_Roland": {
       "name": "Venture Crabitalist",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/3456b3a0876faa5854bdea785ec77c5cfcdf832e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "BossDefeated_Inkerton": {
       "name": "Crab Hunter",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/f3615da38c0246566cd2209864378d637d77a24e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "SkillTreeCompleted_Hermit": {
       "name": "Path of the Hermit",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/a454eb029b4274542dfd50faaaaf245c33c75c97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "44.8"
     },
     "Misc_ShootCrab": {
       "name": "This Kills The Crab",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/47bf46435028d60b2af0646bb94f48d45410463c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "Plot_TreasurehuntStart": {
       "name": "The Hunt Begins!",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/1c3028d124c481352ad6284c7ef77ecfc0336954.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "BossDefeated_RollerBrusier": {
       "name": "Scuttling Sludge Steamroller",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/42cf6db0352ab9b625e8279266126578f85187cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "BossDefeated_TwinPistols": {
       "name": "Ceviche Sisters",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/5a69a674d4ac30a5f10512e5b5fd9e1cb2e2acab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "CollectLimit_Adaptations": {
       "name": "Well Adapted",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/8870265b69fac9c58fd256a7d944cd567083b31c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "BossDefeated_PrayaDubia_Phase2": {
       "name": "The Ocean's Agony",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/d19f960f7ffa0e357e1b9e144aa9b164d17bf164.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "YOTC_MuseumSeen": {
       "name": "Look at this Stuff",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/dfb6396d05c6eac277bdac7f0a50504a5e0e5175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "YOTC_HiddenSnail": {
       "name": "I am Speed",
