@@ -1,0 +1,358 @@
+{
+  "ACH_AllyTrait_Statboost1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost11": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost12": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost13": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost14": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost15": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost8": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AllyTrait_Statboost9": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Defeat_Boss1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Defeat_Boss2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Defeat_Boss3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_AOEOnAllyKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_Autoblock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_AutoblockOnHurt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_BlockRegen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_BlockStaminaCost": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_Coins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_CoinsOnAllyKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_CoinsOnDragonstone": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_Critical": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_DamageOnBlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_DoTAoEOnHurt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_Healing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_HeavyBlockDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_MoraleGain": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_MoraleOnLowHP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_MoreDamageOnLowHP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_MoreDamageOnStatusEffect": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_MoveSpeed": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_PerfectBlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_ReceivedRangeDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_ResetCooldownsOnKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_ResilientOnHurt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_SpeedOnKillMany": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_StrongAlliesOnLowHP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Statboost_StrongFinishers": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_ArrowsOnAllyCommand": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_Autoblock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_BlockRegen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_BlockStaminaCost": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_BombsOnHurt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_BombsOnPerfectBlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_Coins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_CoinsOnFinisher": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_CoinsOnKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_Critical": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_HealChanceOnHurt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_Healing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_HealOnDragonstone": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_HealOnLevelEnd": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_HeavyBlockDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_InvulnerabiltiyOnAllyCommand": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_MoraleGain": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_MoreDamageOnHealthyEnemy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_MoveSpeed": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_PerfectBlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_ReceivedRangeDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_StrongAlliesOnLootbox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT2_Thorns": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_AOEOnAttack": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_AOEOnHurt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_AOEOnKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_ArrowsOnHit": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_ArrowsOnKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_Autoblock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_BlockRegen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_BlockStaminaCost": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_Coins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_Critical": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_DashRegen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_DoubleLootbox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_EnemiesExplodeOnLowHp": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_Healing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_HealOnLootbox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_HeavyBlockDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_HeavyDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_LightDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_MaxBlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_MoraleGain": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_MoveSpeed": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_PerfectBlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_StatboostT3_ReceivedRangeDamage": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
