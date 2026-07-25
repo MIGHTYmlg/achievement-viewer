@@ -1,7 +1,7 @@
 {
   "ACH_AllyTrait_Statboost1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784984592
   },
   "ACH_AllyTrait_Statboost10": {
     "earned": false,
@@ -72,8 +72,8 @@
     "earned_time": 0
   },
   "ACH_Statboost_AOEOnAllyKill": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784984298
   },
   "ACH_Statboost_Autoblock": {
     "earned": false,
@@ -92,8 +92,8 @@
     "earned_time": 0
   },
   "ACH_Statboost_Coins": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784985280
   },
   "ACH_Statboost_CoinsOnAllyKill": {
     "earned": false,
@@ -104,8 +104,8 @@
     "earned_time": 0
   },
   "ACH_Statboost_Critical": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784985817
   },
   "ACH_Statboost_DamageOnBlock": {
     "earned": false,
@@ -116,20 +116,20 @@
     "earned_time": 0
   },
   "ACH_Statboost_Healing": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784985274
   },
   "ACH_Statboost_HeavyBlockDamage": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784986439
   },
   "ACH_Statboost_MoraleGain": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784986272
   },
   "ACH_Statboost_MoraleOnLowHP": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784987183
   },
   "ACH_Statboost_MoreDamageOnLowHP": {
     "earned": false,
@@ -156,20 +156,20 @@
     "earned_time": 0
   },
   "ACH_Statboost_ResilientOnHurt": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784986293
   },
   "ACH_Statboost_SpeedOnKillMany": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784986473
   },
   "ACH_Statboost_StrongAlliesOnLowHP": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784986287
   },
   "ACH_Statboost_StrongFinishers": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784985064
   },
   "ACH_StatboostT2_ArrowsOnAllyCommand": {
     "earned": false,
