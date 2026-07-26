@@ -28,8 +28,8 @@
     "earned_time": 0
   },
   "ACH_AllyTrait_Statboost2": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785014659
   },
   "ACH_AllyTrait_Statboost3": {
     "earned": false,
@@ -88,16 +88,16 @@
     "earned_time": 0
   },
   "ACH_Statboost_BlockStaminaCost": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785012519
   },
   "ACH_Statboost_Coins": {
     "earned": true,
     "earned_time": 1784985280
   },
   "ACH_Statboost_CoinsOnAllyKill": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785013356
   },
   "ACH_Statboost_CoinsOnDragonstone": {
     "earned": false,
@@ -157,7 +157,7 @@
   },
   "ACH_Statboost_ResilientOnHurt": {
     "earned": true,
-    "earned_time": 1784986293
+    "earned_time": 1785015835
   },
   "ACH_Statboost_SpeedOnKillMany": {
     "earned": true,
@@ -169,7 +169,7 @@
   },
   "ACH_Statboost_StrongFinishers": {
     "earned": true,
-    "earned_time": 1784985064
+    "earned_time": 1785015579
   },
   "ACH_StatboostT2_ArrowsOnAllyCommand": {
     "earned": false,
