@@ -60,8 +60,8 @@
     "earned_time": 0
   },
   "ACH_Defeat_Boss1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785087503
   },
   "ACH_Defeat_Boss2": {
     "earned": false,
@@ -112,8 +112,8 @@
     "earned_time": 0
   },
   "ACH_Statboost_DoTAoEOnHurt": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785087617
   },
   "ACH_Statboost_Healing": {
     "earned": true,
@@ -136,8 +136,8 @@
     "earned_time": 0
   },
   "ACH_Statboost_MoreDamageOnStatusEffect": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785085291
   },
   "ACH_Statboost_MoveSpeed": {
     "earned": false,
@@ -224,8 +224,8 @@
     "earned_time": 0
   },
   "ACH_StatboostT2_HealOnLevelEnd": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785085018
   },
   "ACH_StatboostT2_HeavyBlockDamage": {
     "earned": false,

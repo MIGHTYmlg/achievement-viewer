@@ -1,60 +1,4 @@
 {
-  "10": {
-    "earned": 1,
-    "earned_time": 1784413201
-  },
-  "12": {
-    "earned": 1,
-    "earned_time": 1785007759
-  },
-  "16": {
-    "earned": 1,
-    "earned_time": 1784379545
-  },
-  "20": {
-    "earned": 1,
-    "earned_time": 1784326813
-  },
-  "23": {
-    "earned": 1,
-    "earned_time": 1784326813
-  },
-  "24": {
-    "earned": 1,
-    "earned_time": 1784326813
-  },
-  "25": {
-    "earned": 1,
-    "earned_time": 1784377735
-  },
-  "31": {
-    "earned": 1,
-    "earned_time": 1784408231
-  },
-  "33": {
-    "earned": 1,
-    "earned_time": 1784326813
-  },
-  "38": {
-    "earned": 1,
-    "earned_time": 1784365801
-  },
-  "40": {
-    "earned": 1,
-    "earned_time": 1784326813
-  },
-  "41": {
-    "earned": 1,
-    "earned_time": 1784408770
-  },
-  "43": {
-    "earned": 1,
-    "earned_time": 1784574200
-  },
-  "8": {
-    "earned": 1,
-    "earned_time": 1784326813
-  },
   "ACObsidian_Ach_1": {
     "description": "Take a seat on a burning ship",
     "displayName": "Last To Leave",
@@ -63,7 +7,8 @@
   "ACObsidian_Ach_10": {
     "description": "Complete a Templar Hunt sequence",
     "displayName": "Help A Brother Out",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_11": {
     "description": "Find all treasure chests in underwater shipwrecks",
@@ -73,7 +18,8 @@
   "ACObsidian_Ach_12": {
     "description": "Kill a guard ringing a bell",
     "displayName": "Silence, Fool!",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_13": {
     "description": "Dodge a total of three charge attacks by a Wild Pig",
@@ -93,7 +39,8 @@
   "ACObsidian_Ach_16": {
     "description": "Complete every activity in a single location",
     "displayName": "Owned",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_17": {
     "description": "Kill 10 enemies by hanging them with the rope dart",
@@ -118,7 +65,8 @@
   "ACObsidian_Ach_20": {
     "description": "Kill an enemy with a wall takedown",
     "displayName": "Backs To The Wall",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_21": {
     "description": "After a perfect parry, perform a total of four takedowns",
@@ -133,17 +81,20 @@
   "ACObsidian_Ach_23": {
     "description": "Get a tour of Havana (complete Sequence 2, Memory 1)",
     "displayName": "Lively Havana",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_24": {
     "description": "Captain your own ship (complete Sequence 2, Memory 6)",
     "displayName": "A Poxy Bird",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_25": {
     "description": "Settle in a new home (complete Sequence 4, Memory 1)",
     "displayName": "Walls That Hold Back The Wind",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_26": {
     "description": "Witness the end of a legend (complete Sequence 8, Memory 1)",
@@ -188,7 +139,8 @@
   "ACObsidian_Ach_33": {
     "description": "Learn a new shanty",
     "displayName": "Yo Hoâ€¦",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_34": {
     "description": "Dash ram a ramming Brig",
@@ -213,7 +165,8 @@
   "ACObsidian_Ach_38": {
     "description": "Unlock the secondary firing mode on a Jackdaw weapon",
     "displayName": "Not So Little Friend",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_39": {
     "description": "Equip new cosmetics in each of the Jackdaw's vanity slots",
@@ -228,12 +181,14 @@
   "ACObsidian_Ach_40": {
     "description": "Craft an item",
     "displayName": "Smooth Operator",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_41": {
     "description": "Spend 50,000 Reales",
     "displayName": "Business And Pleasure",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_42": {
     "description": "Fully upgrade the Jackdaw",
@@ -243,7 +198,8 @@
   "ACObsidian_Ach_43": {
     "description": "Consume 20 food items",
     "displayName": "Glutton for Nourishment",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_44": {
     "description": "Interact with all seven friendly animals",
@@ -293,7 +249,8 @@
   "ACObsidian_Ach_8": {
     "description": "Ensure the survival of all pirates in a street fight",
     "displayName": "Articles Of Agreement",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785067457
   },
   "ACObsidian_Ach_9": {
     "description": "Unlock a smuggler's chest",
