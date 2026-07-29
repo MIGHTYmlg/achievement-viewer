@@ -124,7 +124,8 @@
   "ACObsidian_Ach_30": {
     "description": "Add one of each ship class to Kenway's fleet",
     "displayName": "Collective Madness",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785233669
   },
   "ACObsidian_Ach_31": {
     "description": "Board a Lead Convoy ship",
@@ -234,7 +235,8 @@
   "ACObsidian_Ach_5": {
     "description": "Restore all buildings in the Great Inagua village",
     "displayName": "Governor",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785232515
   },
   "ACObsidian_Ach_6": {
     "description": "Restore a map from map pieces",
