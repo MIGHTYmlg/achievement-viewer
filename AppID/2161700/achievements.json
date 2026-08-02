@@ -1,0 +1,226 @@
+{
+  "ACH_ALL_COMMU_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_COMMU_OPEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_PERSONA_EVO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_THEURGIA_USE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BOKOSUKA_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_MONADO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHANCE_ENC_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CURE_CAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DAMAGE_999": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_CHA_JUS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_EMP_EMP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_FOR_STR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_HANGEDMAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_HERMIT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_HIE_LOV": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_NUXE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_PRIESTESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEAT_RARE_SHADOW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENC_DEATH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENC_HAPPENING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXE_2_SPREAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXE_3_SPREAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIND_MISSING_PERSON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FORB_DOOR_OPEN_10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GET_ARBEIT_50000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GET_CONCEPTION_ITEM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GET_EXAM_TOP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GET_RAREMEDAL_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HARVEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HIDDEN_MENU_EMP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_H_PARAM_ALL_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_H_PARAM_ONE_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_INV_ELIZABETH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAIL_INVITATION_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAKE_LOVERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAKE_MESSIAH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ONE_COMMU_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ORPHEUS_GET": {
+    "earned": true,
+    "earned_time": 1785605532
+  },
+  "ACH_PAST_NIGHT_TIME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_ANTENORA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_CAINA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_COCYTUS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_EMPIREO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_ENDING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_JUDECCA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_PTOLOMEA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRGS_WILD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROPERTY_GET_ONE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SEES_JOIN": {
+    "earned": true,
+    "earned_time": 1785610898
+  },
+  "ACH_SFL_M_ARCANA_GET_10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SFL_PERSONA_GET_10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SHIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SKILL_CHANGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TREASURE_BOX_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRUE_END": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_USE_RAREMEDAL_50": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

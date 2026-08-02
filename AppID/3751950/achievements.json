@@ -105,7 +105,8 @@
   "ACObsidian_Ach_27": {
     "description": "Stop a Templar plot (complete Sequence 12, Memory 5)",
     "displayName": "Ever A Splinter",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785592752
   },
   "ACObsidian_Ach_28": {
     "description": "Recruit all Officers",
@@ -131,7 +132,8 @@
   "ACObsidian_Ach_31": {
     "description": "Board a Lead Convoy ship",
     "displayName": "Strike The Colors",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785348782
   },
   "ACObsidian_Ach_32": {
     "description": "Survive a rogue wave taken from the side",
@@ -163,7 +165,8 @@
   "ACObsidian_Ach_37": {
     "description": "Perform 3 perfect braces",
     "displayName": "Old Ironsides",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785415121
   },
   "ACObsidian_Ach_38": {
     "description": "Unlock the secondary firing mode on a Jackdaw weapon",
@@ -174,7 +177,8 @@
   "ACObsidian_Ach_39": {
     "description": "Equip new cosmetics in each of the Jackdaw's vanity slots",
     "displayName": "Dressing Overall",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785447244
   },
   "ACObsidian_Ach_4": {
     "description": "Fill all Art Collection and Equipment slots in the Great Inagua manor",
@@ -232,7 +236,8 @@
   "ACObsidian_Ach_49": {
     "description": "Swim a total of 1000m underwater, excluding underwater shipwrecks",
     "displayName": "Ed the Diver",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785419109
   },
   "ACObsidian_Ach_5": {
     "description": "Restore all buildings in the Great Inagua village",
@@ -260,6 +265,7 @@
   "ACObsidian_Ach_9": {
     "description": "Unlock a smuggler's chest",
     "displayName": "Among Thieves",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785418577
   }
 }
