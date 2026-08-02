@@ -1,6 +1,6 @@
 {
-  "last_updated": 1785643782,
-  "total_games": 46,
+  "last_updated": 1785688365,
+  "total_games": 47,
   "games": [
     {
       "appid": "1913120",
@@ -11357,6 +11357,749 @@
           "earned_time": 0
         },
         "arh-MSDataDestroyAllRock": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "2161700",
+      "info": {
+        "appid": "2161700",
+        "name": "Persona 3 Reload",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+        "achievements": {
+          "ACH_ORPHEUS_GET": {
+            "name": "Awakened Power",
+            "description": "Obtained Orpheus.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/72dcd4e4707d8feb2fe31ebabeec7cf177dc1c8e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "88.5"
+          },
+          "ACH_SEES_JOIN": {
+            "name": "SEES the Day",
+            "description": "Joined the Specialized Extracurricular Execution Squad.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/307214c3efebe26460daca12c4cb02655289a726.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "85.6"
+          },
+          "ACH_DEFEAT_PRIESTESS": {
+            "name": "Back on Track",
+            "description": "Defeated the Priestess.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/0d3f8fb216d4a2db2a33f6cae43fbecbc1cc2e32.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "68.2"
+          },
+          "ACH_DEFEAT_EMP_EMP": {
+            "name": "Empowered Protector",
+            "description": "Defeated the Empress and Emperor.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/d6d3355c5d8c54d1e63a7451c2251b3387725a0f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "59.7"
+          },
+          "ACH_DEFEAT_HIE_LOV": {
+            "name": "Never Toy with Matters of the Heart",
+            "description": "Defeated the Hierophant and the Lovers.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/d8613caadc740915321b59b5dc3568bdc4e4e975.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "53.5"
+          },
+          "ACH_DEFEAT_CHA_JUS": {
+            "name": "Armor Disarmed",
+            "description": "Defeated the Chariot and Justice.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/7e5fd859d6d84222d6b44d333c7141a45822dc18.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "49.6"
+          },
+          "ACH_DEFEAT_HERMIT": {
+            "name": "Dodging Lightning",
+            "description": "Defeated the Hermit.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/cf213da3090699c7cc9d10f150813d73862e7984.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "45.5"
+          },
+          "ACH_DEFEAT_FOR_STR": {
+            "name": "Twist of Fate",
+            "description": "Defeated Fortune and Strength.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/f0c23039e31ecb669cb20a0503fe663463d5a50e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "42.2"
+          },
+          "ACH_DEFEAT_HANGEDMAN": {
+            "name": "A Sense of Finality",
+            "description": "Defeated the Hanged Man.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/14116fc193364e821577372f10cadb320f2dff40.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "39.5"
+          },
+          "ACH_DEFEAT_NUXE": {
+            "name": "The Great Seal",
+            "description": "Sealed Nyx.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/39f90bc7ea42a2e2c01572e97356a9e9dde8616a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "32.4"
+          },
+          "ACH_TRUE_END": {
+            "name": "From Shadows into Light",
+            "description": "Watched the good ending.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/0d58f8647e10b903f991df94ba13474dd20e00ee.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "31.8"
+          },
+          "ACH_SFL_M_ARCANA_GET_10": {
+            "name": "The Fool's Journey",
+            "description": "Obtained 10 Major Arcana during Shuffle Time.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/93c248c226f427043b4f61a2876917bf6f638434.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "58.1"
+          },
+          "ACH_INV_ELIZABETH": {
+            "name": "Distinguished Visitor",
+            "description": "Invited Elizabeth to your room.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/eec895da4598ca4112a53ebcc662720154eb1a92.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "27.4"
+          },
+          "ACH_GET_EXAM_TOP": {
+            "name": "Top of the Class",
+            "description": "Aced an exam.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/651312569cc478cc05e5ad2c3dab93ffe04e9670.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "50.3"
+          },
+          "ACH_ALL_COMMU_MAX": {
+            "name": "A Legacy of Friendships",
+            "description": "Maxed out all Social Links.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/e13241f5d81d1c58f11e58a934da02e7afe9c1c7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.8"
+          },
+          "ACH_ALL_COMMU_OPEN": {
+            "name": "People Person",
+            "description": "Unlocked all Social Links.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/7ef1f9ef4e48b8c15b9dd83c7b5b7013a19d56ba.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "27.1"
+          },
+          "ACH_MAKE_LOVERS": {
+            "name": "That Special Someone",
+            "description": "Nurtured a romance.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/8f389a34429e46fa8610e80490befefa3a361573.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "41.5"
+          },
+          "ACH_ONE_COMMU_MAX": {
+            "name": "Unbreakable Link",
+            "description": "Maxed out one Social Link.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/a779b2dd91bd5f20fe20877381511f901a414c00.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "50.8"
+          },
+          "ACH_ALL_PERSONA_EVO": {
+            "name": "A Newfound Strength",
+            "description": "Awakened all teammates' ultimate Personas.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/266b23707fa588742cab527fd146d48630a3548f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "35.6"
+          },
+          "ACH_SFL_PERSONA_GET_10": {
+            "name": "The Power of Choice",
+            "description": "Obtained 10 Personas during Shuffle Time.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/64fa46f3f5f22ec1a9286cd9c5bda91b89759f8b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "64.0"
+          },
+          "ACH_SHIFT": {
+            "name": "There's No \"I\" in \"Team\"",
+            "description": "Performed a Shift.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/d449b1bd7151fa69e3d34e9b42bd3142a8cbb8a4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "76.8"
+          },
+          "ACH_ALL_THEURGIA_USE": {
+            "name": "The Strength of Our Hearts",
+            "description": "Used all teammates' Theurgy.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/0e663e02f247d96c7831a475cb94207c915edef7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "28.0"
+          },
+          "ACH_FIND_MISSING_PERSON": {
+            "name": "Extracurricular Excellence",
+            "description": "Rescued a missing person.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/7d664bfdec4a112ad18a5d5034918e58eabdff48.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "55.5"
+          },
+          "ACH_DAMAGE_999": {
+            "name": "Get a Load of Those Numbers!",
+            "description": "Dealt over 999 damage in a single attack (All-Out Attacks excluded).(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/f632d1d90c0fa88f1bae1de1cc0361ad1b8eb9f7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.6"
+          },
+          "ACH_CHANCE_ENC_50": {
+            "name": "Shrouded Assassin",
+            "description": "Initiated 50 Chance Encounters.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/f6c209a43bd4c0a9b31a553e4edd885ac856402a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "60.5"
+          },
+          "ACH_DEFEAT_RARE_SHADOW": {
+            "name": "The Thrill of the Hunt",
+            "description": "Defeated a rare, golden enemy.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/5e5635ae04602803fad7b1f8c195a67a17c82084.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "74.5"
+          },
+          "ACH_BOKOSUKA_50": {
+            "name": "Making the Dream Work",
+            "description": "Performed 50 All-Out Attacks.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/53e6c89ecef18f0f7e707f51e6471b0eebcf4266.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "62.4"
+          },
+          "ACH_FORB_DOOR_OPEN_10": {
+            "name": "Glimpse of the Depths",
+            "description": "Discovered and conquered 10 Monad doors.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/d72ecd4ac7caf3c13292345dd8358b8b29cee243.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "41.4"
+          },
+          "ACH_TREASURE_BOX_50": {
+            "name": "Briefcase Burglar",
+            "description": "Opened 50 treasure chests.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/35de0c8a2dd70cfd8642f86eaaf492515ae13b70.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "66.5"
+          },
+          "ACH_USE_RAREMEDAL_50": {
+            "name": "Shattered Plumes",
+            "description": "Used a total of 50 Twilight Fragments.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/341fd7756c79958d140be96f485a69ad3134272c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "54.0"
+          },
+          "ACH_ENC_HAPPENING": {
+            "name": "The Horror of the Shade",
+            "description": "Encountered a Dark Zone in Tartarus.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/917b7ce1ba571df9bd1df739f143dc59399f58f2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "41.3"
+          },
+          "ACH_ENC_DEATH": {
+            "name": "Reaper Reaped",
+            "description": "Defeated the Reaper.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/f8b5f66d0dc5c3dfcbe2e2c14044a82bd31b0001.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "27.1"
+          },
+          "ACH_EXE_2_SPREAD": {
+            "name": "The First of Many",
+            "description": "Performed a Dyad Fusion.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/6e7494b675cda9e4e49c4f69b6db861215297875.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "74.3"
+          },
+          "ACH_EXE_3_SPREAD": {
+            "name": "Fusion Artisan",
+            "description": "Performed a fusion with three or more Personas.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/4c95b21722d1de5b705589d939be9f7451d7173e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "54.0"
+          },
+          "ACH_GET_CONCEPTION_ITEM": {
+            "name": "Birthday Present",
+            "description": "Obtained an item from a Persona Conception.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/ef63895dfa475a3963084f56ef800536ba252797.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "59.6"
+          },
+          "ACH_MAKE_MESSIAH": {
+            "name": "Path to Salvation",
+            "description": "Fused Messiah.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/3575a9f250c867eebc28bbdab3df4eef4f0c991d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "18.3"
+          },
+          "ACH_SKILL_CHANGE": {
+            "name": "Tempting Fate",
+            "description": "Triggered a skill change during fusion.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/a5d711b734350b9454100e5a98b99d7e8f2e43b8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "58.0"
+          },
+          "ACH_HARVEST": {
+            "name": "Eat Your Veggies, Peas!",
+            "description": "Harvested a crop that you grew with a teammate.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/23a75440bb50db6fc087e447db1fd02810916772.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.6"
+          },
+          "ACH_GET_ARBEIT_50000": {
+            "name": "The Grindset Mindset",
+            "description": "Earned over 50,000 yen total from part-time jobs.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/73ad8f86e6847d8874e7aa9622108132cd71a2af.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "30.2"
+          },
+          "ACH_H_PARAM_ONE_MAX": {
+            "name": "Specialist",
+            "description": "Maxed out one Social Stat.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/9123883bed538d61e2e7f6bf6fbda9fb66408a0d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.3"
+          },
+          "ACH_H_PARAM_ALL_MAX": {
+            "name": "Peak Performance",
+            "description": "Maxed out all Social Stats.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/3a12a681be0c024a4a91cf2a5de9108f72279a89.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "40.7"
+          },
+          "ACH_PAST_NIGHT_TIME": {
+            "name": "Dorm Life",
+            "description": "Spent an evening in the dorm with a teammate.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/8b40cd9cbfc265b548bd8bc372d0885c0daac48f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "57.1"
+          },
+          "ACH_HIDDEN_MENU_EMP": {
+            "name": "Gourmand",
+            "description": "Ordered from a secret menu at the Iwatodai strip mall at night.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/75c750c94c51d8ba4a10472cc4b7a22221bf3d41.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.5"
+          },
+          "ACH_CURE_CAT": {
+            "name": "Benevolent Purr-tector",
+            "description": "Nursed a cat back to full health.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/4f79cf8baba93d056928ef91f448f49f20f0cfa9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.5"
+          },
+          "ACH_MAIL_INVITATION_5": {
+            "name": "In High Demand",
+            "description": "Accepted an invitation to hang out five times.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/ea8f554646de2e4fc0048180e590796f62f8707d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.5"
+          },
+          "ACH_CHALLENGE_MONADO": {
+            "name": "Beyond the Darkness",
+            "description": "Unlocked access to the remaining Major Arcana.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/0e6f407133cc515e57f87beb86bd249f88c1465e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.1"
+          },
+          "ACH_PROPERTY_GET_ONE": {
+            "name": "Through Thick and Thin",
+            "description": "Unlocked a teammate's Combat Characteristic.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/2d5c8c7dc398608fb1f1fa04f72d5604883ff56d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "50.7"
+          },
+          "ACH_GET_RAREMEDAL_ALL": {
+            "name": "Eagle Eye",
+            "description": "Acquired every Twilight Fragment in town.(Persona 3 Reload main story mode only)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/a856968e661820563bebd0c6208ff1aa3fd07055.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "15.6"
+          },
+          "ACH_PRGS_WILD": {
+            "name": "Realized Power",
+            "description": "Awakened to the power of the wild card.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/e0adf6967450bb2ec8da680f4cc921aac187589c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.7"
+          },
+          "ACH_PRGS_COCYTUS": {
+            "name": "The Vengeful One",
+            "description": "Witnessed Amada's past.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/f41856c7ac69f7985875630a6d5c1d3a48fc67e0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "9.4"
+          },
+          "ACH_PRGS_CAINA": {
+            "name": "The Determined One",
+            "description": "Witnessed Sanada's past.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/06e5ae9df4f211f231947e9d985f72da4e996177.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "8.5"
+          },
+          "ACH_PRGS_ANTENORA": {
+            "name": "The Disillusioned One",
+            "description": "Witnessed Junpei's past.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/38f5bb95508fac4dd0a5490b3fd2fcf405d875c6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "8.1"
+          },
+          "ACH_PRGS_PTOLOMEA": {
+            "name": "The Selfless One",
+            "description": "Witnessed Mitsuru's past.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/2c7d0038536f11f16c78e674bf92d358bf410c00.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.8"
+          },
+          "ACH_PRGS_JUDECCA": {
+            "name": "The Steadfast One",
+            "description": "Witnessed Yukari's past.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/5a0be4e98706d45859f3d4c406390de254fb47a2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.6"
+          },
+          "ACH_PRGS_EMPIREO": {
+            "name": "The One Who Dreamt",
+            "description": "Witnessed Aigis's past.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/7b80e9a905f918a252c4b8348f55eaad0e62897d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.5"
+          },
+          "ACH_PRGS_ENDING": {
+            "name": "Together, Into Tomorrow",
+            "description": "Watched the ending.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/5af674b5ebcadbb2382f22bee371ee54758689f4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.3"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ACH_ALL_COMMU_MAX": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ALL_COMMU_OPEN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ALL_PERSONA_EVO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ALL_THEURGIA_USE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_BOKOSUKA_50": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHALLENGE_MONADO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHANCE_ENC_50": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CURE_CAT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DAMAGE_999": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_CHA_JUS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_EMP_EMP": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_FOR_STR": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_HANGEDMAN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_HERMIT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_HIE_LOV": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_NUXE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_PRIESTESS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_RARE_SHADOW": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ENC_DEATH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ENC_HAPPENING": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_EXE_2_SPREAD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_EXE_3_SPREAD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_FIND_MISSING_PERSON": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_FORB_DOOR_OPEN_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_GET_ARBEIT_50000": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_GET_CONCEPTION_ITEM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_GET_EXAM_TOP": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_GET_RAREMEDAL_ALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_HARVEST": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_HIDDEN_MENU_EMP": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_H_PARAM_ALL_MAX": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_H_PARAM_ONE_MAX": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_INV_ELIZABETH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MAIL_INVITATION_5": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MAKE_LOVERS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MAKE_MESSIAH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ONE_COMMU_MAX": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ORPHEUS_GET": {
+          "earned": true,
+          "earned_time": 1785605532
+        },
+        "ACH_PAST_NIGHT_TIME": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_ANTENORA": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_CAINA": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_COCYTUS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_EMPIREO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_ENDING": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_JUDECCA": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_PTOLOMEA": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PRGS_WILD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PROPERTY_GET_ONE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SEES_JOIN": {
+          "earned": true,
+          "earned_time": 1785610898
+        },
+        "ACH_SFL_M_ARCANA_GET_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SFL_PERSONA_GET_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SHIFT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SKILL_CHANGE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_TREASURE_BOX_50": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_TRUE_END": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_USE_RAREMEDAL_50": {
           "earned": false,
           "earned_time": 0
         }
@@ -23911,7 +24654,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/d5fbf80334ee902ff3b5acbb4a64a3bc7f2d86dc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "9.0"
+            "percent": "9.2"
           },
           "ACObsidian_Ach_2": {
             "name": "King of the Castle",
@@ -23920,7 +24663,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5acb28e2b2c0438eae87163a766c5752771f5698.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.5"
+            "percent": "18.8"
           },
           "ACObsidian_Ach_3": {
             "name": "The Memory of My Enemy",
@@ -23929,7 +24672,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5770e9b95b2c6431515dd0819b035067a3e9b904.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.0"
+            "percent": "4.1"
           },
           "ACObsidian_Ach_4": {
             "name": "Dilettante",
@@ -23947,7 +24690,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f0d8f9ee63a809e7fbc907a61c014bd4f700d4ce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.1"
+            "percent": "41.4"
           },
           "ACObsidian_Ach_6": {
             "name": "Zero Waste",
@@ -23956,7 +24699,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/fe99c02f10980bdc06856b2aefdc8ed54436430a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.5"
+            "percent": "12.7"
           },
           "ACObsidian_Ach_7": {
             "name": "Grandmaster",
@@ -23965,7 +24708,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/64c21a53aa10a7ea588a856d56c93886aa201135.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.6"
+            "percent": "4.7"
           },
           "ACObsidian_Ach_8": {
             "name": "Articles Of Agreement",
@@ -23974,7 +24717,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/915897abd5156e66ad0336dc18614c77430d8178.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "61.7"
+            "percent": "62.0"
           },
           "ACObsidian_Ach_9": {
             "name": "Among Thieves",
@@ -23983,7 +24726,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5aa1269cea8161a5b9d3f3e9aebc5e1a16f83fe3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "43.3"
+            "percent": "43.6"
           },
           "ACObsidian_Ach_10": {
             "name": "Help A Brother Out",
@@ -23992,7 +24735,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/55eaee6e0c445d97dd912c8bef42d860d7bd46dc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.2"
+            "percent": "54.5"
           },
           "ACObsidian_Ach_11": {
             "name": "Seven Deadly Seas",
@@ -24001,7 +24744,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/2e35632d0214c0ab3c34438abac756743a1d85c5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.6"
+            "percent": "12.8"
           },
           "ACObsidian_Ach_12": {
             "name": "Silence, Fool!",
@@ -24010,7 +24753,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c8be76b42ae07c512654afa353f8c86d7e6baf87.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.9"
+            "percent": "39.2"
           },
           "ACObsidian_Ach_13": {
             "name": "Matador",
@@ -24019,7 +24762,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/85690919634fe95df0e8e14dd1ac6bbb489de0a6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.8"
+            "percent": "10.9"
           },
           "ACObsidian_Ach_14": {
             "name": "Perfect Predator",
@@ -24028,7 +24771,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/53166c02a960e27cc25f92cd1b225afb1a03992d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.1"
+            "percent": "18.3"
           },
           "ACObsidian_Ach_15": {
             "name": "Double Tap",
@@ -24046,7 +24789,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/14b5b6324fd23f22ab7649e8503df36972615802.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "63.7"
+            "percent": "63.9"
           },
           "ACObsidian_Ach_17": {
             "name": "The Hangman",
@@ -24055,7 +24798,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/b2832be5101066445b5ce7090373b2189a1e09ca.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.3"
+            "percent": "13.6"
           },
           "ACObsidian_Ach_18": {
             "name": "Caught 'Em All",
@@ -24064,7 +24807,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/7520d2aa602f5a7b0057b1ff96f46206113bd25e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "35.9"
+            "percent": "36.1"
           },
           "ACObsidian_Ach_19": {
             "name": "Gun-kata",
@@ -24073,7 +24816,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f35c563cd6efdfc1d6ac46362c101a803ce82bec.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "35.3"
+            "percent": "35.6"
           },
           "ACObsidian_Ach_20": {
             "name": "Backs To The Wall",
@@ -24082,7 +24825,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f8542e4e0daea6b51c95f5d6871cb2e6cdfd83cf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "84.2"
+            "percent": "84.3"
           },
           "ACObsidian_Ach_21": {
             "name": "Let Me Explain",
@@ -24091,7 +24834,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/35d46a912b30787e4ac43f1c1be7778185785fcf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.2"
+            "percent": "17.4"
           },
           "ACObsidian_Ach_22": {
             "name": "Overdesign IV",
@@ -24109,7 +24852,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/b3e0bbae86417a6d6bdd895e26bde2195c8c73ce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "94.1"
+            "percent": "94.2"
           },
           "ACObsidian_Ach_24": {
             "name": "A Poxy Bird",
@@ -24118,7 +24861,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/dc1c5c04e0c64a05f2b93827279d8038171e2c5e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "85.0"
+            "percent": "85.2"
           },
           "ACObsidian_Ach_25": {
             "name": "Walls That Hold Back The Wind",
@@ -24127,7 +24870,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f524c9c3c873d2e9e64f431428db422d045b1a5e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "69.7"
+            "percent": "69.9"
           },
           "ACObsidian_Ach_26": {
             "name": "In A World Without Gold",
@@ -24136,7 +24879,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/1a6ecac1b18e86d6fbc31ba2cbe30dfa7bac0702.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "29.9"
+            "percent": "30.4"
           },
           "ACObsidian_Ach_27": {
             "name": "Ever A Splinter",
@@ -24145,7 +24888,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c36d4ef2919691c60b5a02bdd998007c402260e4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.7"
+            "percent": "16.2"
           },
           "ACObsidian_Ach_28": {
             "name": "All Hands On Deck",
@@ -24154,7 +24897,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/8d4a030e47a5698a623dfe6be5f43f4e43b83b18.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.1"
+            "percent": "16.6"
           },
           "ACObsidian_Ach_29": {
             "name": "Hungover ",
@@ -24163,7 +24906,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/3ff92e23716294795aeb8bb29a6cae1c65a4ceed.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "24.1"
+            "percent": "24.3"
           },
           "ACObsidian_Ach_30": {
             "name": "Collective Madness",
@@ -24172,7 +24915,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/1c55e7de491f33a37ebb5c5aa0141a5c3787e235.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.6"
+            "percent": "32.9"
           },
           "ACObsidian_Ach_31": {
             "name": "Strike The Colors",
@@ -24181,7 +24924,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/2d344113f47cb696e599214a39f6c9eecdd6c438.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.8"
+            "percent": "55.1"
           },
           "ACObsidian_Ach_32": {
             "name": "Unsinkable",
@@ -24190,7 +24933,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f62151b68b13078d3899f1cce910dcbcaeefb440.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.6"
+            "percent": "13.7"
           },
           "ACObsidian_Ach_33": {
             "name": "Yo Ho…",
@@ -24208,7 +24951,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/acd6ab3b729c25d98c562d1d2ab6c27a95e80cd4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.2"
+            "percent": "33.6"
           },
           "ACObsidian_Ach_35": {
             "name": "Hunter Hunted",
@@ -24217,7 +24960,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/9fde140a80da8dfc1257e8a5b697493044e5f906.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.6"
+            "percent": "16.9"
           },
           "ACObsidian_Ach_36": {
             "name": "Devil of the Caribbean",
@@ -24226,7 +24969,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/94c4347bc9f04935d72502e87a64cb7636019375.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.5"
+            "percent": "7.7"
           },
           "ACObsidian_Ach_37": {
             "name": "Old Ironsides",
@@ -24235,7 +24978,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/905f0d6b185fbfc37f68276af847219fa21dfeb6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "50.6"
+            "percent": "50.9"
           },
           "ACObsidian_Ach_38": {
             "name": "Not So Little Friend",
@@ -24244,7 +24987,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/24ec5d51e3322a06d7bf6f33d06fe0a420975a3c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "73.8"
+            "percent": "73.9"
           },
           "ACObsidian_Ach_39": {
             "name": "Dressing Overall",
@@ -24253,7 +24996,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c8b2934dda6130ed765564cd832dceaa0fd96ede.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.6"
+            "percent": "41.9"
           },
           "ACObsidian_Ach_40": {
             "name": "Smooth Operator",
@@ -24262,7 +25005,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/891e25c057caa0b37ab86b0dc86a128eb732e93a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "84.1"
+            "percent": "84.2"
           },
           "ACObsidian_Ach_41": {
             "name": "Business And Pleasure",
@@ -24271,7 +25014,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/101888faefa098d8f35102a3bf760ddb0b7c54f2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "57.8"
+            "percent": "58.1"
           },
           "ACObsidian_Ach_42": {
             "name": "Ship This",
@@ -24280,7 +25023,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f1e8f737ce42bc6fd57ce4ca0ec307b9b1a2aa38.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.0"
+            "percent": "11.2"
           },
           "ACObsidian_Ach_43": {
             "name": "Glutton for Nourishment",
@@ -24289,7 +25032,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5f86877f184c8b18bc8a041c1590767d5da4df72.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "46.5"
+            "percent": "46.8"
           },
           "ACObsidian_Ach_44": {
             "name": "Friend To All",
@@ -24298,7 +25041,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/e9109813a7a74a3f77ee3e07e7d528a442499410.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.9"
+            "percent": "5.0"
           },
           "ACObsidian_Ach_45": {
             "name": "Blow The Man Down",
@@ -24307,7 +25050,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/0f451e6ddcd63795df6e5b33e2fa37b40dfe3864.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.8"
+            "percent": "3.9"
           },
           "ACObsidian_Ach_46": {
             "name": "Davy Jones' Locker",
@@ -24316,7 +25059,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/9d90813e4af1bed8cd9de12aba9e2c1ec482e3cf.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "5.0"
+            "percent": "5.1"
           },
           "ACObsidian_Ach_47": {
             "name": "Cartographer",
@@ -24325,7 +25068,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/32221a08c7e807511c6deaec89cf66b365cb49b1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.9"
+            "percent": "9.1"
           },
           "ACObsidian_Ach_48": {
             "name": "Edward Catway",
@@ -24334,7 +25077,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/3c59fcc82946f4be852acf32d8ef6e37590fbd2b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.2"
+            "percent": "4.3"
           },
           "ACObsidian_Ach_49": {
             "name": "Ed the Diver",
@@ -24343,7 +25086,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c526ab32882f39937aa16d237723cca7bcd091db.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "37.7"
+            "percent": "38.0"
           }
         },
         "platform": null,
@@ -24457,7 +25200,8 @@
         "ACObsidian_Ach_27": {
           "description": "Stop a Templar plot (complete Sequence 12, Memory 5)",
           "displayName": "Ever A Splinter",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1785592752
         },
         "ACObsidian_Ach_28": {
           "description": "Recruit all Officers",
@@ -24483,7 +25227,8 @@
         "ACObsidian_Ach_31": {
           "description": "Board a Lead Convoy ship",
           "displayName": "Strike The Colors",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1785348782
         },
         "ACObsidian_Ach_32": {
           "description": "Survive a rogue wave taken from the side",
@@ -24515,7 +25260,8 @@
         "ACObsidian_Ach_37": {
           "description": "Perform 3 perfect braces",
           "displayName": "Old Ironsides",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1785415121
         },
         "ACObsidian_Ach_38": {
           "description": "Unlock the secondary firing mode on a Jackdaw weapon",
@@ -24526,7 +25272,8 @@
         "ACObsidian_Ach_39": {
           "description": "Equip new cosmetics in each of the Jackdaw's vanity slots",
           "displayName": "Dressing Overall",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1785447244
         },
         "ACObsidian_Ach_4": {
           "description": "Fill all Art Collection and Equipment slots in the Great Inagua manor",
@@ -24584,7 +25331,8 @@
         "ACObsidian_Ach_49": {
           "description": "Swim a total of 1000m underwater, excluding underwater shipwrecks",
           "displayName": "Ed the Diver",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1785419109
         },
         "ACObsidian_Ach_5": {
           "description": "Restore all buildings in the Great Inagua village",
@@ -24612,7 +25360,8 @@
         "ACObsidian_Ach_9": {
           "description": "Unlock a smuggler's chest",
           "displayName": "Among Thieves",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1785418577
         }
       }
     },
