@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "ACH_CHA_F1_BIGSPENDER": {
       "name": "Big Spender",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "ACH_CHA_F1_CRAPS": {
       "name": "Lucky 7",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.2"
     },
     "ACH_CHA_F1_LUCKYSTREAK": {
       "name": "Lucky Streak",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "ACH_CHA_F3_LUCKYSTREAK3": {
       "name": "Lucky Streak 3",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "ACH_CHA_F4_MINESWEEPER": {
       "name": "No Detonations",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ACH_MONEY_1B": {
       "name": "FASTER",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "ACH_MISC_NOTOGAMBLE": {
       "name": "Not Feeling It",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.8"
     },
     "ACH_MISC_YESTOGAMBLEWIN": {
       "name": "The Gambler's Blessing",

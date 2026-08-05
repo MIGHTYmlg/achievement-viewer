@@ -1,7 +1,7 @@
 {
   "appid": "2217000",
   "name": "Rivals of Aether II",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/3d8742ad5d7dd77235f75dba0a3814b0689d4df3/header.jpg?t=1780336617",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/2b910bb921e54b7d84473618e3247d759de37541/header.jpg?t=1785861845",
   "achievements": {
     "Lvl_Zet": {
       "name": "The Fire's Roar",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d7d7681dd7d5f2d191e5645bbe29068af102e223.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "KO_Ran": {
       "name": "The Poisonous Storm",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a2ad0c31196d69551109888fae4da6072233b738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "Skill_Wra": {
       "name": "The Towering Tornado",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/538bfedeeebfa89f42c49259e16fcb3ebec018cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "Skill_Eta": {
       "name": "Ice is Right!",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2fdb4eed8e4f023fee342d9216a3e6b55871074e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "Skill_Abs": {
       "name": "Stuck and Struck",
@@ -641,6 +641,38 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.9"
+    },
+    "Lvl_Gou": {
+      "name": "The Lost Mireling",
+      "description": "Reach character level 20 as Gouie",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c6b484d564e2ba94ef0f45a91caa773b9d51cf6d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d957d9d1b7f364214f4ae9817630d3009fc80dcb.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "Arc_Gou": {
+      "name": "Path of Deliverance",
+      "description": "Complete arcade on hard difficulty as Gouie",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5d3952e95ac010962dff1febaf8af86b7fed6215.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3342ea8704a8e77cdff2136f244309b80d04004d.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "KO_Gou": {
+      "name": "Alley Goop",
+      "description": "KO an opponent while they are grabbed by the Mire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/93cab0a2d7b98a60cf3c47233404cbfea7ab2be8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/02cf537f93532997aad7f6a3583aed12bf4d3de3.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "Skill_Gou": {
+      "name": "Slime Time",
+      "description": "Hit an opponent with 5 aerials before landing or grabbing the ledge",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/4c622f9a445dde577b42121fa7f2b2d8c2c639f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/73cfacc5a004b761a1ac7bbb2a042abbe1c291af.jpg",
+      "hidden": false,
+      "group": "Base Game"
     }
   },
   "platform": null,
