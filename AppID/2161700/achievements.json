@@ -64,12 +64,12 @@
     "earned_time": 0
   },
   "ACH_DEFEAT_PRIESTESS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785855416
   },
   "ACH_DEFEAT_RARE_SHADOW": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785847416
   },
   "ACH_ENC_DEATH": {
     "earned": false,
@@ -80,8 +80,8 @@
     "earned_time": 0
   },
   "ACH_EXE_2_SPREAD": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785839838
   },
   "ACH_EXE_3_SPREAD": {
     "earned": false,
@@ -204,8 +204,8 @@
     "earned_time": 0
   },
   "ACH_SHIFT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1785838743
   },
   "ACH_SKILL_CHANGE": {
     "earned": false,
