@@ -1,7 +1,7 @@
 {
   "appid": "3024040",
   "name": "Stronghold Crusader: Definitive Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/header.jpg?t=1785855979",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/a3d892e9ad07c4721b5fabb93cd97c214fe4f292/header_alt_assets_3.jpg?t=1785920681",
   "achievements": {
     "ACHIEVEMENT_Tut_Complete": {
       "name": "Top of the Class",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/2f173fd5971a0eb25f6726c71272336e81ae5fbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "ACHIEVEMENT_Kill_100k_Units": {
       "name": "Bully",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/75cc4ba0f64a5b58f633a2a0932da1e68d45ee20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "ACHIEVEMENT_Kill_1000_Lions": {
       "name": "Banned from the Circus",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/95a49d2b2ef238f29212738d3f81da3ad5f90306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACHIEVEMENT_Campaign_5": {
       "name": "No Sleep 'til Ascalon",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/f237d7558299125efb02f35ccec89b13b038650d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACHIEVEMENT_Campaign_6": {
       "name": "A King's Ransom",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/5b0602d04d2d16388ece8a085f52c1b794f80757.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "ACHIEVEMENT_Sands_Trail_1": {
       "name": "Sheep Farmer",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/71523d12e20d03055b77cf6b67a44f62e012b0e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "ACHIEVEMENT_Sands_Trail_3": {
       "name": "Falconer",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/a11f40808199e58e30dbb456f0542dbd099a32b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "ACHIEVEMENT_Win_Skirmish_Game": {
       "name": "Wow. Like I'm Really Impressed!?",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/673be2d6969bac6463ffd3bca6b393cec41a50a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_Team_of_7": {
       "name": "Genuinely Impressive",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/a6e57a9b4de1385f586faf1273745e0bf9ade265.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_New_Lords": {
       "name": "New Kids On The Block",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/dffb006abab9fff9ebd0ec60054f62f5873cf676.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACHIEVEMENT_Win_Skirmish_No_Ranged": {
       "name": "Up Close & Personal",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/b96d5f224e2c74b5f5a57e6a5e0d3d0c4cedfe3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "ACHIEVEMENT_Scribe_Unlock": {
       "name": "Subscribe to play as The Scribe",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/2f26f02da217aac35caba4a94d0e0ece3a826b8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "ACHIEVEMENT_Campaign_7": {
       "name": "Mick Dundee",
