@@ -16,8 +16,8 @@
     "earned_time": 0
   },
   "ACH_BOKOSUKA_50": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786013903
   },
   "ACH_CHALLENGE_MONADO": {
     "earned": false,
@@ -200,8 +200,8 @@
     "earned_time": 0
   },
   "ACH_SFL_PERSONA_GET_10": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786009516
   },
   "ACH_SHIFT": {
     "earned": true,
@@ -212,8 +212,8 @@
     "earned_time": 0
   },
   "ACH_TREASURE_BOX_50": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786009853
   },
   "ACH_TRUE_END": {
     "earned": false,
