@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/3b705df945a28d09863a5a29b624eb6f60bbb009.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "E1_S02_GRAFFITITOOLBOX": {
       "name": "Home Unimprovement",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/194c0d860f5662186564ea2d8869af64346c9656.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "E1_S04D_GRAFFITITEMPESTPOSTER": {
       "name": "Dramatis Personae",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/77a25be42224ab1f2af68326d7cce321ac0bcb32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.4"
     },
     "e3_s01b_mapgraffiti": {
       "name": "American Graffiti",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/cbaf493ccc1186fe5713ff765541891184b11ddc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "e3_s03_gobulegraffiti": {
       "name": "Spit Take",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/092616fbf82d12aba797bdeb241a707f2881f6f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "e3_s04_graffitinorthcast": {
       "name": "A Penned Appendage",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/fb6a73b51ed0525d757c5df7920730d9c25c5c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "E3_s05_graffiti": {
       "name": "Drunk Drawer",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1265930/0b5e431053d2ef1e171234756a803d581d827034.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.5"
     }
   },
   "platform": null,
