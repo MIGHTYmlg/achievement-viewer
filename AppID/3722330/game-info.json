@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/32a34650097381a6c0df6ad07ebb0b23f4cd2b13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.7"
+      "percent": "96.6"
     },
     "ACH_STILL_BREATHING": {
       "name": "Still Breathing",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/87926c32405d3e5d4f546a19a02bb497c5eff77c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "93.6"
+      "percent": "93.5"
     },
     "ACH_SILENCED": {
       "name": "Silenced",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/ca88a3c26ff0ed3230a6d91a3526f0dd28e1b6c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "ACH_RELENTLESS": {
       "name": "Relentless",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/7c7c096294ae10535f05b79252a1b1b6fc8d734a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.4"
     },
     "ACH_EMPTY_HOME": {
       "name": "Empty Home",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/0a67371df6da36b1ffdea01e19cf1de144343436.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "ACH_TRUE_ENDING": {
       "name": "True Ending",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/0710f9ca608a56d0e2104f3c024e3d6a2339050d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     }
   },
   "platform": null,
