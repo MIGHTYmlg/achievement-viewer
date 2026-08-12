@@ -1,7 +1,7 @@
 {
   "appid": "1641960",
   "name": "Forever Skies",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/cc56d2d6fd373940032bba383464ffa626b00717/header_alt_assets_9.jpg?t=1786392628",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/cc56d2d6fd373940032bba383464ffa626b00717/header_alt_assets_9.jpg?t=1786450849",
   "achievements": {
     "ACH_FirstFlight": {
       "name": "And we're Off!",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/f1c174dfb2a2237bedf4d8ae5f5f0414d7c7cb49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "ACH_CollapseRuin": {
       "name": "Timbeeeer",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/264c1931744f50381adeb664a28917a477b4cf60.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.3"
     },
     "ACH_ChainReaction": {
       "name": "Chain Reaction",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/ddd8ef01758cb59a63b01b71ffe6c8124106b3c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "ACH_BeatDisease": {
       "name": "Performing self-surgery!",

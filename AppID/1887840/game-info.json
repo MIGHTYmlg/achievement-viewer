@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/eaf48af2ab217d9cf06be56a85b707a42e9c6b00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "BossDefeated_Pagurus": {
       "name": "The Ravenous",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/3456b3a0876faa5854bdea785ec77c5cfcdf832e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "BossDefeated_Inkerton": {
       "name": "Crab Hunter",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/f3615da38c0246566cd2209864378d637d77a24e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "SkillTreeCompleted_Hermit": {
       "name": "Path of the Hermit",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/1c3028d124c481352ad6284c7ef77ecfc0336954.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "BossDefeated_RollerBrusier": {
       "name": "Scuttling Sludge Steamroller",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/42cf6db0352ab9b625e8279266126578f85187cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "BossDefeated_TwinPistols": {
       "name": "Ceviche Sisters",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/5a69a674d4ac30a5f10512e5b5fd9e1cb2e2acab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "CollectLimit_Adaptations": {
       "name": "Well Adapted",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/02d4b5253aa636849ffe3bee58cd3beedd0e8627.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "YOTC_CraftSigil": {
       "name": "I'm Moving Different",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/58975f6808a0fbd358c9e42129e842df49e201ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "YOTC_MaxStowaways": {
       "name": "Surpassing my Limits",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/dfb6396d05c6eac277bdac7f0a50504a5e0e5175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "YOTC_HiddenSnail": {
       "name": "I am Speed",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/280045137061428e80b7c43590ebbcf12cc44c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     }
   },
   "platform": null,
