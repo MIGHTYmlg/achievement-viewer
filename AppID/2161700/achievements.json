@@ -20,28 +20,28 @@
     "earned_time": 1786013903
   },
   "ACH_CHALLENGE_MONADO": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786468518
   },
   "ACH_CHANCE_ENC_50": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786206876
   },
   "ACH_CURE_CAT": {
     "earned": false,
     "earned_time": 0
   },
   "ACH_DAMAGE_999": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786219053
   },
   "ACH_DEFEAT_CHA_JUS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786479152
   },
   "ACH_DEFEAT_EMP_EMP": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786182133
   },
   "ACH_DEFEAT_FOR_STR": {
     "earned": false,
@@ -56,8 +56,8 @@
     "earned_time": 0
   },
   "ACH_DEFEAT_HIE_LOV": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786219335
   },
   "ACH_DEFEAT_NUXE": {
     "earned": false,
@@ -88,16 +88,16 @@
     "earned_time": 0
   },
   "ACH_FIND_MISSING_PERSON": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786205931
   },
   "ACH_FORB_DOOR_OPEN_10": {
     "earned": false,
     "earned_time": 0
   },
   "ACH_GET_ARBEIT_50000": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786454911
   },
   "ACH_GET_CONCEPTION_ITEM": {
     "earned": false,
@@ -112,8 +112,8 @@
     "earned_time": 0
   },
   "ACH_HARVEST": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786468983
   },
   "ACH_HIDDEN_MENU_EMP": {
     "earned": false,
@@ -132,8 +132,8 @@
     "earned_time": 0
   },
   "ACH_MAIL_INVITATION_5": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786177505
   },
   "ACH_MAKE_LOVERS": {
     "earned": false,
@@ -144,16 +144,16 @@
     "earned_time": 0
   },
   "ACH_ONE_COMMU_MAX": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786210056
   },
   "ACH_ORPHEUS_GET": {
     "earned": true,
     "earned_time": 1785605532
   },
   "ACH_PAST_NIGHT_TIME": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786197012
   },
   "ACH_PRGS_ANTENORA": {
     "earned": false,
@@ -188,16 +188,16 @@
     "earned_time": 0
   },
   "ACH_PROPERTY_GET_ONE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786465048
   },
   "ACH_SEES_JOIN": {
     "earned": true,
     "earned_time": 1785610898
   },
   "ACH_SFL_M_ARCANA_GET_10": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786453431
   },
   "ACH_SFL_PERSONA_GET_10": {
     "earned": true,
@@ -220,7 +220,7 @@
     "earned_time": 0
   },
   "ACH_USE_RAREMEDAL_50": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786208381
   }
 }
