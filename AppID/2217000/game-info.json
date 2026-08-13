@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/666f8694d0de1b48918328a98f22967b84f35034.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "Arc_Cla": {
       "name": "Path Of Vengence",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a1a2b1c7e6c259c0e0072b92b0c507c791d2b599.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "KO_May": {
       "name": "The Vicious Vine",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a39630f37d3498d97b8b22d17c38729ad4b07c76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "Lvl_Eta": {
       "name": "The Glacier's Might",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/8cd16d637628177d0c16833fa448f57860540f3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.7"
     },
     "Arc_Abs": {
       "name": "Path of Inception",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/64b3ec0fa5dd1a4f6c24cc1dbb8bd2fd6d5bedef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "Skill_Gal": {
       "name": "The Drills Are Alive",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ddba863224126ee40588fd2083a0a75bb210caf6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.7"
     },
     "Lvl_Lar": {
       "name": "The Crowd Magnet",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7137516280ab880ea3babbbee264687881f8bb6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "Skill_Sla": {
       "name": "Bootyful",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d957d9d1b7f364214f4ae9817630d3009fc80dcb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "Arc_Gou": {
       "name": "Path of Deliverance",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/02cf537f93532997aad7f6a3583aed12bf4d3de3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "Skill_Gou": {
       "name": "Slime Time",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/73cfacc5a004b761a1ac7bbb2a042abbe1c291af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.6"
     }
   },
   "platform": null,
