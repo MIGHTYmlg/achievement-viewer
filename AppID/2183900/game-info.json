@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/eecd8bfd24ba4a8feb78c81ecc1b13e8125dd131.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "STORY_ASSASSINATION": {
       "name": "Chaos All Along",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/28e7b8ca1eaaadb624ba6dcb21a809937d6a127a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "71.0"
     },
     "STORY_SKYLAB": {
       "name": "Target Acquired",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/6a5e1545dbb43f58ed160ba66c1a8f571128661e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.7"
     },
     "STORY_RESCUE": {
       "name": "Vital Asset",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f5d9b630753886bda7b52dbf5960755175b8a6c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "STORY_TOWER": {
       "name": "Enemy Revealed",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/f19b56ce81938db5cbd0113504963060a6b0dbfd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "PVE_ANCIENT_WEAPON": {
       "name": "Resurrection",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5ecf35ab270acdc257e15f714d237ce4d2e87c06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "PVE_MAX_LEVEL": {
       "name": "Strategic Specialty",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c074b26930afcc1403d67b0f091515224ed13ec2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "PVE_MAX_MELEE": {
       "name": "Sharpest Edge",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5f83aced1f90c060c1269c9a4662d9bb14484bad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "PVE_FULL_ARMOR": {
       "name": "Bespoke",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/bdff013d85e8ec321475417a24b10b09e21f1529.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "PVE_PICKUPS": {
       "name": "Principia Imperialis",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/515e33a65c96f94a548eba17ed36020deddec418.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "TOTAL_KILLS_SILVER": {
       "name": "A Blight to Be Purged",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a9c56b38459fb1d098c68c328595a2e60e625e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "RAIDER_GROUNDPOUND": {
       "name": "Thunderous Impact",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/131aaef161d4b3a27bec916b6951fe9fa315bb31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "PERFECT_PARRY": {
       "name": "Know No Fear",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/b38eb360b7954825552e1a22d34007e1bf2c266b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "KILLS_ALERT": {
       "name": "Silence",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "PVE_TYRANID_KILLS": {
       "name": "Xenos Exterminator",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/0f36cc408c3df1b5a155dc829c9a8a6803f5787b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "TOTAL_KILLS": {
       "name": "Still a True Son of the Emperor",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/1059895a6af5f38ffd16144c2e748977c49d12b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "ALL_ACHIEVEMENTS": {
       "name": "Defender of Humanity",

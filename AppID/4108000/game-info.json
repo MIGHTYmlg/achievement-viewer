@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/da5da4bac5d6c0ab963ec5db1698f66b5a9b6617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "ACH_03": {
       "name": "Catch this!",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/eacfb604f3b591aa8ad46a881d46e194f6c3f3e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "ACH_06": {
       "name": "Leg it!",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/3a4401ef03040a5ff6d9ee3540f1b941793b23d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.1"
     },
     "ACH_10": {
       "name": "This is my hole.",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/cd64e6b331791f3c7b12f1897795f72fcbebcfb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "ACH_11": {
       "name": "BOOM HEADSHOT!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/115bb8e9b59cecea9727287c1b0c74de60e65b46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.9"
     },
     "ACH_12": {
       "name": "Gluttony",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/5c57cda0c75b51a12713debda91938883c21ab45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "ACH_13": {
       "name": "Dodge this!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/4e4b2c93f004c78d2d35bf62526580f3d0c07559.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.5"
     }
   },
   "platform": null,

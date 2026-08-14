@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/cbe92099dab9c39049aadfd8f82ef055a6a48657.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "achievement3": {
       "name": "Tempered by Madness",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/64c413493b79d3e85c50dd2487a51e2c133b830c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "achievement23": {
       "name": "Nine Guardians",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/d4a95b18cbaf59c5debb63b167dac6d333fb046c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "achievement12": {
       "name": "The Full Account",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/2c887fb89df4fa4a2c5d581b5cd0def1cde32a83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "achievement14": {
       "name": "A Fateful Commission",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/2e5e081ef3e44249ce1fd2c26874bfbdc3089eab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "achievement15": {
       "name": "A Legendary Commission",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/0b9e4839f69056104d97fc9457f4d725ed78684a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "achievement4": {
       "name": "Pulled from the Brink",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/3ce09b6b924f715523ca1100c0302bc456e226c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "achievement5": {
       "name": "Refusing the Grave",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/178985d24f49c2a0cd6fd858264344364a530cfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.2"
+      "percent": "87.3"
     },
     "achievement20": {
       "name": "Like Moths to a Flame",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/44f360606f9ae78279d98306b1f9e30919aadcdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     }
   },
   "platform": null,

@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/75cc4ba0f64a5b58f633a2a0932da1e68d45ee20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "ACHIEVEMENT_Kill_1000_Lions": {
       "name": "Banned from the Circus",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/cf22ed4721100a65a832806fbb47b30a5a51de0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "ACHIEVEMENT_Campaign_4": {
       "name": "Lounging About The Levant",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/d619c74e8bab03f2b2f5a0b3932d2a7bf61c1638.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_Sands_Trail_5": {
       "name": "Dog Breeder",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/93c46a230fdfaa4fd16d514b60e0c1ec123a3586.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.2"
     }
   },
   "platform": null,
