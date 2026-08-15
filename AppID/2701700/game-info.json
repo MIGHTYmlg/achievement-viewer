@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "Achievements.FiveStars.Score_Prokofiev_DanceOfTheKnights": {
       "name": "5-Star Performance: Dance of the Knights",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "Achievements.FiveStars.Score_Mendelssohn_TheHebrides_Part2": {
       "name": "5-Star Performance: The Hebrides",
@@ -427,8 +427,8 @@
       "percent": "0.0"
     },
     "Achievements.FiveStars.Score_Sawano_SymphonicSuite": {
-      "name": "5-Star Performance: Symphonic Suite: Attack on Titan",
-      "description": "Achieve a perfect 5-star rating on 'Symphonic Suite: Attack on Titan'.",
+      "name": "5-Star Performance: Attack on Titan",
+      "description": "Achieve a perfect 5-star rating on 'Attack on Titan'.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/318aaab6d2e99fe7840ffe00d9d25d6752ec979c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/a9a559ace669fd1460b0129767bb2b16fc0e5d45.jpg",
       "hidden": false,
