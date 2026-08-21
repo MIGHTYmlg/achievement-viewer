@@ -1,7 +1,7 @@
 {
   "appid": "2701700",
   "name": "Maestro",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701700/header.jpg?t=1766137715",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701700/header.jpg?t=1787254530",
   "achievements": {
     "Achievements.General.ConcertScore5": {
       "name": "Standing Ovation",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.2"
+      "percent": "86.1"
     },
     "Achievements.FiveStars.Score_HankLevy_Whiplash": {
       "name": "5-Star Performance: Whiplash",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "Achievements.FiveStars.Score_Mendelssohn_TheHebrides_Part2": {
       "name": "5-Star Performance: The Hebrides",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.6"
+      "percent": "74.5"
     },
     "Achievements.FiveStars.Score_Stravinsky_RiteOfSpring": {
       "name": "5-Star Performance: The Rite of Spring",
