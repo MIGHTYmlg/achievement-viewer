@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/1f168e1f770b554826baf50a7ce1725253376f88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.7"
+      "percent": "89.8"
     },
     "ACH_FREED": {
       "name": "Freed",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/23af9f800246a7817ae9341743fc3c47fc346d01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.0"
+      "percent": "80.1"
     },
     "ACH_LAST_PERFORMANCE": {
       "name": "Last Performance",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/ca88a3c26ff0ed3230a6d91a3526f0dd28e1b6c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.5"
     },
     "ACH_RELENTLESS": {
       "name": "Relentless",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/7c7c096294ae10535f05b79252a1b1b6fc8d734a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "ACH_EMPTY_HOME": {
       "name": "Empty Home",
