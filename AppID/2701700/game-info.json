@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.1"
+      "percent": "86.2"
     },
     "Achievements.FiveStars.Score_HankLevy_Whiplash": {
       "name": "5-Star Performance: Whiplash",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "Achievements.FiveStars.Score_Prokofiev_DanceOfTheKnights": {
       "name": "5-Star Performance: Dance of the Knights",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.6"
+      "percent": "80.7"
     },
     "Achievements.Masterclass.CompletedConcert": {
       "name": "Virtuoso",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/f6a3d6d8ae49445c1af3e11212a6250d9fda1d48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.5"
+      "percent": "74.6"
     },
     "Achievements.FiveStars.Score_Stravinsky_RiteOfSpring": {
       "name": "5-Star Performance: The Rite of Spring",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/a9a559ace669fd1460b0129767bb2b16fc0e5d45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "Achievements.FiveStars.Score_Moussorgski_NightOnABaldMountain_Part2": {
       "name": "5-Star Performance: Night on a Bald Mountain (Part 2)",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/a9a559ace669fd1460b0129767bb2b16fc0e5d45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "Achievements.FiveStars.Score_Yamamoto_AshesOnFire": {
       "name": "5-Star Performance: Ashes on the Fire",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/a9a559ace669fd1460b0129767bb2b16fc0e5d45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "Achievements.FiveStars.Score_Sawano_SymphonicSuite": {
       "name": "5-Star Performance: Attack on Titan",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701700/a9a559ace669fd1460b0129767bb2b16fc0e5d45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.0"
     }
   },
   "platform": null,
