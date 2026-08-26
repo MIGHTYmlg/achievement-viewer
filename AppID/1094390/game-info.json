@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/a5634c7fa15e04a30acf96a2655f8cbf2b4060ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.8"
     },
     "FINISH_SCAVENGER_HUNT": {
       "name": "Scavenger Hunter",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/83b5dccc50960ded94c5f776ec6c0b36b2ada65e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "FIND_FIVE_WHISPERING_ARTIFACTS": {
       "name": "Artifact Connoisseur",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1094390/738f277ce12ebcff7f862ff6d9a47c19c82f7c67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     }
   },
   "platform": null,

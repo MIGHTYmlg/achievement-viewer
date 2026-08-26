@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/2f173fd5971a0eb25f6726c71272336e81ae5fbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.3"
     },
     "ACHIEVEMENT_Kill_100k_Units": {
       "name": "Bully",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/1212be0da4ec80f71d80315959411546db118b2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "ACHIEVEMENT_Kill_1M_Units": {
       "name": "Tyrant",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/6760beb2dc0145a7d34fba5c57aea3848237cbf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.5"
+      "percent": "81.4"
     },
     "ACHIEVEMENT_Store_Wood_10000": {
       "name": "No More Wood Needed",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/1c331a06c112ffa247910d42c7080cd4340f456a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.5"
     },
     "ACHIEVEMENT_Amass_Gold_10000": {
       "name": "The Midas Touch",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/75cc4ba0f64a5b58f633a2a0932da1e68d45ee20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "ACHIEVEMENT_Kill_1000_Lions": {
       "name": "Banned from the Circus",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/f82a09d6d1b584e99cc980b44d5d12f32f715f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "ACHIEVEMENT_Sands_Prince": {
       "name": "Nailed It!",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/4151bca2f1910277c9103f1ba70f598568e786f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "ACHIEVEMENT_Sands_Trail_2": {
       "name": "Goat Herder",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/5a070adf0a8a17ac73e5ffbf106233cf0ce97a15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.5"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_7": {
       "name": "Almost Impressive",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/673be2d6969bac6463ffd3bca6b393cec41a50a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_Team_of_7": {
       "name": "Genuinely Impressive",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/93c46a230fdfaa4fd16d514b60e0c1ec123a3586.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     }
   },
   "platform": null,
