@@ -1,7 +1,7 @@
 {
   "appid": "1659040",
   "name": "HITMAN World of Assassination",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/c62446d5c95f583a296d7f1b99045a61e2f81dea/header.jpg?t=1787587100",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ee5525740b5411879af81e5d98616abb7e617d5e/header_alt_assets_13.jpg?t=1787842920",
   "achievements": {
     "ACH_1": {
       "name": "The Result of Previous Training",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/17a982709dbb15b6d4272c5026831289ff1def56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.4"
     },
     "ACH_4": {
       "name": "The Creative Assassin",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/0a2af2719f7d270a49d8b351cc09ee568554956c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "ACH_60": {
       "name": "Damage Control",
