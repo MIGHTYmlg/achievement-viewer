@@ -1,5 +1,5 @@
 {
-  "last_updated": 1787988176,
+  "last_updated": 1788068162,
   "total_games": 52,
   "games": [
     {
@@ -579,7 +579,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/aec9f3abc08a82e4c9fef76857cc4c24a2816bf8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "52.1"
+            "percent": "52.2"
           },
           "NEW_ACHIEVEMENT_1_8": {
             "name": "A Heroine Emerges",
@@ -624,7 +624,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/ac81d1aac560967fa91f6ecde8c6bb642481ca4f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "80.5"
+            "percent": "80.6"
           },
           "NEW_ACHIEVEMENT_1_13": {
             "name": "Don't Need No Stinkin' Gun",
@@ -822,7 +822,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/e81a9e434fc6e8f53cf0a4abab4ee3eb36f4cbca.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "10.1"
+            "percent": "10.2"
           },
           "NEW_ACHIEVEMENT_1_35": {
             "name": "Sizzling Scarlet Hero",
@@ -840,7 +840,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/d9c56351538306dc368f9a250fc119f8514aca75.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.5"
           },
           "NEW_ACHIEVEMENT_1_37": {
             "name": "Hardcore College Student",
@@ -876,7 +876,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/af08b9421fc2af325aa702174d87180b0810aa10.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.9"
+            "percent": "8.0"
           },
           "NEW_ACHIEVEMENT_1_41": {
             "name": "Grim Reaper",
@@ -13384,7 +13384,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5b0f7db3400353d869cbc7044d536a503b09ed15.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "61.3"
+            "percent": "61.4"
           },
           "ACH_5": {
             "name": "Enhanced Telepathy",
@@ -13402,7 +13402,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5f01089f5c826120e6855910d3806faa276df64a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.5"
+            "percent": "42.6"
           },
           "ACH_7": {
             "name": "Glimpse into the Future",
@@ -13645,7 +13645,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b35b0c322f5320380264d761c19e9a7438ffa587.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.2"
+            "percent": "18.3"
           },
           "ACH_34": {
             "name": "I am The Alpha now",
@@ -16892,7 +16892,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/097c2b29875a25c0ce9345dcf1fd459ad1c2112b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "57.2"
+            "percent": "57.3"
           },
           "ACH_02": {
             "name": "Mind the gap.",
@@ -16910,7 +16910,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/6cfe69e095c3edd611871a89c373afc2e403e6b6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.1"
+            "percent": "42.2"
           },
           "ACH_04": {
             "name": "Will it blend?",
@@ -16973,7 +16973,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/cd64e6b331791f3c7b12f1897795f72fcbebcfb9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "50.3"
+            "percent": "50.4"
           },
           "ACH_11": {
             "name": "BOOM HEADSHOT!",
@@ -16982,7 +16982,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/115bb8e9b59cecea9727287c1b0c74de60e65b46.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.3"
+            "percent": "54.4"
           },
           "ACH_12": {
             "name": "Gluttony",
@@ -17000,7 +17000,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/a6841e8c8580da93d9c2276840b9539bd93f107c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "45.5"
+            "percent": "45.6"
           },
           "ACH_14": {
             "name": "Mine. All mine!",
@@ -17018,7 +17018,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/4e4b2c93f004c78d2d35bf62526580f3d0c07559.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "30.4"
+            "percent": "30.5"
           }
         },
         "platform": null,
@@ -21252,7 +21252,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.5"
+            "percent": "52.4"
           },
           "STORY_FINALE": {
             "name": "I'll Be Watching You",
@@ -21324,7 +21324,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/c074b26930afcc1403d67b0f091515224ed13ec2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.0"
+            "percent": "19.9"
           },
           "PVE_MAX_MELEE": {
             "name": "Sharpest Edge",
@@ -21342,7 +21342,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/5f83aced1f90c060c1269c9a4662d9bb14484bad.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.1"
+            "percent": "18.0"
           },
           "PVE_FULL_ARMOR": {
             "name": "Bespoke",
@@ -29844,7 +29844,7 @@
       "info": {
         "appid": "3892270",
         "name": "Gamble With Your Friends",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1787564331",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1788004729",
         "achievements": {
           "ACH_ENDING_COINFLIP_WON": {
             "name": "Let It Ride!",
@@ -30781,7 +30781,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/029f16e73ef5944a7af2be5c7baae7752a932700.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.1"
+            "percent": "59.2"
           },
           "ACH_DEFEAT_HIE_LOV": {
             "name": "Never Toy with Matters of the Heart",
@@ -31033,7 +31033,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "26.9"
+            "percent": "26.8"
           },
           "ACH_EXE_2_SPREAD": {
             "name": "The First of Many",
@@ -31168,7 +31168,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2161700/95f0686053a185645c790e23b2067700e67163fa.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "50.2"
+            "percent": "50.3"
           },
           "ACH_GET_RAREMEDAL_ALL": {
             "name": "Eagle Eye",
