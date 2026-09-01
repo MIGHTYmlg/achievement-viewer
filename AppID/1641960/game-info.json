@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/86fcc88d4e40191ac5bc088f1eaeca18fb5c54b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "65.8"
     },
     "ACH_BuildRoom": {
       "name": "So much space. Need to see it all.",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/07ce9a3a87d81bbb7ed70fb65bb1fa98e79d70d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.3"
     },
     "ACH_GrowPlant": {
       "name": "Green Thumb",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/f1c174dfb2a2237bedf4d8ae5f5f0414d7c7cb49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "ACH_CollapseRuin": {
       "name": "Timbeeeer",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/a4c3109e92043d41811f4c033b25563cdbc3397e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.7"
     },
     "ACH_ScrapwingHatchery": {
       "name": "Stop. It. Now.",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/264c1931744f50381adeb664a28917a477b4cf60.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.6"
     },
     "ACH_ChainReaction": {
       "name": "Chain Reaction",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/d1b0715f3dd8ee5624065534fb2b9b06c13ad977.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "ACH_FourthReport": {
       "name": "Evolving world",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/ddd8ef01758cb59a63b01b71ffe6c8124106b3c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "ACH_BeatDisease": {
       "name": "Performing self-surgery!",

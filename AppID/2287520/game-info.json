@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/d4fc81011a3816c2003d0d9f1f51315fae059d8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.1"
     },
     "splash_zone": {
       "name": "Splash Zone",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/d4fc81011a3816c2003d0d9f1f51315fae059d8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "your_time_to_shine": {
       "name": "Your Time To Shine",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/d4fc81011a3816c2003d0d9f1f51315fae059d8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "boop": {
       "name": "Boop",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/bc372d21c9c64bd5248b56c5d3cfff5240a95d05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     }
   },
   "platform": null,
