@@ -1,7 +1,7 @@
 {
   "appid": "1659040",
   "name": "HITMAN World of Assassination",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ee5525740b5411879af81e5d98616abb7e617d5e/header_alt_assets_13.jpg?t=1788256948",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ee5525740b5411879af81e5d98616abb7e617d5e/header_alt_assets_13.jpg?t=1788336082",
   "achievements": {
     "ACH_1": {
       "name": "The Result of Previous Training",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/1513a3e431f382ded97e10317c659a7e1173a5af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACH_52": {
       "name": "Top of the Heap",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/144bca325cd31273557e3eab04a51531f065385a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "ACH_59": {
       "name": "Local Knowledge",
