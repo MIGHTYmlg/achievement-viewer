@@ -1,7 +1,7 @@
 {
   "appid": "1641960",
   "name": "Forever Skies",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/cc56d2d6fd373940032bba383464ffa626b00717/header_alt_assets_9.jpg?t=1787136995",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/cc56d2d6fd373940032bba383464ffa626b00717/header_alt_assets_9.jpg?t=1788535431",
   "achievements": {
     "ACH_FirstFlight": {
       "name": "And we're Off!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/07ce9a3a87d81bbb7ed70fb65bb1fa98e79d70d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.5"
     },
     "ACH_GrowPlant": {
       "name": "Green Thumb",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/776fdebe1355d0d2b25ca4baff18340d852afb49.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "ACH_ThirdReport": {
       "name": "Where is the cure?",

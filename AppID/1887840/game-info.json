@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/40259cf04b35b03124c1f5ad281d7823ffbfaefa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "BossDefeated_Pathfinder": {
       "name": "Polluted Platoon Pathfinder",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/d53f074ab6f68818189373621bdbce7066c8cc73.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.4"
     },
     "BossDefeated_Lichenthrope": {
       "name": "Diseased Lichenthrope",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/04b7db28ad9919e58d9eaf4c3394bf3682ed8a48.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.9"
     },
     "BossDefeated_Heikea": {
       "name": "Intimidation Crab",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/9ef52070a543a026857a2f273f7cbcbecb7e0303.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.8"
     },
     "BossDefeated_Topoda": {
       "name": "Grovekeeper",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/9d722ab55b248b40154663894fcc20b1b408c4ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "BossDefeated_Consortium": {
       "name": "The Consortium",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/0123a10d713e50908c0f8a5c5e818573ddd290d9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "BossDefeated_Voltai": {
       "name": "The Accumulator",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/cc21e55bef2405d8101a1d8e5ecb334115234fb9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "BossDefeated_Roland": {
       "name": "Venture Crabitalist",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/4fb27a4daf98b852f1219841e4a5f16bec97a1a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "BossDefeated_Petroc": {
       "name": "The False Moon",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/6114a22b13ecb27cca222c505fbc2a1c58e299aa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "BossDefeated_BleachedKing_Fake": {
       "name": "The Bleached King",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/27dd8c473345d3411cee90ffea09f0341f8a1810.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "BossDefeated_Firth": {
       "name": "Avatar of Waste",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/f02fff2ba5c42f09504ab0050386b657920e1713.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.7"
     },
     "BossDefeated_BleachedKing_Real": {
       "name": "Camtscha, Reborn",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/8b34b4e76ff2f84c9851de0062dd07fbd8ce78e2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "SkillTreeCompleted_Crab": {
       "name": "Path of the True Crab",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/49ef585cd998b81295cdc354df2532c4f179477b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "SkillTreeCompleted_Predator": {
       "name": "Path of the Predator",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/fc388b67be712dcdacf97133bdf69b901ceebfb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "YOTC_StartNewGamePlus": {
       "name": "Prepare to Die",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/dfb6396d05c6eac277bdac7f0a50504a5e0e5175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "YOTC_HiddenSnail": {
       "name": "I am Speed",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/280045137061428e80b7c43590ebbcf12cc44c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     }
   },
   "platform": null,
