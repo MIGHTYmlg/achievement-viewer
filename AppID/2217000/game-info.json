@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/94327e4305a6719a1dd4eac3df71a0edf42aad0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "Lvl_Ran": {
       "name": "The Poisonous Pacifist",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3dc8820e416a039c3818aedb74136f15cfc74c68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "Arc_Fle": {
       "name": "Path Of Revelation",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d7d7681dd7d5f2d191e5645bbe29068af102e223.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "KO_Ran": {
       "name": "The Poisonous Storm",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ca7500cb1f7bd6e242ed3c0efd251e2f9a13c051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "Skill_Orc": {
       "name": "The Daring Orca Hop",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/bb81a5c7bc29fd010f280e28c2ff8f89fc10886c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "Lvl_Oly": {
       "name": "The Amethyst Fist",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5910a202f9147d970901b51026180a7ec9d0d89c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "Skill_Oly": {
       "name": "Double Terminated ",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/6afe606013442aeee46e78c55b560145b078f75d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "Lvl_Gal": {
       "name": "The Ferrous Fossil",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2018b2aaebea1b2d6d32120f0c2abb57da6cc552.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "Lvl_Sla": {
       "name": "The Swagger of the Sea",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/73cfacc5a004b761a1ac7bbb2a042abbe1c291af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "1.9"
     }
   },
   "platform": null,

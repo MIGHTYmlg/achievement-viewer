@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/4b11396fa5f302d288febe6ffb52e7731a95707e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "ACH_Defeat_Boss3": {
       "name": "Dragonslayer",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/a616d4a0bf610a60d1802fbeda2a1a7fe124f6d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACH_Statboost_Autoblock": {
       "name": "Shieldwright's Best Friend",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/3714a49272ba38c8c61bb7fc846b3dbc88cc4b67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "ACH_Statboost_MoraleOnLowHP": {
       "name": "Last Stand",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/a2be780a874cdc3fd8ed0ca102db2efdbeb129ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "ACH_Statboost_MoreDamageOnStatusEffect": {
       "name": "Collector of Status",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/b5424b1bfe3107dd1add92e1631df5a67239a10e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "ACH_Statboost_ResetCooldownsOnKill": {
       "name": "Juke-master",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/b89ab0b82feea1cbf59fda74befb19aac636068e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "ACH_Statboost_SpeedOnKillMany": {
       "name": "Unstoppable Force",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/06296fb6f7e13a0c7f958808ae36b292a26536fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.7"
     },
     "ACH_StatboostT2_HealOnDragonstone": {
       "name": "Should Have Looked Up... ",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/2026a3a1a1f4efc0958704b82cf3f7b960783866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "ACH_StatboostT2_MoraleGain": {
       "name": "Army of One",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/995641458be13e857952206ab206249f2231dc71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ACH_StatboostT2_StrongAlliesOnLootbox": {
       "name": "Questionable Priorities",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/0726effe7e0ae82410ce16458389c894fcc67712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "ACH_StatboostT3_Autoblock": {
       "name": "Forearm Splinters",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/e113a6b56edd9a3607af7a0369f45f3582de9490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.4"
     },
     "ACH_Statboost_CoinsOnAllyKill": {
       "name": "Here Come The Pros",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/7c764261593053a4643889760ec8df5c6b1cfe89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ACH_AllyTrait_Statboost9": {
       "name": "Iron Investment",
@@ -748,7 +748,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/198b72cd7def74eb31cedc6ecf350bed4de064b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "ACH_AllyTrait_Statboost12": {
       "name": "Lord of the Treasury",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/dcb9e2d1c5aab1233d8b9db957fa8eaf64158164.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "ACH_AllyTrait_Statboost13": {
       "name": "No Expense Spared",
@@ -793,7 +793,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/654962f91b60009ea9d6281b28b76355e1ebc452.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "ACH_StatboostT3_AOEOnHurt": {
       "name": "Ascetic Warrior",

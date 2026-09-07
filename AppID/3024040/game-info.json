@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/ae10c66c3eeaed40b840572d0187cd0900d3af21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "ACHIEVEMENT_Population_300": {
       "name": "Sprawling Metropolis",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/a6e57a9b4de1385f586faf1273745e0bf9ade265.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_New_Lords": {
       "name": "New Kids On The Block",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/93c46a230fdfaa4fd16d514b60e0c1ec123a3586.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.4"
     }
   },
   "platform": null,
