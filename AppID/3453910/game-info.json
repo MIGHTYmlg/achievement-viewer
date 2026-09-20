@@ -1,7 +1,7 @@
 {
   "appid": "3453910",
   "name": "Happy's Humble Burger Cult",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/5ec110db282f6e701d38ee476ceed1c7ffbf26b3/header.jpg?t=1789725092",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/5ec110db282f6e701d38ee476ceed1c7ffbf26b3/header.jpg?t=1789862345",
   "achievements": {
     "HHBF_FIRST_SHIFT": {
       "name": "Welcome to THE CULT.",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "65.5"
     },
     "HHBF_5_SHIFT": {
       "name": "Adept",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "36.1"
     },
     "HHBF_10_SHIFT": {
       "name": "Professional",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.5"
     },
     "HHBF_20_SHIFT": {
       "name": "Expert",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "HHBF_PERFECT_SHIFT": {
       "name": "Perfect Associate",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "56.8"
     },
     "HHBF_FAILED_SHIFT": {
       "name": "Joyful",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.1"
+      "percent": "63.9"
     },
     "HHBF_DIED": {
       "name": "Up Close and Personal",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.6"
+      "percent": "86.0"
     },
     "HHBF_DEAD_CUSTOMER": {
       "name": "Mistakes Happen",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "HHBF_1000_MONEYRUN": {
       "name": "We're Rich! Rich I tell ya!",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.4"
     },
     "HHBF_2500_MONEYRUN": {
       "name": "Bank Robbers",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.8"
     },
     "HHBF_5000_MONEYRUN": {
       "name": "Time Investors",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.4"
+      "percent": "81.7"
     },
     "QUOTA_FIRST": {
       "name": "No Refunds",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.3"
+      "percent": "81.6"
     },
     "QUOTA_SECOND": {
       "name": "A Whole New World!",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.5"
     },
     "QUOTA_THIRD": {
       "name": "Is this some kind of Cult?",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.2"
     },
     "HHB_5_STATUS_EFFECTS": {
       "name": "Spaced Out",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.9"
     },
     "HHB_SHOVE_FRIEND": {
       "name": "Workplace Liability",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.6"
     },
     "HHB_TUTORIAL_BEATEN": {
       "name": "I'm Ready!",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "HHB_HORSEBET": {
       "name": "Future Horse Racer 4000!",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "18.0"
     },
     "HHB_CUSTOMIZE": {
       "name": "Fabulous!",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "63.8"
     },
     "HHB_TOXIN": {
       "name": "Smoke Break.",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "56.0"
     }
   },
   "platform": null,

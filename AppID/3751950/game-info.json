@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/915897abd5156e66ad0336dc18614c77430d8178.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "ACObsidian_Ach_9": {
       "name": "Among Thieves",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/55eaee6e0c445d97dd912c8bef42d860d7bd46dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.7"
     },
     "ACObsidian_Ach_11": {
       "name": "Seven Deadly Seas",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c8be76b42ae07c512654afa353f8c86d7e6baf87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "43.8"
     },
     "ACObsidian_Ach_13": {
       "name": "Matador",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/53166c02a960e27cc25f92cd1b225afb1a03992d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "ACObsidian_Ach_15": {
       "name": "Double Tap",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/14b5b6324fd23f22ab7649e8503df36972615802.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "65.9"
     },
     "ACObsidian_Ach_17": {
       "name": "The Hangman",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f35c563cd6efdfc1d6ac46362c101a803ce82bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.6"
     },
     "ACObsidian_Ach_20": {
       "name": "Backs To The Wall",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/dc1c5c04e0c64a05f2b93827279d8038171e2c5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "86.2"
+      "percent": "86.1"
     },
     "ACObsidian_Ach_25": {
       "name": "Walls That Hold Back The Wind",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f524c9c3c873d2e9e64f431428db422d045b1a5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.9"
+      "percent": "72.8"
     },
     "ACObsidian_Ach_26": {
       "name": "In A World Without Gold",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c36d4ef2919691c60b5a02bdd998007c402260e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "ACObsidian_Ach_28": {
       "name": "All Hands On Deck",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/2d344113f47cb696e599214a39f6c9eecdd6c438.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "58.8"
     },
     "ACObsidian_Ach_32": {
       "name": "Unsinkable",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/905f0d6b185fbfc37f68276af847219fa21dfeb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.1"
     },
     "ACObsidian_Ach_38": {
       "name": "Not So Little Friend",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/24ec5d51e3322a06d7bf6f33d06fe0a420975a3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.3"
+      "percent": "76.2"
     },
     "ACObsidian_Ach_39": {
       "name": "Dressing Overall",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/101888faefa098d8f35102a3bf760ddb0b7c54f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.1"
     },
     "ACObsidian_Ach_42": {
       "name": "Ship This",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c526ab32882f39937aa16d237723cca7bcd091db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "43.9"
     }
   },
   "platform": null,
