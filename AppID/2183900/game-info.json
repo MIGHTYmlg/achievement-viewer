@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     },
     "PVE_TYRANT": {
       "name": "Sic Semper Tyrannis",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "STORY_LAST_STAND": {
       "name": "Into the Abyss",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "STORY_FINALE": {
       "name": "I'll Be Watching You",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "MARKING_TOOL": {
       "name": "Purge Them All",
