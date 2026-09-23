@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.9"
+      "percent": "57.0"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d9c32785a96e5df3d4e41f222e6797eb2ed731cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "STORY_ORBITAL_DROP": {
       "name": "My Face Is My Shield",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/df3327f0e4ec3436e9b4e8eabdcbff988326c1a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "PVE_RUTHLESS": {
       "name": "Valour Crest",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3c343837985d44b438be4fe58b582769c8bcca93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "SOLDIER_KILLS": {
       "name": "Master of Arsenal",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a9c56b38459fb1d098c68c328595a2e60e625e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "RAIDER_GROUNDPOUND": {
       "name": "Thunderous Impact",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "PVE_TYRANID_KILLS": {
       "name": "Xenos Exterminator",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7d611b6773380c8bf671bab14fe3b99ad0f1b301.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "PVP_WIN_CLASSES": {
       "name": "Tactical Genius",

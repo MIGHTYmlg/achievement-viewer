@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.7"
+      "percent": "59.4"
     },
     "FinishMission1": {
       "name": "The Mysterious Scepter",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.6"
     },
     "FinishMission2": {
       "name": "Welcome to Korrangar",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.7"
     },
     "FinishMission3": {
       "name": "A Handsome Gift",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.2"
     },
     "FinishMission4": {
       "name": "Weapon of Choice",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "23.9"
     },
     "FinishMission5": {
       "name": "Desertion",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.0"
     },
     "FinishMission6": {
       "name": "Crime and Prejudice",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.7"
     },
     "FinishMission7": {
       "name": "The Seed of Discord",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.0"
     },
     "FinishMission8": {
       "name": "Dr. Boom!",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.8"
     },
     "FinishMission9": {
       "name": "Revenge",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "KillSectorEnemies": {
       "name": "The Professional",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "PushEnemies": {
       "name": "This. Is. THOBEN!!",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.7"
     },
     "CraftItems": {
       "name": "Master Alchemist",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.1"
     },
     "GoldInsignias": {
       "name": "Golden Gob",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.4"
     },
     "LongHide": {
       "name": "A Rat Life",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.4"
     },
     "OfferToCult": {
       "name": "A Taste of Gob",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "AllGoldInsignias": {
       "name": "All Along the Gobtower",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.3"
     },
     "NoDamage": {
       "name": "Untouched",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.2"
     },
     "ThiefInsignia": {
       "name": "Ace of Scrap!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "ShadowInsignia": {
       "name": "Did you see something?",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.1"
     },
     "SwiftnessInsignia": {
       "name": "An Athlete Through and Through",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "MercyInsignia": {
       "name": "Sensitive Gob",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.0"
     },
     "NoAmberPower": {
       "name": "Rehab",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.5"
     },
     "LongInvisibility": {
       "name": "The Unseen Gob is the Deadliest",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.3"
     },
     "Reborn": {
       "name": "Phoenix",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "Teleportation": {
       "name": "Devoted Servants",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "InvisibleInHideout": {
       "name": "The Gob in a Box",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.8"
     },
     "AcidTrapKills": {
       "name": "Acidification",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "DrinkAmberPotions": {
       "name": "My Precious",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.7"
     },
     "DisolveEnemies": {
       "name": "It's Time for Soup",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "GetIngredients": {
       "name": "Goblin Farmer",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.2"
     },
     "UnlockUltimateSkill": {
       "name": "Trigonal Elven System",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.0"
     },
     "UnlockAllSkills": {
       "name": "Oh My Gob!",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/355790/68affeab632fa00dad084056b53a615a81220df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     }
   },
   "platform": null,

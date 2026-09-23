@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/7274e30383ea9b19f8b3df2ca589ab7719d394e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.4"
     },
     "ACH_Statboost_HeavyBlockDamage": {
       "name": "Vicious Retaliator",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/7bdab7e25bf23a4a46930efc1b2ca0881e984e44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.9"
     },
     "ACH_Statboost_MoraleGain": {
       "name": "Guardian",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/ae9362fbc99aa7ae2cd678c2ef0c025c854b64f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "ACH_Statboost_ReceivedRangeDamage": {
       "name": "Moving Target",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/cb6ac0be3780ed259e35d81eb4a188da03338252.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "ACH_StatboostT2_MoreDamageOnHealthyEnemy": {
       "name": "Superstitious",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/5b8991decca3a08c6d64c5c244a243382fa5ad0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "ACH_StatboostT2_MoveSpeed": {
       "name": "Whirlwind of Death",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/fc9338ec07f9106c2ae691969f4c9d73fcc00a63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "ACH_StatboostT2_ReceivedRangeDamage": {
       "name": "Arrow Catcher",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/0726effe7e0ae82410ce16458389c894fcc67712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "ACH_StatboostT3_Autoblock": {
       "name": "Forearm Splinters",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/7a53f381094122a4bc690dcb4bfa4fb43367217b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "ACH_StatboostT3_Critical": {
       "name": "Earth-Shattering Blow",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/c4db68916e75f95f45b072195c178f4071d22c9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "ACH_StatboostT3_EnemiesExplodeOnLowHp": {
       "name": "Sharing The Moment",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/0cb87d142f6a59479fe3070b05328cf0494936c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "ACH_StatboostT3_ArrowsOnHit": {
       "name": "Living on the Edge",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/aded98c129ddd5ddc351e5e909d658aa72d2e3a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "ACH_StatboostT3_HeavyBlockDamage": {
       "name": "Do Unto Others... ",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/6634bfe40b98533efa94de7195b6ef66955c0e68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "ACH_StatboostT2_ArrowsOnAllyCommand": {
       "name": "By My Command...",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/ecae0c70bcd73d26eb7495c646b29d0e2dbeb8df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "ACH_AllyTrait_Statboost6": {
       "name": "War Chest",
@@ -703,7 +703,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1913120/3ac0aa943169d935c3f00f06f8eab97ba3119a0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ACH_AllyTrait_Statboost7": {
       "name": "Forged in Gold",
