@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/2d853a89cb31ec1f38e93ab7d520d6dfae64dd8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.2"
     },
     "PVE_TYRANT": {
       "name": "Sic Semper Tyrannis",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/e95382cfa95d7a039ca8d6e443f072380b605209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.2"
     },
     "PVE_DAEMONHOST": {
       "name": "Voice in the Dark",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/42e15ee629ae5f1f5e6badb5efe74a34ffb92e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.9"
     },
     "PVE_FIRESTORM": {
       "name": "Douse the Flames",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d9c32785a96e5df3d4e41f222e6797eb2ed731cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "STORY_ORBITAL_DROP": {
       "name": "My Face Is My Shield",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/cc8e7c2d1fb41f39dfd14fc24dae3824d46dc906.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.5"
     },
     "STORY_LAST_STAND": {
       "name": "Into the Abyss",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/d686d122d80c489aae3e288c4fa3727e65d20278.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "STORY_FINALE": {
       "name": "I'll Be Watching You",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/ddbcdffdeac4c3191a8a9da72453e052e42e1a84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "MARKING_TOOL": {
       "name": "Purge Them All",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/df3327f0e4ec3436e9b4e8eabdcbff988326c1a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "PVE_RUTHLESS": {
       "name": "Valour Crest",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/19f4612013c48a8b63dbc4c9faa409cdf698c421.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "PVE_MAX_FIREARM": {
       "name": "Strongest Shot",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/3c343837985d44b438be4fe58b582769c8bcca93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "SOLDIER_KILLS": {
       "name": "Master of Arsenal",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/a9c56b38459fb1d098c68c328595a2e60e625e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "RAIDER_GROUNDPOUND": {
       "name": "Thunderous Impact",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/9bb74e43cec4ece144be2fcdf56be9c1cc3cf9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.7"
     },
     "PVE_TYRANID_KILLS": {
       "name": "Xenos Exterminator",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2183900/7d611b6773380c8bf671bab14fe3b99ad0f1b301.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "PVP_WIN_CLASSES": {
       "name": "Tactical Genius",
