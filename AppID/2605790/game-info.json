@@ -1,7 +1,7 @@
 {
   "appid": "2605790",
-  "name": "Deep Rock Galactic: Rogue Core",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/9d0c2bf98e5e10ebf27fc473a92fb26f3623b148/header_alt_assets_1.jpg?t=1788348461",
+  "name": "Game 2605790",
+  "icon": "",
   "achievements": {
     "PCAA_CERTIFIED": {
       "name": "PCAA Certified",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "A_DEPLOYMENT_A_DAY": {
       "name": "A Deployment A Day",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "DOESNT_AFRAID_OF_ANYTHING": {
       "name": "Doesn't Afraid of Anything",

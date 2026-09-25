@@ -1,7 +1,7 @@
 {
   "appid": "3024040",
-  "name": "Stronghold Crusader: Definitive Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/header.jpg?t=1785920681",
+  "name": "Game 3024040",
+  "icon": "",
   "achievements": {
     "ACHIEVEMENT_Tut_Complete": {
       "name": "Top of the Class",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/1c331a06c112ffa247910d42c7080cd4340f456a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ACHIEVEMENT_Amass_Gold_10000": {
       "name": "The Midas Touch",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/30d207e25f27cf68a7e716a3d1205cf4ff028718.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACHIEVEMENT_Upload_Map": {
       "name": "Muhammad al-Idrisi",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/a5db7186aa5dfcdc1a2e0f09623ded4ccbf2be37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "ACHIEVEMENT_Campaign_3": {
       "name": "King of the Sandcastle",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/95a49d2b2ef238f29212738d3f81da3ad5f90306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "ACHIEVEMENT_Campaign_5": {
       "name": "No Sleep 'til Ascalon",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/d2af0220da0bc2886fa4642acf9c28af0aba49e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACHIEVEMENT_Trail_2": {
       "name": "Perseverance Pays Off",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/5a070adf0a8a17ac73e5ffbf106233cf0ce97a15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.5"
     },
     "ACHIEVEMENT_Win_Skirmish_Game_vs_7": {
       "name": "Almost Impressive",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/2f26f02da217aac35caba4a94d0e0ece3a826b8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "ACHIEVEMENT_Campaign_7": {
       "name": "Mick Dundee",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3024040/a67719d688a9b4c8668d29a5a2b54b3d509a4a30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACHIEVEMENT_Sands_Trail_6": {
       "name": "Snake Charmer",

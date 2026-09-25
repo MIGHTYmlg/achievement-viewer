@@ -1,7 +1,7 @@
 {
   "appid": "524220",
-  "name": "NieR:Automata™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1785182957",
+  "name": "Game 524220",
+  "icon": "",
   "achievements": {
     "ACH_VISITED_BUNKER": {
       "name": "Resuscitated Body",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "72.0"
     },
     "ACH_CLEAR_DESERT_AREA": {
       "name": "It's a Healthy Baby Boy!",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "ACH_CLEAR_ROBOT_MT": {
       "name": "Iron Soul",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "ACH_PLAY_A2_FIRST_TIME": {
       "name": "Treacherous Blade",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "ACH_LAST_REQUEST_PASCAL": {
       "name": "Farewell, Pascal",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.0"
     },
     "ACH_HACKING_KILL": {
       "name": "A Scanner's Power",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "ACH_ANIMAL_RUN": {
       "name": "Animal Rider",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "ACH_NPC_KILL": {
       "name": "Wait! Don't Kill Me!",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACH_EMILE_SHOP": {
       "name": "Come Take a Look!",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "ACH_KILL_EM1010": {
       "name": "Naughty Children",

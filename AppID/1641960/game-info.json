@@ -1,7 +1,7 @@
 {
   "appid": "1641960",
-  "name": "Forever Skies",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/cc56d2d6fd373940032bba383464ffa626b00717/header_alt_assets_9.jpg?t=1789632510",
+  "name": "Game 1641960",
+  "icon": "",
   "achievements": {
     "ACH_FirstFlight": {
       "name": "And we're Off!",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/776fdebe1355d0d2b25ca4baff18340d852afb49.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ACH_ThirdReport": {
       "name": "Where is the cure?",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/5b3303210ab66714c364e05fdad9cff2593ae458.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "ACH_HumanityFallen": {
       "name": "Human beings are a disease",
