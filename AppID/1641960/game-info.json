@@ -1,7 +1,7 @@
 {
   "appid": "1641960",
-  "name": "Game 1641960",
-  "icon": "",
+  "name": "Forever Skies",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/cc56d2d6fd373940032bba383464ffa626b00717/header_alt_assets_9.jpg?t=1789632510",
   "achievements": {
     "ACH_FirstFlight": {
       "name": "And we're Off!",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/d023f8b0f0bd3ab97a6029d3106c18dd7777cc47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.6"
     },
     "ACH_SecondReport": {
       "name": "Search continues",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/776fdebe1355d0d2b25ca4baff18340d852afb49.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "ACH_ThirdReport": {
       "name": "Where is the cure?",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/d1b0715f3dd8ee5624065534fb2b9b06c13ad977.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "ACH_FourthReport": {
       "name": "Evolving world",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/5b3303210ab66714c364e05fdad9cff2593ae458.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "ACH_HumanityFallen": {
       "name": "Human beings are a disease",

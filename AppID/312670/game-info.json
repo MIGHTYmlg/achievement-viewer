@@ -1,7 +1,7 @@
 {
   "appid": "312670",
-  "name": "Game 312670",
-  "icon": "",
+  "name": "Strange Brigade",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312670/header.jpg?t=1589878497",
   "achievements": {
     "ACHIEVEMENT_ALL_CATS": {
       "name": "Hooked on a Feline",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312670/4719bd1c0e669b4f5fe09231f02eddae34cb80d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ACHIEVEMENT_DLC_1_ALL_DIARIES": {
       "name": "Well-Read!",

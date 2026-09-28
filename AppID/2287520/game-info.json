@@ -1,7 +1,7 @@
 {
   "appid": "2287520",
-  "name": "Game 2287520",
-  "icon": "",
+  "name": "Five Nights at Freddy's: Help Wanted 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2287520/header.jpg?t=1718900946",
   "achievements": {
     "consequences": {
       "name": "Consequences",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2287520/d4fc81011a3816c2003d0d9f1f51315fae059d8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "graveyard_shift": {
       "name": "Graveyard Shift",

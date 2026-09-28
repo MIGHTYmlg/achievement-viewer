@@ -1,7 +1,7 @@
 {
   "appid": "952060",
-  "name": "Game 952060",
-  "icon": "",
+  "name": "Resident Evil 3",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1790215956",
   "achievements": {
     "NEW_ACHIEVEMENT_1_1": {
       "name": "First Escape",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/463ddb939ea81d146a62e23281e89495d6a574c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "NEW_ACHIEVEMENT_1_17": {
       "name": "Electric Slide",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/952060/3a429f9c0901b84d44ea27881996aaae489fe90d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "NEW_ACHIEVEMENT_1_32": {
       "name": "Sprinter",
