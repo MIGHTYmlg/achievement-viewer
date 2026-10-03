@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "ach-MSDataSpendCurrency_ShopDiscount": {
       "name": "Corporate Discount",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/4c6f2abe42274aeaceb3ae473ba7345f61a2eff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "ach-MSDataFireProjectiles": {
       "name": "Count em!",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "ach-wep18-cryogrenade": {
       "name": "Overclock: Cryo Grenade",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "ach-wep18-deepcorepgl": {
       "name": "Overclock: DeepCore PGL",
@@ -1090,7 +1090,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ach-wepmaster-neurotoxingrenade": {
       "name": "Mastery: Neurotoxin Grenade",
@@ -1522,7 +1522,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ach-biomemaster-hollowbough": {
       "name": "Mastery: Hollow Bough",
@@ -1819,7 +1819,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "ach-subclasswin-heavygunner": {
       "name": "Ka-boom!",
@@ -2278,7 +2278,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2321470/a0f8541d4f1e493380121404a62a27a9471d5c20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "ach-gear-6uncommon": {
       "name": "Custom rig",

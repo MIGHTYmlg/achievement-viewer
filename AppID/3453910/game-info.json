@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.2"
     },
     "HHBF_5_SHIFT": {
       "name": "Adept",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "HHBF_10_SHIFT": {
       "name": "Professional",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "HHBF_20_SHIFT": {
       "name": "Expert",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "HHBF_PERFECT_SHIFT": {
       "name": "Perfect Associate",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "HHBF_FAILED_SHIFT": {
       "name": "Joyful",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.9"
     },
     "HHBF_DIED": {
       "name": "Up Close and Personal",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "HHBF_250_CUSTOMERS": {
       "name": "Experienced Cashier",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "HHBF_500_CUSTOMERS": {
       "name": "Professional Cashier",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "HHBF_2500_MONEYRUN": {
       "name": "Bank Robbers",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "HHBF_5000_MONEYRUN": {
       "name": "Time Investors",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "PARTY_OF_TWO": {
       "name": "Occult",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.5"
+      "percent": "82.6"
     },
     "QUOTA_FIRST": {
       "name": "No Refunds",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "QUOTA_FIFTH": {
       "name": "The Long Shift Ahead.",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "HHB_5_STATUS_EFFECTS": {
       "name": "Spaced Out",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.6"
     },
     "HHB_SHOVE_FRIEND": {
       "name": "Workplace Liability",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.4"
     },
     "HHB_TOXIN": {
       "name": "Smoke Break.",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "57.1"
     }
   },
   "platform": null,
