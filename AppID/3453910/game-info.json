@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.3"
     },
     "HHBF_5_SHIFT": {
       "name": "Adept",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "HHBF_10_SHIFT": {
       "name": "Professional",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "HHBF_FAILED_SHIFT": {
       "name": "Joyful",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "HHBF_DIED": {
       "name": "Up Close and Personal",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.0"
     },
     "QUOTA_THIRD": {
       "name": "Is this some kind of Cult?",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "HHB_SHOVE_FRIEND": {
       "name": "Workplace Liability",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "HHB_TUTORIAL_BEATEN": {
       "name": "I'm Ready!",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.7"
     },
     "HHB_COMPLETE_SOLO": {
       "name": "Graveyard Shift",
