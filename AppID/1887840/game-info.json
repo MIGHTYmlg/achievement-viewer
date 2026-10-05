@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/40259cf04b35b03124c1f5ad281d7823ffbfaefa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.4"
     },
     "BossDefeated_Pathfinder": {
       "name": "Polluted Platoon Pathfinder",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/d53f074ab6f68818189373621bdbce7066c8cc73.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.2"
     },
     "BossDefeated_Lichenthrope": {
       "name": "Diseased Lichenthrope",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/950c42c33601d8ee9429662aec7bd92be95a03b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "BossDefeated_Royalsplitter": {
       "name": "Royal Shellsplitter",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1887840/fc388b67be712dcdacf97133bdf69b901ceebfb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "YOTC_StartNewGamePlus": {
       "name": "Prepare to Die",

@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/44fd2b57a002ae2a0e695307c8e091832df56a62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.8"
+      "percent": "74.7"
     },
     "Achievement3": {
       "name": "Defender of Astera",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/ff6f6f2afdfa60defa2c491911727498f1b797c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "Achievement6": {
       "name": "The Empress of the Highlands",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/f717a6d37079ce66e07b68056e599db79f14c41a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "Achievement7": {
       "name": "One Shall Stand, One Shall Fall",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/d151d2b1c60e3543d714669ef5d917747d34370e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "Achievement13": {
       "name": "Nowhere to Go but Up",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/200da6e7f45c297a90d11f0d2546205ec6fbd587.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "Achievement15": {
       "name": "The Art of Camouflage",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/ee5d4aba5343fc2e2d107e63136dfb8b2feb0b49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "Achievement46": {
       "name": "Hunters United",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/667ef144f47b859fb19c809357a20411d29f9f5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.0"
     },
     "Achievement47": {
       "name": "Hunters United Forever",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/c5fc305e66b6c100f145690a9f5c5e1827c7d1d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "Achievement57": {
       "name": "To the Land of Discoveries",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/4948093f4a512083dfa47e12d38920601ff97b42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "Achievement84": {
       "name": "Skilled Steamworker",
@@ -865,7 +865,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/bdebcf7222685f23cac5a7fe65f09f433c74ca65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.6"
     },
     "Achievement96": {
       "name": "Master Capturer",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/5c8048dceeb326da92cb0952470ac64e470b3a80.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "Achievement99": {
       "name": "Seen It All",
