@@ -1,6 +1,6 @@
 {
-  "last_updated": 1791268456,
-  "total_games": 52,
+  "last_updated": 1791270155,
+  "total_games": 54,
   "games": [
     {
       "appid": "4024600",
@@ -19751,6 +19751,320 @@
       }
     },
     {
+      "appid": "4656000",
+      "info": {
+        "appid": "4656000",
+        "name": "BOMBANANA!",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1790377390",
+        "achievements": {
+          "BOOM_ACHIEVEMENT_1_0": {
+            "name": "BOOM!",
+            "description": "First time exploding",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/f1098e3b53452c7af292cc46c6fafff933294c5c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/e2b8935a1fa5e0198ee2a976ae57c6b341ca1a41.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "95.6"
+          },
+          "FirstJob_ACHIEVEMENT_1_1": {
+            "name": "First Defusal",
+            "description": "",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/982774ef21d0c74566a55a4717de908f9261c88c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/31693d35c51d655b78b229a7d271eaa84552b84c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "95.4"
+          },
+          "BombJunior_ACHIEVEMENT_1_2": {
+            "name": "Junior Defuser",
+            "description": "Complete 5 Levels",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/ba61b510277fab243fd74dcf96f416922a56b716.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/98ba02263a4104e09a06da969841f646087efa35.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "90.3"
+          },
+          "BombSenior_ACHIEVEMENT_1_3": {
+            "name": "Expert Defuser",
+            "description": "Complete 15 Levels",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/718fe4398aad1ccc21490324b9f36eaa3e0519e8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/4b57d7ff6348bc26e33802fd017a49f97e8ed492.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "58.9"
+          },
+          "BombExpert_ACHIEVEMENT_1_4": {
+            "name": "Master Defuser",
+            "description": "Complete 30 Levels",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/5fb03dfdc8f7b47fc05ecabb2912b05cd551cb21.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/5d784899f9f4ab0d6806f25decb77f7a6ead02e5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.4"
+          },
+          "WireExpert_ACHIEVEMENT_1_5": {
+            "name": "Wirecutting Expert",
+            "description": "Cut 5 Wires",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/71559d12168d32f8dbd70e4356012bc20b45ecb8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/15e1093b31eb080cd60f1c1d785ff061d3895530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.2"
+          },
+          "Slapper_ACHIEVEMENT_1_6": {
+            "name": "Slapper",
+            "description": "Slap 30 Times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/a894499610c57ac8713eb515432377df0162c2d6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/0e54e2d9bed8b609870121945fe8d3ff39dbc169.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "61.0"
+          },
+          "AlmostBOOM_ACHIEVEMENT_1_7": {
+            "name": "Just in Time!",
+            "description": "Defuse the Bomb in the Last 3 Seconds",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/8abc3eea3b6ca6a92f0465d6d4cd0964d35e26e7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/ea5a8de974478346fcf494bba7dc76298eab4704.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "22.7"
+          },
+          "Basket_ACHIEVEMENT_1_8": {
+            "name": "Basket!",
+            "description": "Score a Basket",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/f84d5f1af9fa1c4449e232724e31fb320b56e84e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/5a81fce049602bc212e3e67529892252c42c1393.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "19.0"
+          },
+          "Repairman_ACHIEVEMENT_1_9": {
+            "name": "Repairman",
+            "description": "Complete 5 Repairs",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/c2566a227ee0de7eb13be0fe3c993960c5a631e6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/7709160cf3bf71276524da4c16ffba6a9c661065.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "66.2"
+          },
+          "EndlessJunior_ACHIEVEMENT_1_10": {
+            "name": "Endless Junior",
+            "description": "Complete 5 Waves in Endless Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/a37c2b15c670663b74c841c883ae891f218f1825.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/a0e1e62b7bfc874652f296eca6363e41bcc4cb02.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.2"
+          },
+          "EndlessSenior_ACHIEVEMENT_1_11": {
+            "name": "Endless Expert",
+            "description": "Complete 15 Waves in Endless Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/c0ee27626244db21d1522cf88f4cc8b7eeaa4aa4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/0a602019b5ed6550224f6041981c6c42b3304d71.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.6"
+          },
+          "EndlessExpert_ACHIEVEMENT_1_12": {
+            "name": "Endless Master",
+            "description": "Complete 30 Waves in Endless Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/1c172fcb6155e546a9aefd6a8c7f655af345c2c9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/b135d02b27c0c7622995852c3173b5a2d3f2a02e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.3"
+          },
+          "IndeciciveMonkeys_ACHIEVEMENT_1_13": {
+            "name": "Indecisive Monkeys",
+            "description": "Roll the Dice 3 Times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/555e94c4129735c691caffee2ccaddc523c897c0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/6e81b61c3a121b4fc3967a3228fe836bf7da757c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "71.0"
+          },
+          "DrunkMonkey_ACHIEVEMENT_1_14": {
+            "name": "OUCH!",
+            "description": "Get Hit by 20 Bottles",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/fe8fcf088c6f0e4ce19901da1c90779dbaed944e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/cb3aa696316e4eb5fb6f057a97b73533bae76db2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "20.9"
+          },
+          "BraveMonkey_ACHIEVEMENT_1_15": {
+            "name": "Fearless Monkeys",
+            "description": "Choose Hard Difficulty in Custom Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/d860e5d5a0157bac32b21c21238291597dae3abb.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/023d55cdbc234f3696031085f0ce1addaa09bb8a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.0"
+          },
+          "HereWeGoAgain_ACHIEVEMENT_1_16": {
+            "name": "Here We Go Again",
+            "description": "Play the Same Level 3 Times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/9f1fbc2d98242f906543f26951d5c61ab9253dff.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/1211438ddd4d671025d1a48cc67aebd003c90b05.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "94.2"
+          },
+          "SlapManiac_ACHIEVEMENT_1_17": {
+            "name": "Slap Maniac",
+            "description": "Slap 1000 Times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/f3f067ccb64da7c742ef58da53987a4f68c05c87.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/97bdf60fe76becf73b05feb2c6a42d40caed00ef.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "1.1"
+          },
+          "PunchingBag_ACHIEVEMENT_1_18": {
+            "name": "Punching Bag",
+            "description": "Get Slapped 300 Times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/d8c7777e50a8e823729a0d480181ef84ba899dcc.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/762a9aa235491cc92e22d38763288d0ce7c93aa5.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.3"
+          },
+          "SENGUN_ACHIEVEMENT_1_19": {
+            "name": "ŞENGÜN!",
+            "description": "Score 10 Baskets",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/e9fc73ae5972f4b5d7445872b95bd746e02cb44f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/3af34bfa60577e1e7c13175cf11ae60ef6d14857.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "1.4"
+          },
+          "Fixaholic_ACHIEVEMENT_1_20": {
+            "name": "Fixaholic",
+            "description": "Complete 50 Repairs",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/79ab109151304e9f3c666295ffff05187cf717b3.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/0992172b578408359672c88be7c7ded6bcd5dc84.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "37.3"
+          },
+          "Rollaholic_ACHIEVEMENT_1_21": {
+            "name": "Rollaholic",
+            "description": "Click Dice 30 Times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/da8097858efdcdd0cb558a6717d1c62ea2259c00.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/55986eb9b40fd414555d044a84b0a76672b97b42.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "3.7"
+          },
+          "Still_ACHIEVEMENT_1_22": {
+            "name": "Still?",
+            "description": "Play the Same Level 6 Times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/89bd0c29db70cd31896820a129fda17373698905.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/6f0127117116455a476079d99e01e10b85558419.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "69.5"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "AlmostBOOM_ACHIEVEMENT_1_7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Basket_ACHIEVEMENT_1_8": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BombExpert_ACHIEVEMENT_1_4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BombJunior_ACHIEVEMENT_1_2": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BombSenior_ACHIEVEMENT_1_3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BOOM_ACHIEVEMENT_1_0": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BraveMonkey_ACHIEVEMENT_1_15": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DrunkMonkey_ACHIEVEMENT_1_14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EndlessExpert_ACHIEVEMENT_1_12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EndlessJunior_ACHIEVEMENT_1_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EndlessSenior_ACHIEVEMENT_1_11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FirstJob_ACHIEVEMENT_1_1": {
+          "earned": true,
+          "earned_time": 1791230925
+        },
+        "Fixaholic_ACHIEVEMENT_1_20": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HereWeGoAgain_ACHIEVEMENT_1_16": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "IndeciciveMonkeys_ACHIEVEMENT_1_13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PunchingBag_ACHIEVEMENT_1_18": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Repairman_ACHIEVEMENT_1_9": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Rollaholic_ACHIEVEMENT_1_21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SENGUN_ACHIEVEMENT_1_19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SlapManiac_ACHIEVEMENT_1_17": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Slapper_ACHIEVEMENT_1_6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Still_ACHIEVEMENT_1_22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WireExpert_ACHIEVEMENT_1_5": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "1887840",
       "info": {
         "appid": "1887840",
@@ -26759,6 +27073,268 @@
         "ACHIEVEMENT_99": {
           "earned": false,
           "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "3640200",
+      "info": {
+        "appid": "3640200",
+        "name": "Dawson Oaks Trailer Park",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640200/cfc3aa438d35284aea9e5081add3d968061e9653/header.jpg?t=1789830536",
+        "achievements": {
+          "ASafeCommunity": {
+            "name": "A Safe Community",
+            "description": "Successfully arrest 3 Suspects in a row without making a wrong arrest.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/b5e3fb8a9889cfa5ee09685b314b44e30a3bdf9a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/b5e3fb8a9889cfa5ee09685b314b44e30a3bdf9a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.3"
+          },
+          "BestManForTheJob": {
+            "name": "Best Man for the Job",
+            "description": "Win a round as the Snitch without completing any illegal urges or committing any crimes.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/512641ece8db2719b1e10043adb6d793492283b1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/512641ece8db2719b1e10043adb6d793492283b1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.2"
+          },
+          "ByTheBook": {
+            "name": "By The Book",
+            "description": "Win a round as the Supervisor without completing any illegal urges or committing any crimes.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/a159551ea64c45eb651734d2f7fd72dcbd10f9d6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/a159551ea64c45eb651734d2f7fd72dcbd10f9d6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "29.6"
+          },
+          "DeepCover": {
+            "name": "Deep Cover",
+            "description": "As the Snitch, have the Supervisor call the police on you.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/2e12a1821af1c8ccae194f26d1c090e3f662a6a6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/2e12a1821af1c8ccae194f26d1c090e3f662a6a6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.3"
+          },
+          "EasyWin": {
+            "name": "Easy Win",
+            "description": "Win a round as a Suspect without a single Suspect being arrested.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/fae2066671110bebb0dd2aac790065e46a4b4d1c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/fae2066671110bebb0dd2aac790065e46a4b4d1c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "39.9"
+          },
+          "SmoothCriminal": {
+            "name": "Smooth Criminal",
+            "description": "Survive 3 consecutive games as a Suspect without being arrested or voted out.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/b081697663d7916d8453d3d56679da623c3ecc50.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/b081697663d7916d8453d3d56679da623c3ecc50.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "23.9"
+          },
+          "SupplyAndCommand": {
+            "name": "Suppy And Command",
+            "description": "Sell 5 bags of weed in a single round as the Drug Dealer.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/d73096c5c10264b22d625d090aa9f8b001aadf64.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/d73096c5c10264b22d625d090aa9f8b001aadf64.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.5"
+          },
+          "Untouchable": {
+            "name": "Untouchable",
+            "description": "Win a round without ever being arrested or voted out.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/d2aae94a9fbeaaa0d5cb2b4c7d9d09ae68bb1568.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/d2aae94a9fbeaaa0d5cb2b4c7d9d09ae68bb1568.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "66.0"
+          },
+          "WinAsSnitch": {
+            "name": "Win Your First Game (Snitch)",
+            "description": "Win your first round as the Snitch.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/045309c3a2114ed3a00ce7adece8dc5c27e51c80.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/045309c3a2114ed3a00ce7adece8dc5c27e51c80.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "38.6"
+          },
+          "WinAsSupervisor": {
+            "name": "Win Your First Game (Supervisor)",
+            "description": "Win your first round as the Supervisor.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/a5012c62cc3d78490a5380b1117181d2f469ecc4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/a5012c62cc3d78490a5380b1117181d2f469ecc4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "29.6"
+          },
+          "BurnBabyBurn": {
+            "name": "Burn, Baby, Burn",
+            "description": "Burn one of every burnable item in a barrel fire as the Pyromaniac.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/f2976d9f27db17f21f9e1f8aca0fe9dee86b22fc.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/f2976d9f27db17f21f9e1f8aca0fe9dee86b22fc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.0"
+          },
+          "PlayEveryRole": {
+            "name": "Play Every Role",
+            "description": "Play every unique role at least once.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/118984e4bb05a29ebf3ee17fda1fcf620efd6309.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/118984e4bb05a29ebf3ee17fda1fcf620efd6309.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "19.8"
+          },
+          "DownTheDrain": {
+            "name": "Down The Drain",
+            "description": "Flush $20 down a toilet.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/0ead15983ba1fbdb8d97f18d83a28866bd009320.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/0ead15983ba1fbdb8d97f18d83a28866bd009320.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.0"
+          },
+          "Jackpot": {
+            "name": "Jack-pot!",
+            "description": "Win $1,000 from a slot machine.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/e7e21b7be24e0429c9ba0ee83d3c76f7d94ea4aa.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/e7e21b7be24e0429c9ba0ee83d3c76f7d94ea4aa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.2"
+          },
+          "IsYourRefrigeratorRunning": {
+            "name": "Is Your Refrigerator Running?",
+            "description": "Keep another player on a phone call for 2 continuous minutes.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/0d0f06521eb35d2bd3c9c6a1f5b7992b53a71d8e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/0d0f06521eb35d2bd3c9c6a1f5b7992b53a71d8e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.9"
+          },
+          "KnockoutBrawl": {
+            "name": "KnockoutBrawl",
+            "description": "Win the fistfight after a tied meeting vote.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/c4268583f842c16aea117c87e36dbe196e4db2cf.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/c4268583f842c16aea117c87e36dbe196e4db2cf.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.0"
+          },
+          "TrackStar": {
+            "name": "Track Star",
+            "description": "Push a shopping cart for a total of 1,000 meters across all games.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/04d27d323c362535bfa46ac6db33b7e4285c4cfd.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/04d27d323c362535bfa46ac6db33b7e4285c4cfd.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.0"
+          },
+          "WeedingOutTheCompetition": {
+            "name": "Weeding Out the Competition",
+            "description": "As the Snitch, successfully sell weed 3 times and win the round.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/a6e366d7434515a27d261b3a49274ed40af50ea8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/a6e366d7434515a27d261b3a49274ed40af50ea8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.1"
+          },
+          "BlowUpMailboxes": {
+            "name": "Blow Up 100 Mailboxes",
+            "description": "",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/19534dd26915a5cc3ab1f69474d9c51110573cf3.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3640200/19534dd26915a5cc3ab1f69474d9c51110573cf3.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "0.0"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ASafeCommunity": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BestManForTheJob": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BlowUpMailboxes": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BurnBabyBurn": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ByTheBook": {
+          "earned": true,
+          "earned_time": 1791224363
+        },
+        "DeepCover": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DownTheDrain": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EasyWin": {
+          "earned": true,
+          "earned_time": 1791237925
+        },
+        "IsYourRefrigeratorRunning": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Jackpot": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KnockoutBrawl": {
+          "earned": true,
+          "earned_time": 1791222053
+        },
+        "PlayEveryRole": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SmoothCriminal": {
+          "earned": true,
+          "earned_time": 1791238549
+        },
+        "SupplyAndCommand": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TrackStar": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Untouchable": {
+          "earned": true,
+          "earned_time": 1791236935
+        },
+        "WeedingOutTheCompetition": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WinAsSnitch": {
+          "earned": true,
+          "earned_time": 1791235449
+        },
+        "WinAsSupervisor": {
+          "earned": true,
+          "earned_time": 1791224363
         }
       }
     },

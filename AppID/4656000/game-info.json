@@ -1,0 +1,217 @@
+{
+  "appid": "4656000",
+  "name": "BOMBANANA!",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1790377390",
+  "achievements": {
+    "BOOM_ACHIEVEMENT_1_0": {
+      "name": "BOOM!",
+      "description": "First time exploding",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/f1098e3b53452c7af292cc46c6fafff933294c5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/e2b8935a1fa5e0198ee2a976ae57c6b341ca1a41.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.6"
+    },
+    "FirstJob_ACHIEVEMENT_1_1": {
+      "name": "First Defusal",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/982774ef21d0c74566a55a4717de908f9261c88c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/31693d35c51d655b78b229a7d271eaa84552b84c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.4"
+    },
+    "BombJunior_ACHIEVEMENT_1_2": {
+      "name": "Junior Defuser",
+      "description": "Complete 5 Levels",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/ba61b510277fab243fd74dcf96f416922a56b716.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/98ba02263a4104e09a06da969841f646087efa35.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.3"
+    },
+    "BombSenior_ACHIEVEMENT_1_3": {
+      "name": "Expert Defuser",
+      "description": "Complete 15 Levels",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/718fe4398aad1ccc21490324b9f36eaa3e0519e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/4b57d7ff6348bc26e33802fd017a49f97e8ed492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.9"
+    },
+    "BombExpert_ACHIEVEMENT_1_4": {
+      "name": "Master Defuser",
+      "description": "Complete 30 Levels",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/5fb03dfdc8f7b47fc05ecabb2912b05cd551cb21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/5d784899f9f4ab0d6806f25decb77f7a6ead02e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "WireExpert_ACHIEVEMENT_1_5": {
+      "name": "Wirecutting Expert",
+      "description": "Cut 5 Wires",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/71559d12168d32f8dbd70e4356012bc20b45ecb8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/15e1093b31eb080cd60f1c1d785ff061d3895530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.2"
+    },
+    "Slapper_ACHIEVEMENT_1_6": {
+      "name": "Slapper",
+      "description": "Slap 30 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/a894499610c57ac8713eb515432377df0162c2d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/0e54e2d9bed8b609870121945fe8d3ff39dbc169.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "AlmostBOOM_ACHIEVEMENT_1_7": {
+      "name": "Just in Time!",
+      "description": "Defuse the Bomb in the Last 3 Seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/8abc3eea3b6ca6a92f0465d6d4cd0964d35e26e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/ea5a8de974478346fcf494bba7dc76298eab4704.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.7"
+    },
+    "Basket_ACHIEVEMENT_1_8": {
+      "name": "Basket!",
+      "description": "Score a Basket",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/f84d5f1af9fa1c4449e232724e31fb320b56e84e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/5a81fce049602bc212e3e67529892252c42c1393.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "Repairman_ACHIEVEMENT_1_9": {
+      "name": "Repairman",
+      "description": "Complete 5 Repairs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/c2566a227ee0de7eb13be0fe3c993960c5a631e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/7709160cf3bf71276524da4c16ffba6a9c661065.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.2"
+    },
+    "EndlessJunior_ACHIEVEMENT_1_10": {
+      "name": "Endless Junior",
+      "description": "Complete 5 Waves in Endless Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/a37c2b15c670663b74c841c883ae891f218f1825.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/a0e1e62b7bfc874652f296eca6363e41bcc4cb02.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "EndlessSenior_ACHIEVEMENT_1_11": {
+      "name": "Endless Expert",
+      "description": "Complete 15 Waves in Endless Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/c0ee27626244db21d1522cf88f4cc8b7eeaa4aa4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/0a602019b5ed6550224f6041981c6c42b3304d71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "EndlessExpert_ACHIEVEMENT_1_12": {
+      "name": "Endless Master",
+      "description": "Complete 30 Waves in Endless Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/1c172fcb6155e546a9aefd6a8c7f655af345c2c9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/b135d02b27c0c7622995852c3173b5a2d3f2a02e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "IndeciciveMonkeys_ACHIEVEMENT_1_13": {
+      "name": "Indecisive Monkeys",
+      "description": "Roll the Dice 3 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/555e94c4129735c691caffee2ccaddc523c897c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/6e81b61c3a121b4fc3967a3228fe836bf7da757c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.0"
+    },
+    "DrunkMonkey_ACHIEVEMENT_1_14": {
+      "name": "OUCH!",
+      "description": "Get Hit by 20 Bottles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/fe8fcf088c6f0e4ce19901da1c90779dbaed944e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/cb3aa696316e4eb5fb6f057a97b73533bae76db2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "BraveMonkey_ACHIEVEMENT_1_15": {
+      "name": "Fearless Monkeys",
+      "description": "Choose Hard Difficulty in Custom Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/d860e5d5a0157bac32b21c21238291597dae3abb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/023d55cdbc234f3696031085f0ce1addaa09bb8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "HereWeGoAgain_ACHIEVEMENT_1_16": {
+      "name": "Here We Go Again",
+      "description": "Play the Same Level 3 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/9f1fbc2d98242f906543f26951d5c61ab9253dff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/1211438ddd4d671025d1a48cc67aebd003c90b05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.2"
+    },
+    "SlapManiac_ACHIEVEMENT_1_17": {
+      "name": "Slap Maniac",
+      "description": "Slap 1000 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/f3f067ccb64da7c742ef58da53987a4f68c05c87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/97bdf60fe76becf73b05feb2c6a42d40caed00ef.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "PunchingBag_ACHIEVEMENT_1_18": {
+      "name": "Punching Bag",
+      "description": "Get Slapped 300 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/d8c7777e50a8e823729a0d480181ef84ba899dcc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/762a9aa235491cc92e22d38763288d0ce7c93aa5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "SENGUN_ACHIEVEMENT_1_19": {
+      "name": "ŞENGÜN!",
+      "description": "Score 10 Baskets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/e9fc73ae5972f4b5d7445872b95bd746e02cb44f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/3af34bfa60577e1e7c13175cf11ae60ef6d14857.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "Fixaholic_ACHIEVEMENT_1_20": {
+      "name": "Fixaholic",
+      "description": "Complete 50 Repairs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/79ab109151304e9f3c666295ffff05187cf717b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/0992172b578408359672c88be7c7ded6bcd5dc84.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "Rollaholic_ACHIEVEMENT_1_21": {
+      "name": "Rollaholic",
+      "description": "Click Dice 30 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/da8097858efdcdd0cb558a6717d1c62ea2259c00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/55986eb9b40fd414555d044a84b0a76672b97b42.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "Still_ACHIEVEMENT_1_22": {
+      "name": "Still?",
+      "description": "Play the Same Level 6 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/89bd0c29db70cd31896820a129fda17373698905.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/6f0127117116455a476079d99e01e10b85558419.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
