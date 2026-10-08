@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/4b57d7ff6348bc26e33802fd017a49f97e8ed492.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "BombExpert_ACHIEVEMENT_1_4": {
       "name": "Master Defuser",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/5d784899f9f4ab0d6806f25decb77f7a6ead02e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "WireExpert_ACHIEVEMENT_1_5": {
       "name": "Wirecutting Expert",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/15e1093b31eb080cd60f1c1d785ff061d3895530.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "Slapper_ACHIEVEMENT_1_6": {
       "name": "Slapper",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/ea5a8de974478346fcf494bba7dc76298eab4704.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "Basket_ACHIEVEMENT_1_8": {
       "name": "Basket!",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/7709160cf3bf71276524da4c16ffba6a9c661065.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.3"
     },
     "EndlessJunior_ACHIEVEMENT_1_10": {
       "name": "Endless Junior",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/a0e1e62b7bfc874652f296eca6363e41bcc4cb02.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "EndlessSenior_ACHIEVEMENT_1_11": {
       "name": "Endless Expert",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/6e81b61c3a121b4fc3967a3228fe836bf7da757c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.0"
+      "percent": "71.1"
     },
     "DrunkMonkey_ACHIEVEMENT_1_14": {
       "name": "OUCH!",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/1211438ddd4d671025d1a48cc67aebd003c90b05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.2"
+      "percent": "94.3"
     },
     "SlapManiac_ACHIEVEMENT_1_17": {
       "name": "Slap Maniac",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/0992172b578408359672c88be7c7ded6bcd5dc84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "Rollaholic_ACHIEVEMENT_1_21": {
       "name": "Rollaholic",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4656000/6f0127117116455a476079d99e01e10b85558419.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.5"
+      "percent": "69.6"
     }
   },
   "platform": null,

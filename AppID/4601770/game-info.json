@@ -1,7 +1,7 @@
 {
   "appid": "4601770",
   "name": "BUNKER: RED FLAG",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601770/4869210825909c6206d1e1f630300d06c5ec1709/header.jpg?t=1791206081",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601770/4869210825909c6206d1e1f630300d06c5ec1709/header.jpg?t=1791410223",
   "achievements": {
     "achiv_survive": {
       "name": "I Survived? We Survived!",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4601770/58e331de56dc7844509047e02f1ce378451d36eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "achiv_conspiracy": {
       "name": "Is This Some Kind of Conspiracy?",
